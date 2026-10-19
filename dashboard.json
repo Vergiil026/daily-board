@@ -1,0 +1,2798 @@
+{
+ "generated_at": "2026-10-20T07:11:39+08:00",
+ "today": "2026-10-20",
+ "weekday": "周二",
+ "mode": "sanitized",
+ "stats": {
+  "open_todos": 43,
+  "due_today": 1,
+  "overdue": 21,
+  "upcoming": 9,
+  "undated": 12,
+  "done_todos": 8,
+  "archived": 1,
+  "open_tasks": 34,
+  "done_tasks": 53,
+  "weekly_open": 19,
+  "weekly_total": 25,
+  "mbp_items": 52,
+  "mini_items": 52,
+  "project_count": 3
+ },
+ "todos": [
+  {
+   "id": "t0",
+   "machine": "mbp",
+   "kind": "section",
+   "group": "待办项",
+   "group_id": "",
+   "title": "📋 [2026-10-18] reflector 批次开工（素材已备齐，零上下文可接手）",
+   "emoji": "📋",
+   "date": "2026-10-18",
+   "due_type": "deadline",
+   "status": "todo",
+   "priority": null,
+   "checklist": [],
+   "detail": "",
+   "source": "",
+   "reminder": "",
+   "exec": "",
+   "status_raw": "",
+   "on": [
+    "mbp",
+    "mini"
+   ]
+  },
+  {
+   "id": "t1",
+   "machine": "mbp",
+   "kind": "section",
+   "group": "待办项",
+   "group_id": "",
+   "title": "🔁 [2026-10-20] P092 三窗到期复判（due 当日必跑，防静默过期）",
+   "emoji": "🔁",
+   "date": "2026-10-20",
+   "due_type": "deadline",
+   "status": "todo",
+   "priority": null,
+   "checklist": [],
+   "detail": "",
+   "source": "",
+   "reminder": "",
+   "exec": "",
+   "status_raw": "",
+   "on": [
+    "mbp",
+    "mini"
+   ]
+  },
+  {
+   "id": "t2",
+   "machine": "mbp",
+   "kind": "section",
+   "group": "待办项",
+   "group_id": "",
+   "title": "🔁 [2026-10-15 早] 检查 HA 429 频次 → 决定 M3 Token Plan 是否升级（方案 2 观察期收官）",
+   "emoji": "🔁",
+   "date": "2026-10-15",
+   "due_type": "deadline",
+   "status": "todo",
+   "priority": null,
+   "checklist": [],
+   "detail": "",
+   "source": "",
+   "reminder": "",
+   "exec": "",
+   "status_raw": "",
+   "on": [
+    "mbp",
+    "mini"
+   ]
+  },
+  {
+   "id": "t3",
+   "machine": "mbp",
+   "kind": "section",
+   "group": "待办项",
+   "group_id": "",
+   "title": "🔁 [2026-09-13 周六 21:11 后] GLM-5.3F 评测 L1 缺口补跑 ✅ 2026-09-11 早 07:04-07:11 已提前闭合",
+   "emoji": "",
+   "date": "2026-09-13",
+   "due_type": "deadline",
+   "status": "done",
+   "priority": null,
+   "checklist": [],
+   "detail": "",
+   "source": "",
+   "reminder": "",
+   "exec": "",
+   "status_raw": "",
+   "on": [
+    "mbp",
+    "mini"
+   ]
+  },
+  {
+   "id": "t4",
+   "machine": "mbp",
+   "kind": "section",
+   "group": "待办项",
+   "group_id": "",
+   "title": "🔁 [周末] GLM-5.3F 评测阶段二（方案 §5）",
+   "emoji": "🔁",
+   "date": null,
+   "due_type": "none",
+   "status": "todo",
+   "priority": null,
+   "checklist": [],
+   "detail": "",
+   "source": "",
+   "reminder": "",
+   "exec": "",
+   "status_raw": "",
+   "on": [
+    "mbp",
+    "mini"
+   ]
+  },
+  {
+   "id": "t5",
+   "machine": "mbp",
+   "kind": "section",
+   "group": "待办项",
+   "group_id": "",
+   "title": "⚙️ [待顺手执行] MAX_CONCURRENT_SUBAGENTS=10 双机写入（audit-grill 唯一幸存升级项）",
+   "emoji": "⚙",
+   "date": null,
+   "due_type": "none",
+   "status": "todo",
+   "priority": null,
+   "checklist": [],
+   "detail": "",
+   "source": "",
+   "reminder": "",
+   "exec": "",
+   "status_raw": "",
+   "on": [
+    "mbp",
+    "mini"
+   ]
+  },
+  {
+   "id": "t6",
+   "machine": "mbp",
+   "kind": "section",
+   "group": "待办项",
+   "group_id": "",
+   "title": "📝 CC 审计 grill 备忘三条（2026-08-27）",
+   "emoji": "📝",
+   "date": null,
+   "due_type": "record",
+   "status": "todo",
+   "priority": null,
+   "checklist": [],
+   "detail": "",
+   "source": "",
+   "reminder": "",
+   "exec": "",
+   "status_raw": "",
+   "on": [
+    "mbp",
+    "mini"
+   ]
+  },
+  {
+   "id": "t7",
+   "machine": "mbp",
+   "kind": "section",
+   "group": "待办项",
+   "group_id": "",
+   "title": "⏰ [2026-09-15 到期] 智谱非高峰福利悬崖复查（9-30 截止，提前 2 周预警） ✅ 2026-09-10 已复查：悬崖不存在",
+   "emoji": "",
+   "date": "2026-09-15",
+   "due_type": "deadline",
+   "status": "done",
+   "priority": null,
+   "checklist": [],
+   "detail": "",
+   "source": "",
+   "reminder": "",
+   "exec": "",
+   "status_raw": "",
+   "on": [
+    "mbp",
+    "mini"
+   ]
+  },
+  {
+   "id": "t8",
+   "machine": "mbp",
+   "kind": "section",
+   "group": "待办项",
+   "group_id": "",
+   "title": "📋 [2026-08-03 ~ 08-09 下周计划] 工作日体系/调研/学习 + 周末标书集中",
+   "emoji": "📋",
+   "date": "2026-08-03",
+   "due_type": "window",
+   "status": "todo",
+   "priority": "P0",
+   "checklist": [],
+   "detail": "",
+   "source": "",
+   "reminder": "",
+   "exec": "",
+   "status_raw": "",
+   "on": [
+    "mbp",
+    "mini"
+   ]
+  },
+  {
+   "id": "t9",
+   "machine": "mbp",
+   "kind": "section",
+   "group": "待办项",
+   "group_id": "",
+   "title": "📋 [2026-08-02 执行计划] 明天三段式时序（grill 决策落地）",
+   "emoji": "",
+   "date": "2026-08-02",
+   "due_type": "window",
+   "status": "done",
+   "priority": null,
+   "checklist": [],
+   "detail": "",
+   "source": "",
+   "reminder": "",
+   "exec": "",
+   "status_raw": "",
+   "on": [
+    "mbp",
+    "mini"
+   ]
+  },
+  {
+   "id": "t10",
+   "machine": "mbp",
+   "kind": "section",
+   "group": "待办项",
+   "group_id": "",
+   "title": "📌 [2026-08-08 周末] 尚阳科技技术标后续跟进 ⏸️ [ARCHIVED 2026-08-30]",
+   "emoji": "",
+   "date": "2026-08-08",
+   "due_type": "window",
+   "status": "archived",
+   "priority": null,
+   "checklist": [],
+   "detail": "",
+   "source": "",
+   "reminder": "",
+   "exec": "",
+   "status_raw": "",
+   "on": [
+    "mbp",
+    "mini"
+   ]
+  },
+  {
+   "id": "t11",
+   "machine": "mbp",
+   "kind": "section",
+   "group": "待办项",
+   "group_id": "",
+   "title": "📌 [2026-08-08 提醒] 双机+桌面智能项目 · 调研阶段跟进",
+   "emoji": "📌",
+   "date": "2026-08-08",
+   "due_type": "deadline",
+   "status": "doing",
+   "priority": null,
+   "checklist": [
+    {
+     "done": false,
+     "text": "推进调研：双机协同架构（MBP+Mini 分工）+ 桌面智能助手方案选型",
+     "due": null
+    },
+    {
+     "done": false,
+     "text": "确定各模块定位：short-term-todo skill 作为\"记忆模块\"接入项目的接口设计",
+     "due": null
+    },
+    {
+     "done": false,
+     "text": "C 扩展（周末额度消耗/批量调度）独立 grill 设计——`feedback_active_push_loop_trap` 红线",
+     "due": null
+    }
+   ],
+   "detail": "",
+   "source": "",
+   "reminder": "",
+   "exec": "",
+   "status_raw": "",
+   "on": [
+    "mbp",
+    "mini"
+   ]
+  },
+  {
+   "id": "t12",
+   "machine": "mbp",
+   "kind": "section",
+   "group": "待办项",
+   "group_id": "",
+   "title": "📌 [dry-test] C扩展验证·Workflow budget机制学习",
+   "emoji": "📌",
+   "date": null,
+   "due_type": "none",
+   "status": "done",
+   "priority": null,
+   "checklist": [
+    {
+     "done": true,
+     "text": "学习 Claude Code Workflow 的 budget API 机制（budget.total / spent() / remaining()），写一段 300 字学习笔记，说明质量型停止与资源型停止的区别",
+     "due": null
+    }
+   ],
+   "detail": "",
+   "source": "",
+   "reminder": "",
+   "exec": "",
+   "status_raw": "",
+   "on": [
+    "mbp",
+    "mini"
+   ]
+  },
+  {
+   "id": "t13",
+   "machine": "mbp",
+   "kind": "section",
+   "group": "待办项",
+   "group_id": "",
+   "title": "📌 [常驻·周末C] 智能体方案学习与思考",
+   "emoji": "📌",
+   "date": null,
+   "due_type": "trigger",
+   "status": "todo",
+   "priority": null,
+   "checklist": [
+    {
+     "done": false,
+     "text": "研究多 agent 协同架构方案（Claude Code Workflow / 蜂群编排 / 双机协同）",
+     "due": null
+    },
+    {
+     "done": false,
+     "text": "思考桌面智能助手方案选型（数字分身 v3 路线 vs 全新方案）",
+     "due": null
+    },
+    {
+     "done": false,
+     "text": "产出学习笔记与新洞察，归档 OUTPUTS/weekend-study-*.md",
+     "due": null
+    }
+   ],
+   "detail": "",
+   "source": "",
+   "reminder": "",
+   "exec": "",
+   "status_raw": "",
+   "on": [
+    "mbp",
+    "mini"
+   ]
+  },
+  {
+   "id": "t14",
+   "machine": "mbp",
+   "kind": "section",
+   "group": "待办项",
+   "group_id": "",
+   "title": "📌 [常驻·周末C] 文档编写与人工智能任务",
+   "emoji": "📌",
+   "date": null,
+   "due_type": "trigger",
+   "status": "todo",
+   "priority": null,
+   "checklist": [
+    {
+     "done": true,
+     "text": "【本周主题 2026-08-02】编写《CC进阶实战：Gate-Q资质防线从事故到落地》：利迪事故→Gate-Q设计→真实验证→qual-refresh自动化→使用指南 ✅ 已完成（619行/15344字）",
+     "due": "2026-08-02"
+    },
+    {
+     "done": false,
+     "text": "【下周主题候选】CC进阶实战第2-4期：Workflow编排 / Hooks门禁 / 双机协同（各一篇）",
+     "due": "2026-02-04"
+    },
+    {
+     "done": false,
+     "text": "执行人工智能长程任务（分析/生成/研究类）",
+     "due": null
+    },
+    {
+     "done": false,
+     "text": "产出归档 OUTPUTS/weekend-doc-*.md",
+     "due": null
+    }
+   ],
+   "detail": "",
+   "source": "",
+   "reminder": "",
+   "exec": "",
+   "status_raw": "",
+   "on": [
+    "mbp",
+    "mini"
+   ]
+  },
+  {
+   "id": "t15",
+   "machine": "mbp",
+   "kind": "section",
+   "group": "待办项",
+   "group_id": "",
+   "title": "📌 [2026-08-10 提醒] Claude Code 进阶方案落地复盘",
+   "emoji": "📌",
+   "date": "2026-08-10",
+   "due_type": "deadline",
+   "status": "done",
+   "priority": "P0",
+   "checklist": [
+    {
+     "done": true,
+     "text": "P0-1 Gate-Q 资质验证门禁：gate-q.py 已实现（6项资质检查+过期/临期/缺失检测+strict模式），待填入真实数据",
+     "due": null
+    },
+    {
+     "done": true,
+     "text": "P0-2 投标方资质档案：道一/微柏/微盛/利迪 profiles/company-profile.json 已创建（字段待填）",
+     "due": null
+    },
+    {
+     "done": true,
+     "text": "P0-3 应标评估增强：IL-7 资质数据时效性铁律已加入 + Gate-A 嵌入 Gate-Q 检查 + 红旗清单已更新",
+     "due": null
+    },
+    {
+     "done": true,
+     "text": "P1-1 事故→知识闭环：利迪事故教训已写入 hermes-memory（id=446，含根因+防护措施+应用方法）",
+     "due": "2026-01-01"
+    },
+    {
+     "done": true,
+     "text": "P1-2 资质刷新定时任务：qual-refresh-check.py 已实现（URGENT/WARN/EMPTY三级预警），待接入 daily-briefing cron",
+     "due": "2026-01-02"
+    },
+    {
+     "done": true,
+     "text": "P2-1 评分预演：score-preview.py 已实现（72评分项覆盖度分析+风险项标记），接入评标知识库57专家数据",
+     "due": "2026-02-01"
+    }
+   ],
+   "detail": "",
+   "source": "",
+   "reminder": "",
+   "exec": "",
+   "status_raw": "",
+   "on": [
+    "mbp",
+    "mini"
+   ]
+  },
+  {
+   "id": "t16",
+   "machine": "mbp",
+   "kind": "section",
+   "group": "待办项",
+   "group_id": "",
+   "title": "📌 [2026-08-14 立项·机会触发] T26 两段式 vs 单 agent 对照试验（GLM-5.3 补偿性设计侵蚀验证）",
+   "emoji": "📌",
+   "date": null,
+   "due_type": "trigger",
+   "status": "todo",
+   "priority": null,
+   "checklist": [
+    {
+     "done": false,
+     "text": "下次 feature_list 多功能实现任务：同任务跑两遍（两段式 vs 单会话直跑），比质量（测试通过率/返工次数），不比速度",
+     "due": null
+    },
+    {
+     "done": false,
+     "text": "按对照结论定两段式去留：质量持平→合并（砍一层编排）；单 agent 掉质→保留（两段式有 C 类成分：扫描 read 噪声不进实现会话，无 cache 下是真省钱）",
+     "due": null
+    }
+   ],
+   "detail": "",
+   "source": "",
+   "reminder": "",
+   "exec": "",
+   "status_raw": "",
+   "on": [
+    "mbp",
+    "mini"
+   ]
+  },
+  {
+   "id": "t17",
+   "machine": "mbp",
+   "kind": "section",
+   "group": "待办项",
+   "group_id": "",
+   "title": "📌 [2026-08-15 立项·grill 决策] insights 三建议价值验证（①试跑 + ②③梳理）",
+   "emoji": "📌",
+   "date": null,
+   "due_type": "record",
+   "status": "done",
+   "priority": null,
+   "checklist": [
+    {
+     "done": true,
+     "text": "①校准跑（2026-08-15 完成）：机械层召回 5/5、LLM 视觉零召回。结论①=GO，架构=机械 rubric 主 + Playwright 溢出复核 + 人工终审（推翻 insights 的 LLM 自批判方案）。产物：`OUTPUTS/design-rubric/`（脚本+报告）",
+     "due": "2026-08-15"
+    },
+    {
+     "done": false,
+     "text": "①实战跑（机会触发）：下次信息图/报告任务启用三层循环，对比人工判版次数",
+     "due": null
+    },
+    {
+     "done": true,
+     "text": "②梳理（≤1h）：过去 30 天有无「用户必须在环导致跨机任务失败/延迟」实例？答：无（反向证据 MEMORY 791 mini-queue 0 消费冻结+用户主动避免常驻推送）→ NO-GO",
+     "due": null
+    },
+    {
+     "done": true,
+     "text": "③梳理（≤1h）：div nesting / sync ordering / shell quoting 三 bug class，30 天内已有 MEMORY 记忆仍复发≥2次？答：是（div nesting: 500388+247；sync ordering: 812+810+599271；shell quoting: 845+599287；sub-agent JSON 9-02 实证复发）→ GO",
+     "due": "2026-09-02"
+    },
+    {
+     "done": true,
+     "text": "收尾：三个 go/no-go 合一条写 hermes-memory ✅（id=870，2026-09-04，走 MCP memory_add 非直写 DB）；①实战一次后再固化 skill",
+     "due": "2026-09-04"
+    }
+   ],
+   "detail": "",
+   "source": "",
+   "reminder": "",
+   "exec": "",
+   "status_raw": "",
+   "on": [
+    "mbp",
+    "mini"
+   ]
+  },
+  {
+   "id": "t18",
+   "machine": "mbp",
+   "kind": "section",
+   "group": "待办项",
+   "group_id": "",
+   "title": "📌 [2026-08-28 立项·机会触发] 双周 digest 待办池——验证与闭环主题 5 条侧批注",
+   "emoji": "📌",
+   "date": null,
+   "due_type": "trigger",
+   "status": "todo",
+   "priority": null,
+   "checklist": [
+    {
+     "done": false,
+     "text": "Skill 引入「有/无对照实验」验证增量价值（当前多凭体感；来源：自进化飞轮文侧批注）",
+     "due": null
+    },
+    {
+     "done": false,
+     "text": "蜂群（research-swarm 等）委派补权限关系图 + 全链审计，防串联越权（来源：SDLC Playbook 文侧批注；与 agent-orchestration「权限冒泡」原则可合流）",
+     "due": null
+    },
+    {
+     "done": false,
+     "text": "ops-sentinel 产出设计「写回下一轮 Intent」闭环，不止于诊断报告（来源：SDLC Playbook 文侧批注）",
+     "due": null
+    },
+    {
+     "done": false,
+     "text": "方向性审计指标：输出风格漂移检测（来源：自进化飞轮文侧批注）",
+     "due": null
+    },
+    {
+     "done": false,
+     "text": "autodream「连续 N 期无新洞察即降频」实现状态确认（规则 4.5 已立，autodream 侧是否实现待查）",
+     "due": null
+    }
+   ],
+   "detail": "",
+   "source": "",
+   "reminder": "",
+   "exec": "",
+   "status_raw": "",
+   "on": [
+    "mbp",
+    "mini"
+   ]
+  },
+  {
+   "id": "t19",
+   "machine": "mbp",
+   "kind": "section",
+   "group": "待办项",
+   "group_id": "",
+   "title": "📌 [2026-09-03 立项·机会触发] 双周 digest 待办池——SDLC 治理三层 + archify 落地 5 条",
+   "emoji": "📌",
+   "date": null,
+   "due_type": "trigger",
+   "status": "todo",
+   "priority": null,
+   "checklist": [
+    {
+     "done": false,
+     "text": "test-runner/iterate-until-green 补「失败测试先行 + hook 禁改测试文件」护栏（防\"改测试凑绿\"；来源：SDLC 行动①）",
+     "due": null
+    },
+    {
+     "done": false,
+     "text": "配置变更（CLAUDE.md/Skills/Hooks）触发 eval 回归——`--self-test` 惯例扩展为配置门禁（来源：SDLC 行动②；与 work-standards「机械 Skill 自测」规则可合流）",
+     "due": null
+    },
+    {
+     "done": false,
+     "text": "mini-health 告警 1σ/2σ/3σ 控制带分级（来源：SDLC 行动③）",
+     "due": null
+    },
+    {
+     "done": false,
+     "text": "archify 试跑：对 Hermes 架构或 CC 孵化器目录出一张图（skill 已装未用）",
+     "due": null
+    },
+    {
+     "done": false,
+     "text": "抄 archify `diagnostics[]`+`supportedFixes` 修复 receipt 模式到 code-reviewer/fact-checker 输出",
+     "due": null
+    }
+   ],
+   "detail": "",
+   "source": "",
+   "reminder": "",
+   "exec": "",
+   "status_raw": "",
+   "on": [
+    "mbp",
+    "mini"
+   ]
+  },
+  {
+   "id": "t20",
+   "machine": "mbp",
+   "kind": "section",
+   "group": "待办项",
+   "group_id": "",
+   "title": "📌 [2026-09-30 提醒] RSI 定调验收（7 项清单）+ 双机改造 v2 裁决（同日双事）",
+   "emoji": "📌",
+   "date": "2026-09-30",
+   "due_type": "deadline",
+   "status": "todo",
+   "priority": null,
+   "checklist": [
+    {
+     "done": false,
+     "text": "按 rsi-batch skill 开工 checklist 执行 7 项验收（基线比对→认领→逐项出绿/红结论，清单见计划文件 §二）",
+     "due": null
+    },
+    {
+     "done": false,
+     "text": "全绿 → 宣布「RSI 阶段完整」转低频维持态；任一红 → 该项转新提案批，定调顺延",
+     "due": null
+    },
+    {
+     "done": false,
+     "text": "同日：双机改造 v2 方案裁决 → 已改异步三选拍板（2026-09-25 /grill Q7 裁决：裁决会解散）：9-27 R1 复核后 CC 飞书发三个选择题（①R1 观察窗续/停 ②dev-docs 收编 8→2.5 执行 GO/NO-GO ③launchd 删除清单确认），用户回三个字母即完成；方案全文 `OUTPUTS/dual-redesign-20260925/双机改造v2方案.md`（§8 grill 裁决修订为最新口径）",
+     "due": "2026-09-25"
+    },
+    {
+     "done": false,
+     "text": "注意项 7（verdicts 基线滚动 `check_verdict_drift.py --refresh`）：计划原文指定「用户交互终端」执行——届时人在 MBP 就 MBP 跑；若 Mini 代跑需先验证脚本在 Mini 可用",
+     "due": null
+    },
+    {
+     "done": false,
+     "text": "2026-08-24 09:53后：tokenplan 周配额重置复测（switch-backend.sh tokenplan → 新会话验证 → 切回 glm）",
+     "due": "2026-08-24"
+    },
+    {
+     "done": false,
+     "text": "2026-09-02 前：hermes 备份滚动脚本——给 Mini 侧生成 memories.db.bak.* 的脚本加\"保留最近 2 个\"逻辑（来源：2026-08-26 Mini 清理，人工删了 6 份 ~715M）",
+     "due": "2026-09-02"
+    },
+    {
+     "done": false,
+     "text": "2026-09-15 前：Mini ~/.npm 残留 724M root 文件——需在 Mini 前交互执行 `sudo rm -rf ~/.npm`；顺带排查 root 每天 09:17 调 npm 的来源（疑似 sangfor/ws1 终端管控，`sudo crontab -l` / launchctl 查）",
+     "due": "2026-09-15"
+    },
+    {
+     "done": true,
+     "text": "2026-08-31（周一）：恢复 Mini 后端自动切换 cron → 已废（2026-09-04 23:00 实测：与 #788 永久禁用裁决矛盾，1214 竞态前科）。当前状态：Mini plist 仍在 `~/backends-disabled/`，launchd 未加载，cron 死亡。MBP scripts 目录的尸体 plist/sh 保留不删（#788「勿再当作活任务」——launchd 不会加载，因为不在 `~/Library/LaunchAgents/`）。 23:10 神秘 load 根因未查（与当前决策无关，省略）",
+     "due": "2026-08-31"
+    },
+    {
+     "done": false,
+     "text": "2026-09-26 前：Skill Hell 审计 30 天复检——孵化期缓刑项（mmx-cli/vision-describe/wecom-unified/write-task-index/doc-factory 等 idle<30d 项）触发证据复查，跑 `python3 ~/scripts/skill-audit-collect.py` 对比；死缓 12 项处置排期评估（来源：2026-08-26 审计，报告 ~/OUTPUTS/skill-hell-audit-20260826.md）",
+     "due": "2026-09-26"
+    }
+   ],
+   "detail": "",
+   "source": "",
+   "reminder": "",
+   "exec": "",
+   "status_raw": "",
+   "on": [
+    "mbp",
+    "mini"
+   ]
+  },
+  {
+   "id": "t21",
+   "machine": "mbp",
+   "kind": "section",
+   "group": "🚀 运营专家 v1 上线计划（2026-09-06 grill 6 题定调，Q5 D 三件套已部分落地）",
+   "group_id": "g1",
+   "title": "已落地（Q5 D 三件套 A+C 部分）",
+   "emoji": "",
+   "date": null,
+   "due_type": "none",
+   "status": "done",
+   "priority": null,
+   "checklist": [
+    {
+     "done": true,
+     "text": "2026-09-06：部署 SKILL.md 到 ~/.claude/skills/operations-expert/SKILL.md（md5: 39699275b36bab4f6edaf624b05c54df）",
+     "due": "2026-09-06"
+    },
+    {
+     "done": true,
+     "text": "2026-09-06：hermes-memory ops_v1_live 索引（ID 919，779/1000）",
+     "due": "2026-09-06"
+    },
+    {
+     "done": true,
+     "text": "2026-09-06：v1-plan.md 落盘 ~/OUTPUTS/cc-mvp-2026-09/operations-expert/v1-plan.md",
+     "due": "2026-09-06"
+    },
+    {
+     "done": true,
+     "text": "2026-09-06：5 个 Python 文件 + 5/5 fixtures 通过",
+     "due": "2026-09-06"
+    }
+   ],
+   "detail": "",
+   "source": "",
+   "reminder": "",
+   "exec": "",
+   "status_raw": "",
+   "on": [
+    "mbp",
+    "mini"
+   ]
+  },
+  {
+   "id": "t22",
+   "machine": "mbp",
+   "kind": "section",
+   "group": "🚀 运营专家 v1 上线计划（2026-09-06 grill 6 题定调，Q5 D 三件套已部分落地）",
+   "group_id": "g1",
+   "title": "4 硬指标准出门槛（Q3 决策）",
+   "emoji": "",
+   "date": null,
+   "due_type": "none",
+   "status": "todo",
+   "priority": null,
+   "checklist": [
+    {
+     "done": false,
+     "text": "指标 1：运营节奏跑起来 —— 准出 2026-09-13（Day 12）。用户口头给数据 → 月报三件套（PPT+长图+HTML）≤30 分钟",
+     "due": "2026-09-13"
+    },
+    {
+     "done": false,
+     "text": "指标 2：军师判断可验证 —— 准出 2026-09-13（Day 12）。1 次达人秀/大师课选题策划方案，用户评分 ≥7/10，hermes 登记",
+     "due": "2026-09-13"
+    },
+    {
+     "done": false,
+     "text": "指标 3：数据基线 v0.1 上线 —— 准出 2026-09-20（Day 19）。4 块指标基线（应用/种子用户/培训/eLink 生态群）+ data-collector skill v0.1 + 数智工场混淆点警示",
+     "due": "2026-09-20"
+    },
+    {
+     "done": false,
+     "text": "指标 4：基础设施自愈底线 —— 准出 2026-09-20（Day 19）。Mini 9090/9091 launchd + Syncthing 健康守护，故意 kill 进程 30s 内自愈",
+     "due": "2026-09-20"
+    }
+   ],
+   "detail": "",
+   "source": "",
+   "reminder": "",
+   "exec": "",
+   "status_raw": "",
+   "on": [
+    "mbp",
+    "mini"
+   ]
+  },
+  {
+   "id": "t23",
+   "machine": "mbp",
+   "kind": "section",
+   "group": "🚀 运营专家 v1 上线计划（2026-09-06 grill 6 题定调，Q5 D 三件套已部分落地）",
+   "group_id": "g1",
+   "title": "Day-by-Day 关键节点（22 天）",
+   "emoji": "",
+   "date": null,
+   "due_type": "none",
+   "status": "todo",
+   "priority": null,
+   "checklist": [
+    {
+     "done": true,
+     "text": "2026-09-07 (Day 6 周一)：扫描【8月 交付清单】/08月运营月报/ 提取三件套模板 —— ✅ 超额完成：8月报 PPT v3.1 + HANDOFF.md 全量口径表 + SA 验收全发现；另完成 WB/SkillHub 技能调研两报告 + SkillHub CLI 及 5 技能安装 + 月报数据落盘 + WB 周报 automation 停用（workbuddy.db PAUSED，9-11 前验证不触发）+ grill 8 决策（详 hermes id 928）。⚠️ 调整：Day 7-9 的 ops-pipeline/三件套流水线排期按 9-07 grill 简化为「先",
+     "due": "2026-09-07"
+    },
+    {
+     "done": false,
+     "text": "2026-09-08 (Day 7)：建 ops-pipeline 编排器 v0.1",
+     "due": "2026-09-08"
+    },
+    {
+     "done": false,
+     "text": "2026-09-09 (Day 8)：月报三件套流水线（mock + v3.9.3 占位口径）",
+     "due": "2026-09-09"
+    },
+    {
+     "done": false,
+     "text": "2026-09-10 (Day 9)：军师模式 prompt 模板（5 视角 + ai-ops-advisor）",
+     "due": "2026-09-10"
+    },
+    {
+     "done": false,
+     "text": "2026-09-11 (Day 10)：军师 v1 mock 演练",
+     "due": "2026-09-11"
+    },
+    {
+     "done": false,
+     "text": "2026-09-13 (Day 12) ★ v1 MVP 验收 —— 指标 1+2 跑通",
+     "due": "2026-09-13"
+    },
+    {
+     "done": false,
+     "text": "2026-09-14 (Day 13)：调研 e链供创真实数据源",
+     "due": "2026-09-14"
+    },
+    {
+     "done": false,
+     "text": "2026-09-15 (Day 14)：data-collector skill v0.1",
+     "due": "2026-09-15"
+    },
+    {
+     "done": false,
+     "text": "2026-09-16-17 (Day 15-16)：数据基线 v0.1 文档骨架 + 真实数据填充 + 混淆点警示",
+     "due": "2026-09-16"
+    },
+    {
+     "done": false,
+     "text": "2026-09-19 (Day 18)：Mini 9090/9091 launchd plist + KeepAlive",
+     "due": "2026-09-19"
+    },
+    {
+     "done": false,
+     "text": "2026-09-20 (Day 19) ★ v1 完整版验收 —— 指标 3+4 跑通",
+     "due": "2026-09-20"
+    },
+    {
+     "done": false,
+     "text": "2026-09-21 (Day 20)：Syncthing 健康守护",
+     "due": "2026-09-21"
+    },
+    {
+     "done": false,
+     "text": "2026-09-22-26 (Day 21-25)：真实数据演练 + 评分验证 + 4 硬指标全验",
+     "due": "2026-09-22"
+    },
+    {
+     "done": false,
+     "text": "2026-09-27 (Day 26) ★ v1 准出验收 —— 4 硬指标全绿 + Q5-B 双机 rsync 副本",
+     "due": "2026-09-27"
+    },
+    {
+     "done": false,
+     "text": "2026-09-28 (Day 27)：v1.5 规划 + tirith 移植 sprint 启动（Q6 触发式）",
+     "due": "2026-09-28"
+    }
+   ],
+   "detail": "",
+   "source": "",
+   "reminder": "",
+   "exec": "",
+   "status_raw": "",
+   "on": [
+    "mbp",
+    "mini"
+   ]
+  },
+  {
+   "id": "t24",
+   "machine": "mbp",
+   "kind": "section",
+   "group": "🚀 运营专家 v1 上线计划（2026-09-06 grill 6 题定调，Q5 D 三件套已部分落地）",
+   "group_id": "g1",
+   "title": "不要做（grill DONT_DO）",
+   "emoji": "",
+   "date": null,
+   "due_type": "none",
+   "status": "todo",
+   "priority": null,
+   "checklist": [],
+   "detail": "",
+   "source": "",
+   "reminder": "",
+   "exec": "",
+   "status_raw": "",
+   "on": [
+    "mbp",
+    "mini"
+   ]
+  },
+  {
+   "id": "t25",
+   "machine": "mbp",
+   "kind": "section",
+   "group": "🚀 运营专家 v1 上线计划（2026-09-06 grill 6 题定调，Q5 D 三件套已部分落地）",
+   "group_id": "g1",
+   "title": "待补（Q5 D 三件套 B 部分）",
+   "emoji": "",
+   "date": null,
+   "due_type": "none",
+   "status": "todo",
+   "priority": null,
+   "checklist": [
+    {
+     "done": false,
+     "text": "2026-09-27 后：Q5-B 双机 rsync 副本 → ~/scripts/operations-expert/（不被 Syncthing 覆盖的硬副本）",
+     "due": "2026-09-27"
+    }
+   ],
+   "detail": "",
+   "source": "",
+   "reminder": "",
+   "exec": "",
+   "status_raw": "",
+   "on": [
+    "mbp",
+    "mini"
+   ]
+  },
+  {
+   "id": "t26",
+   "machine": "mbp",
+   "kind": "item",
+   "group": "2026-09-18 WeKnora 关停观察期（grill 裁决 C）",
+   "group_id": "g2",
+   "title": "P0 · 已完成 2026-09-18：修 hermes-memory `memory_search_semantic` NameError——memory-phase2 会话已修文件（category = args.get），本会话杀旧进程重载 + 离线直调 handler 验证 success:true 语义命中；残留 4 行无害重复赋值留给 memory-phase2 收尾",
+   "emoji": "",
+   "date": "2026-09-18",
+   "due_type": "deadline",
+   "status": "done",
+   "priority": "P0",
+   "checklist": [],
+   "detail": "",
+   "source": "",
+   "reminder": "",
+   "exec": "",
+   "status_raw": "",
+   "on": [
+    "mbp",
+    "mini"
+   ]
+  },
+  {
+   "id": "t27",
+   "machine": "mbp",
+   "kind": "item",
+   "group": "2026-09-18 WeKnora 关停观察期（grill 裁决 C）",
+   "group_id": "g2",
+   "title": "2026-10-18 复查线：WeKnora 关停 30 天观察到期——跑回溯（hermes-search \"WeKnora\" + 转录 grep）：≥2 次真实查询意图 → 升常驻（RESTART.md 三步起）；0-1 次 → `down -v` 永久清数据卷。详见 hermes-memory id 1063",
+   "emoji": "",
+   "date": "2026-10-18",
+   "due_type": "deadline",
+   "status": "todo",
+   "priority": null,
+   "checklist": [],
+   "detail": "",
+   "source": "",
+   "reminder": "",
+   "exec": "",
+   "status_raw": "",
+   "on": [
+    "mbp",
+    "mini"
+   ]
+  },
+  {
+   "id": "t28",
+   "machine": "mbp",
+   "kind": "item",
+   "group": "2026-10-18 RSI 复验日（7 案到期，reflector 统一跑）",
+   "group_id": "g3",
+   "title": "P002 跨机 pre-flight：人工打断 3→≤1、probe 误触率 ≤1/10",
+   "emoji": "",
+   "date": "2026-10-18",
+   "due_type": "inherited",
+   "status": "todo",
+   "priority": null,
+   "checklist": [],
+   "detail": "",
+   "source": "",
+   "reminder": "",
+   "exec": "",
+   "status_raw": "",
+   "on": [
+    "mbp",
+    "mini"
+   ]
+  },
+  {
+   "id": "t29",
+   "machine": "mbp",
+   "kind": "item",
+   "group": "2026-10-18 RSI 复验日（7 案到期，reflector 统一跑）",
+   "group_id": "g3",
+   "title": "P003 memory 钩子：跨机任务开局查询可见率 ≥2/3",
+   "emoji": "",
+   "date": "2026-10-18",
+   "due_type": "inherited",
+   "status": "todo",
+   "priority": null,
+   "checklist": [],
+   "detail": "",
+   "source": "",
+   "reminder": "",
+   "exec": "",
+   "status_raw": "",
+   "on": [
+    "mbp",
+    "mini"
+   ]
+  },
+  {
+   "id": "t30",
+   "machine": "mbp",
+   "kind": "item",
+   "group": "2026-10-18 RSI 复验日（7 案到期，reflector 统一跑）",
+   "group_id": "g3",
+   "title": "P005 coverage 门禁：doc-factory 任务假绿复发数（期望 0）",
+   "emoji": "",
+   "date": "2026-10-18",
+   "due_type": "inherited",
+   "status": "todo",
+   "priority": null,
+   "checklist": [],
+   "detail": "",
+   "source": "",
+   "reminder": "",
+   "exec": "",
+   "status_raw": "",
+   "on": [
+    "mbp",
+    "mini"
+   ]
+  },
+  {
+   "id": "t31",
+   "machine": "mbp",
+   "kind": "item",
+   "group": "2026-10-18 RSI 复验日（7 案到期，reflector 统一跑）",
+   "group_id": "g3",
+   "title": "P006 source_check：素材口径过期事故数（期望 0）",
+   "emoji": "",
+   "date": "2026-10-18",
+   "due_type": "inherited",
+   "status": "todo",
+   "priority": null,
+   "checklist": [],
+   "detail": "",
+   "source": "",
+   "reminder": "",
+   "exec": "",
+   "status_raw": "",
+   "on": [
+    "mbp",
+    "mini"
+   ]
+  },
+  {
+   "id": "t32",
+   "machine": "mbp",
+   "kind": "item",
+   "group": "2026-10-18 RSI 复验日（7 案到期，reflector 统一跑）",
+   "group_id": "g3",
+   "title": "P007 artifact_profile：成品误判处置事件数（期望 0）",
+   "emoji": "",
+   "date": "2026-10-18",
+   "due_type": "inherited",
+   "status": "todo",
+   "priority": null,
+   "checklist": [],
+   "detail": "",
+   "source": "",
+   "reminder": "",
+   "exec": "",
+   "status_raw": "",
+   "on": [
+    "mbp",
+    "mini"
+   ]
+  },
+  {
+   "id": "t33",
+   "machine": "mbp",
+   "kind": "item",
+   "group": "2026-10-18 RSI 复验日（7 案到期，reflector 统一跑）",
+   "group_id": "g3",
+   "title": "P009 swarm-qa 回流：真实蜂群 RSI_FEED 出现且 reflector 收编 ≥1 次",
+   "emoji": "",
+   "date": "2026-10-18",
+   "due_type": "inherited",
+   "status": "todo",
+   "priority": null,
+   "checklist": [],
+   "detail": "",
+   "source": "",
+   "reminder": "",
+   "exec": "",
+   "status_raw": "",
+   "on": [
+    "mbp",
+    "mini"
+   ]
+  },
+  {
+   "id": "t34",
+   "machine": "mbp",
+   "kind": "item",
+   "group": "2026-10-18 RSI 复验日（7 案到期，reflector 统一跑）",
+   "group_id": "g3",
+   "title": "GOLDEN-agents-probes + GOLDEN-r3-p0 金样本恒定性（md5 抽验）",
+   "emoji": "",
+   "date": "2026-10-18",
+   "due_type": "inherited",
+   "status": "todo",
+   "priority": null,
+   "checklist": [],
+   "detail": "",
+   "source": "",
+   "reminder": "",
+   "exec": "",
+   "status_raw": "",
+   "on": [
+    "mbp",
+    "mini"
+   ]
+  },
+  {
+   "id": "t35",
+   "machine": "mbp",
+   "kind": "item",
+   "group": "[2026-09-21] ⏰ R1 护跑与观察窗复核（例外审计修正——此前「已排」系 grep 误命中，实未排）",
+   "group_id": "g4",
+   "title": "今晨 08:35 R1 护跑：ssh mini 验 ~/OUTPUTS/loop-mini-rsi-r1/ 产物+cron 36eb354613a9 执行记录+failure-patterns-20260921-auto.md 落盘；失败当场请用户裁决「手动 --run 补跑 vs 破零人工口径」",
+   "emoji": "",
+   "date": "2026-09-21",
+   "due_type": "inherited",
+   "status": "todo",
+   "priority": null,
+   "checklist": [],
+   "detail": "",
+   "source": "",
+   "reminder": "",
+   "exec": "",
+   "status_raw": "",
+   "on": [
+    "mbp",
+    "mini"
+   ]
+  },
+  {
+   "id": "t36",
+   "machine": "mbp",
+   "kind": "item",
+   "group": "[2026-09-21] ⏰ R1 护跑与观察窗复核（例外审计修正——此前「已排」系 grep 误命中，实未排）",
+   "group_id": "g4",
+   "title": "9-27（周日）观察窗复核：owner=MBP 主会话；判据=failure-patterns-*-auto.md ≥1 份且 status≠DEGRADED；达标→P031 门解锁；不达标→排查 events 断粮（见下行）",
+   "emoji": "",
+   "date": "2026-09-27",
+   "due_type": "deadline",
+   "status": "todo",
+   "priority": null,
+   "checklist": [],
+   "detail": "",
+   "source": "",
+   "reminder": "",
+   "exec": "",
+   "status_raw": "",
+   "on": [
+    "mbp",
+    "mini"
+   ]
+  },
+  {
+   "id": "t37",
+   "machine": "mbp",
+   "kind": "item",
+   "group": "[2026-09-21] ⏰ R1 护跑与观察窗复核（例外审计修正——此前「已排」系 grep 误命中，实未排）",
+   "group_id": "g4",
+   "title": "9-26 前 events 断粮预警核查：events/failure-events.jsonl 若 9-19 后零增长属实（8 条种子 9-26 老化出 7d 窗），立案 P034 修 floor 语义或外接低频事件源——否则 R1 下周一（9-28）结构性断粮空转",
+   "emoji": "",
+   "date": "2026-09-26",
+   "due_type": "deadline",
+   "status": "todo",
+   "priority": null,
+   "checklist": [],
+   "detail": "",
+   "source": "",
+   "reminder": "",
+   "exec": "",
+   "status_raw": "",
+   "on": [
+    "mbp",
+    "mini"
+   ]
+  },
+  {
+   "id": "t38",
+   "machine": "mbp",
+   "kind": "section",
+   "group": "[2026-09-21] ⏰ R1 护跑与观察窗复核（例外审计修正——此前「已排」系 grep 误命中，实未排）",
+   "group_id": "g4",
+   "title": "📌 [2026-09-25 立项·下次会话推送确认] 双机 v2 grill 裁决后续两项（CC 下次主会话开局主动提起）",
+   "emoji": "📌",
+   "date": "2026-09-21",
+   "due_type": "inherited",
+   "status": "todo",
+   "priority": "P1",
+   "checklist": [
+    {
+     "done": false,
+     "text": "① zcode 两项 P1 派修：凭据 fail-closed（credentialCipherProvider.ts:24-38）+ env 清洗正则（execution-command.ts:36-49）——handoff 已备 `OUTPUTS/dual-redesign-20260925/handoff-to-zcode-p1fix.md`；推送确认：CC 代修 or 投 zcode 侧会话 or 用户 zcode 开工时自带",
+     "due": null
+    },
+    {
+     "done": false,
+     "text": "② 9-27 后飞书三选拍板（见上条 9-30 条目，2026-09-25 已改为异步三选）：R1 复核结论出来后 CC 主动发飞书三选，用户回三个字母",
+     "due": "2026-09-25"
+    }
+   ],
+   "detail": "",
+   "source": "",
+   "reminder": "",
+   "exec": "",
+   "status_raw": "",
+   "on": [
+    "mbp",
+    "mini"
+   ]
+  },
+  {
+   "id": "t39",
+   "machine": "mbp",
+   "kind": "item",
+   "group": "goose-mini skill 试用期盘点（2026-10-24 到期）",
+   "group_id": "g5",
+   "title": "盘点 `goose-mini` skill 真实调用次数（来源：会话历史搜 goose-run.sh）。<4 次 → 删 skill、写法降级并入 dual-machine-handbook（/grill Q4 裁决，2026-09-25）",
+   "emoji": "",
+   "date": "2026-09-25",
+   "due_type": "deadline",
+   "status": "todo",
+   "priority": null,
+   "checklist": [],
+   "detail": "",
+   "source": "",
+   "reminder": "",
+   "exec": "",
+   "status_raw": "",
+   "on": [
+    "mbp",
+    "mini"
+   ]
+  },
+  {
+   "id": "t40",
+   "machine": "mbp",
+   "kind": "item",
+   "group": "ha-review 补充盘点项（2026-10-24，验收 SA 发现，均非阻塞）",
+   "group_id": "g6",
+   "title": "Mini /tmp/ha-review-usage-*.json 只增不删 → 加清理或改 tmpfs 短路径",
+   "emoji": "",
+   "date": "2026-10-24",
+   "due_type": "inherited",
+   "status": "todo",
+   "priority": null,
+   "checklist": [],
+   "detail": "",
+   "source": "",
+   "reminder": "",
+   "exec": "",
+   "status_raw": "",
+   "on": [
+    "mbp",
+    "mini"
+   ]
+  },
+  {
+   "id": "t41",
+   "machine": "mbp",
+   "kind": "item",
+   "group": "ha-review 补充盘点项（2026-10-24，验收 SA 发现，均非阻塞）",
+   "group_id": "g6",
+   "title": "本地 /tmp/ha-review-last-usage.json 固定名 → 并发会互相覆盖，改 mktemp",
+   "emoji": "",
+   "date": "2026-10-24",
+   "due_type": "inherited",
+   "status": "todo",
+   "priority": null,
+   "checklist": [],
+   "detail": "",
+   "source": "",
+   "reminder": "",
+   "exec": "",
+   "status_raw": "",
+   "on": [
+    "mbp",
+    "mini"
+   ]
+  },
+  {
+   "id": "t42",
+   "machine": "mbp",
+   "kind": "item",
+   "group": "ha-review 补充盘点项（2026-10-24，验收 SA 发现，均非阻塞）",
+   "group_id": "g6",
+   "title": "SKILL.md 纪律#1 补写「还 source 了 goose/.env」避免文档漂移",
+   "emoji": "",
+   "date": "2026-10-24",
+   "due_type": "inherited",
+   "status": "todo",
+   "priority": null,
+   "checklist": [],
+   "detail": "",
+   "source": "",
+   "reminder": "",
+   "exec": "",
+   "status_raw": "",
+   "on": [
+    "mbp",
+    "mini"
+   ]
+  },
+  {
+   "id": "t43",
+   "machine": "mbp",
+   "kind": "item",
+   "group": "[2026-09-26] P055-P057 omlx 预筛 30 天观测窗（merge 签字当日开窗）",
+   "group_id": "g7",
+   "title": "2026-10-26 盘点：guardian 预筛留痕 snapshots/omlx-prefilter-log.jsonl 抽查——安全漏判（期望高危答低危）=0 是唯一红线；triage 分级偏差/语义分歧超阈值（2/3）则回 P057 修订",
+   "emoji": "",
+   "date": "2026-10-26",
+   "due_type": "deadline",
+   "status": "todo",
+   "priority": null,
+   "checklist": [],
+   "detail": "",
+   "source": "",
+   "reminder": "",
+   "exec": "",
+   "status_raw": "",
+   "on": [
+    "mbp",
+    "mini"
+   ]
+  },
+  {
+   "id": "t44",
+   "machine": "mbp",
+   "kind": "item",
+   "group": "[2026-09-26] P055-P057 omlx 预筛 30 天观测窗（merge 签字当日开窗）",
+   "group_id": "g7",
+   "title": "2026-10-24 一并盘点（Q4 既有项）：goose-mini + ha-review 试用期计数（ha-review .usage.log wc -l）",
+   "emoji": "",
+   "date": "2026-10-24",
+   "due_type": "deadline",
+   "status": "todo",
+   "priority": null,
+   "checklist": [],
+   "detail": "",
+   "source": "",
+   "reminder": "",
+   "exec": "",
+   "status_raw": "",
+   "on": [
+    "mbp",
+    "mini"
+   ]
+  },
+  {
+   "id": "t45",
+   "machine": "mbp",
+   "kind": "item",
+   "group": "[2026-09-29] P063 观察窗到期核查（2026-09-29 放行，6 个月窗）",
+   "group_id": "g8",
+   "title": "2027-03-29 提醒：P063（fingerprint_ref 版本绑定）观察窗到期——核对 attempts.jsonl 内 fingerprint_ref 落盘数 ≥3 条（不足=OBSERVE 归档）+ 误用数（md5 变更且 ref 仍被引用=≥1 起 FAIL）；FAIL/OBSERVE 归档时删 verifier §1.2 与 rsi-batch ⑥ 提示行并追加失效锚行。提案：",
+   "emoji": "",
+   "date": "2027-03-29",
+   "due_type": "deadline",
+   "status": "todo",
+   "priority": null,
+   "checklist": [],
+   "detail": "",
+   "source": "",
+   "reminder": "",
+   "exec": "",
+   "status_raw": "",
+   "on": [
+    "mbp",
+    "mini"
+   ]
+  },
+  {
+   "id": "t46",
+   "machine": "mbp",
+   "kind": "item",
+   "group": "[2026-09-30] ⏰ 2026-10-07 主动汇报 Phase 2 开工 + HA P0 修复核查",
+   "group_id": "g9",
+   "title": "Phase 2 开工（前提：Mini 侧事件量已跑满一周）：版本号日探针 + 死卡自动降级 + severity 路由进 digest——全量清单见 hermes 记忆 id 1236",
+   "emoji": "",
+   "date": "2026-10-07",
+   "due_type": "inherited",
+   "status": "todo",
+   "priority": null,
+   "checklist": [],
+   "detail": "",
+   "source": "",
+   "reminder": "",
+   "exec": "",
+   "status_raw": "",
+   "on": [
+    "mbp",
+    "mini"
+   ]
+  },
+  {
+   "id": "t47",
+   "machine": "mbp",
+   "kind": "item",
+   "group": "[2026-09-30] ⏰ 2026-10-07 主动汇报 Phase 2 开工 + HA P0 修复核查",
+   "group_id": "g9",
+   "title": "同日核查 HA P0 三件套是否已被修复：hermes create 通道故障（ImportError anthropic，四度复现）见 hermes 记忆 id 1237；修复前 HA P0 派发保持 blocked",
+   "emoji": "",
+   "date": "2026-10-07",
+   "due_type": "inherited",
+   "status": "todo",
+   "priority": "P0",
+   "checklist": [],
+   "detail": "",
+   "source": "",
+   "reminder": "",
+   "exec": "",
+   "status_raw": "",
+   "on": [
+    "mbp",
+    "mini"
+   ]
+  },
+  {
+   "id": "t48",
+   "machine": "mbp",
+   "kind": "item",
+   "group": "[2026-10-12] ⏰ RSI 文档域 A2/B2 断言回看（P120/P121 落地日开窗，2026-10-26 到期）",
+   "group_id": "g10",
+   "title": "P121 行为断言：`python3 ~/.claude/dev-docs/active/rsi/scripts/validate_doc_rework.py` 后字段级计数——doc-rework.jsonl 数据行 >21 且新增行非人工补登（= 飞轮首次自转的咔哒声）；若期间有手册任务交付却仍 21 → P121 接线未生效，排查验收→登记触发遗漏",
+   "emoji": "",
+   "date": "2026-10-26",
+   "due_type": "inherited",
+   "status": "todo",
+   "priority": null,
+   "checklist": [],
+   "detail": "",
+   "source": "",
+   "reminder": "",
+   "exec": "",
+   "status_raw": "",
+   "on": [
+    "mbp",
+    "mini"
+   ]
+  },
+  {
+   "id": "t49",
+   "machine": "mbp",
+   "kind": "item",
+   "group": "[2026-10-12] ⏰ RSI 文档域 A2/B2 断言回看（P120/P121 落地日开窗，2026-10-26 到期）",
+   "group_id": "g10",
+   "title": "P120 断言 3（基线已重锚 2026-10-12）：字段级 `root_cause=='判据模糊'` 且 `timestamp>=2026-10-11`（P120 合入日）的行数——回看时窗口新增 ≤1。注意：10-12 回溯补录了 10-09/10 的 8 行（含判据模糊 5 行，timestamp 早于窗口不计入；累计 10 仅作背景值，禁裸 grep——L1 schema 行 `_des",
+   "emoji": "",
+   "date": "2026-10-12",
+   "due_type": "deadline",
+   "status": "todo",
+   "priority": null,
+   "checklist": [],
+   "detail": "",
+   "source": "",
+   "reminder": "",
+   "exec": "",
+   "status_raw": "",
+   "on": [
+    "mbp",
+    "mini"
+   ]
+  },
+  {
+   "id": "t50",
+   "machine": "mbp",
+   "kind": "item",
+   "group": "[2026-10-12] ⏰ RSI 文档域 A2/B2 断言回看（P120/P121 落地日开窗，2026-10-26 到期）",
+   "group_id": "g10",
+   "title": "A 层（rw6 生成器）进度核对：Q1 已裁「A 层才是主目标」，回看时核对建设进度（见 doc-selfiteration 任务卡 A 层条目）",
+   "emoji": "",
+   "date": "2026-10-26",
+   "due_type": "inherited",
+   "status": "todo",
+   "priority": null,
+   "checklist": [],
+   "detail": "",
+   "source": "",
+   "reminder": "",
+   "exec": "",
+   "status_raw": "",
+   "on": [
+    "mbp",
+    "mini"
+   ]
+  },
+  {
+   "id": "t51",
+   "machine": "mbp",
+   "kind": "item",
+   "group": "[2026-10-12] ⏰ RSI 文档域 A2/B2 断言回看（P120/P121 落地日开窗，2026-10-26 到期）",
+   "group_id": "g10",
+   "title": "2026-10-21 P131/P132 观察窗龄满 2 天——MERGE 门开，可签 merge（用户裁决 A 等窗满；详情 PENDING.md L24/L25，窗 13 回收判据用 MUST_LINE_SNIPPET 口径）",
+   "emoji": "",
+   "date": "2026-10-21",
+   "due_type": "deadline",
+   "status": "todo",
+   "priority": null,
+   "checklist": [],
+   "detail": "",
+   "source": "",
+   "reminder": "",
+   "exec": "",
+   "status_raw": "",
+   "on": [
+    "mbp",
+    "mini"
+   ]
+  }
+ ],
+ "groups": [
+  {
+   "id": "g0",
+   "machine": "mbp",
+   "title": "",
+   "emoji": "",
+   "bracket": "",
+   "date": null,
+   "due_type": "none",
+   "child_ids": [],
+   "inherit": false,
+   "child_count": 0,
+   "open_count": 0,
+   "on": [
+    "mbp",
+    "mini"
+   ]
+  },
+  {
+   "id": "g1",
+   "machine": "mbp",
+   "title": "🚀 运营专家 v1 上线计划（2026-09-06 grill 6 题定调，Q5 D 三件套已部分落地）",
+   "emoji": "🚀",
+   "bracket": "",
+   "date": "2026-09-06",
+   "due_type": "deadline",
+   "child_ids": [],
+   "inherit": false,
+   "child_count": 5,
+   "open_count": 4,
+   "on": [
+    "mbp",
+    "mini"
+   ]
+  },
+  {
+   "id": "g2",
+   "machine": "mbp",
+   "title": "2026-09-18 WeKnora 关停观察期（grill 裁决 C）",
+   "emoji": "",
+   "bracket": "",
+   "date": "2026-09-18",
+   "due_type": "deadline",
+   "child_ids": [
+    "mbp-i26",
+    "mbp-i27"
+   ],
+   "inherit": false,
+   "child_count": 2,
+   "open_count": 1,
+   "on": [
+    "mbp",
+    "mini"
+   ]
+  },
+  {
+   "id": "g3",
+   "machine": "mbp",
+   "title": "2026-10-18 RSI 复验日（7 案到期，reflector 统一跑）",
+   "emoji": "",
+   "bracket": "",
+   "date": "2026-10-18",
+   "due_type": "deadline",
+   "child_ids": [
+    "mbp-i28",
+    "mbp-i29",
+    "mbp-i30",
+    "mbp-i31",
+    "mbp-i32",
+    "mbp-i33",
+    "mbp-i34"
+   ],
+   "inherit": true,
+   "child_count": 7,
+   "open_count": 7,
+   "on": [
+    "mbp",
+    "mini"
+   ]
+  },
+  {
+   "id": "g4",
+   "machine": "mbp",
+   "title": "[2026-09-21] ⏰ R1 护跑与观察窗复核（例外审计修正——此前「已排」系 grep 误命中，实未排）",
+   "emoji": "",
+   "bracket": "2026-09-21",
+   "date": "2026-09-21",
+   "due_type": "deadline",
+   "child_ids": [
+    "mbp-i35",
+    "mbp-i36",
+    "mbp-i37"
+   ],
+   "inherit": true,
+   "child_count": 4,
+   "open_count": 4,
+   "on": [
+    "mbp",
+    "mini"
+   ]
+  },
+  {
+   "id": "g5",
+   "machine": "mbp",
+   "title": "goose-mini skill 试用期盘点（2026-10-24 到期）",
+   "emoji": "",
+   "bracket": "",
+   "date": "2026-10-24",
+   "due_type": "deadline",
+   "child_ids": [
+    "mbp-i39"
+   ],
+   "inherit": true,
+   "child_count": 1,
+   "open_count": 1,
+   "on": [
+    "mbp",
+    "mini"
+   ]
+  },
+  {
+   "id": "g6",
+   "machine": "mbp",
+   "title": "ha-review 补充盘点项（2026-10-24，验收 SA 发现，均非阻塞）",
+   "emoji": "",
+   "bracket": "",
+   "date": "2026-10-24",
+   "due_type": "deadline",
+   "child_ids": [
+    "mbp-i40",
+    "mbp-i41",
+    "mbp-i42"
+   ],
+   "inherit": true,
+   "child_count": 3,
+   "open_count": 3,
+   "on": [
+    "mbp",
+    "mini"
+   ]
+  },
+  {
+   "id": "g7",
+   "machine": "mbp",
+   "title": "[2026-09-26] P055-P057 omlx 预筛 30 天观测窗（merge 签字当日开窗）",
+   "emoji": "",
+   "bracket": "2026-09-26",
+   "date": "2026-09-26",
+   "due_type": "deadline",
+   "child_ids": [
+    "mbp-i43",
+    "mbp-i44"
+   ],
+   "inherit": false,
+   "child_count": 2,
+   "open_count": 2,
+   "on": [
+    "mbp",
+    "mini"
+   ]
+  },
+  {
+   "id": "g8",
+   "machine": "mbp",
+   "title": "[2026-09-29] P063 观察窗到期核查（2026-09-29 放行，6 个月窗）",
+   "emoji": "",
+   "bracket": "2026-09-29",
+   "date": "2026-09-29",
+   "due_type": "deadline",
+   "child_ids": [
+    "mbp-i45"
+   ],
+   "inherit": true,
+   "child_count": 1,
+   "open_count": 1,
+   "on": [
+    "mbp",
+    "mini"
+   ]
+  },
+  {
+   "id": "g9",
+   "machine": "mbp",
+   "title": "[2026-09-30] ⏰ 2026-10-07 主动汇报 Phase 2 开工 + HA P0 修复核查",
+   "emoji": "",
+   "bracket": "2026-09-30",
+   "date": "2026-10-07",
+   "due_type": "deadline",
+   "child_ids": [
+    "mbp-i46",
+    "mbp-i47"
+   ],
+   "inherit": true,
+   "child_count": 2,
+   "open_count": 2,
+   "on": [
+    "mbp",
+    "mini"
+   ]
+  },
+  {
+   "id": "g10",
+   "machine": "mbp",
+   "title": "[2026-10-12] ⏰ RSI 文档域 A2/B2 断言回看（P120/P121 落地日开窗，2026-10-26 到期）",
+   "emoji": "",
+   "bracket": "2026-10-12",
+   "date": "2026-10-26",
+   "due_type": "deadline",
+   "child_ids": [
+    "mbp-i48",
+    "mbp-i49",
+    "mbp-i50",
+    "mbp-i51"
+   ],
+   "inherit": true,
+   "child_count": 4,
+   "open_count": 4,
+   "on": [
+    "mbp",
+    "mini"
+   ]
+  }
+ ],
+ "tasks": [
+  {
+   "project": "e链数享四册-rw2",
+   "phase": "Phase 1 基线池（T1-T2）",
+   "id": "",
+   "done": true,
+   "text": "T1 dev-docs-full 建立 + progress.md 骨架 + 叙事稿 provisional 落盘",
+   "estimate": ""
+  },
+  {
+   "project": "e链数享四册-rw2",
+   "phase": "Phase 1 基线池（T1-T2）",
+   "id": "",
+   "done": true,
+   "text": "T2 提取器：v2.32→11 章 md 池+394 图+表格感知；基线01 五册→叙事参考池（SELFTEST PASS + 实跑 11 章）",
+   "estimate": ""
+  },
+  {
+   "project": "e链数享四册-rw2",
+   "phase": "Phase 2 四册生产（T3-T5）",
+   "id": "",
+   "done": true,
+   "text": "T3 装配器 build_docx.py（TOC 域 fldChar+页码域+七件套样式+受控清洗，SELFTEST PASS）",
+   "estimate": ""
+  },
+  {
+   "project": "e链数享四册-rw2",
+   "phase": "Phase 2 四册生产（T3-T5）",
+   "id": "",
+   "done": true,
+   "text": "T4 Workflow：四册并行起草（册①②③×5 写手）→装配→验收（2026-10-06）",
+   "estimate": ""
+  },
+  {
+   "project": "e链数享四册-rw2",
+   "phase": "Phase 2 四册生产（T3-T5）",
+   "id": "",
+   "done": true,
+   "text": "T5 修复 loop（FAIL→修复→复验，≤2 轮或预算内）（2026-10-06）",
+   "estimate": ""
+  },
+  {
+   "project": "e链数享四册-rw2",
+   "phase": "Phase 3 收口（T6-T9）",
+   "id": "",
+   "done": true,
+   "text": "T6 选册导航图回填（data.json 实测单源+字节对账+HTML 适配）（2026-10-06）",
+   "estimate": ""
+  },
+  {
+   "project": "e链数享四册-rw2",
+   "phase": "Phase 3 收口（T6-T9）",
+   "id": "",
+   "done": true,
+   "text": "T7 交付说明+md5 清单落 OUTPUTS/v232交付基线03/（2026-10-06）",
+   "estimate": ""
+  },
+  {
+   "project": "e链数享四册-rw2",
+   "phase": "Phase 3 收口（T6-T9）",
+   "id": "",
+   "done": true,
+   "text": "T8 HA 终审（ha-liaison，意见=建议）——FAIL 条件性→联络员逐条核实改判 PASS；3 依据 1 转写错/1 算数误读/1 本地否证；意见全文 ~/OUTPUTS/ha-liaison/20261006-elink4books-rw2.md",
+   "estimate": ""
+  },
+  {
+   "project": "e链数享四册-rw2",
+   "phase": "Phase 3 收口（T6-T9）",
+   "id": "",
+   "done": false,
+   "text": "T9 Done when 全勾核对 → 用户验收 → 归档（rw3 轮已交付 OUTPUTS/v232交付基线04/，RSI 沉淀完成，等用户实测验收）",
+   "estimate": ""
+  },
+  {
+   "project": "e链数享四册-rw2",
+   "phase": "rw3 轮（2026-10-06/07，用户验收否决驱动）",
+   "id": "",
+   "done": true,
+   "text": "T10 四基准提取+SPEC §四A 常设门（优秀01/02+操作参考01/02 全实读落 bench/）",
+   "estimate": ""
+  },
+  {
+   "project": "e链数享四册-rw2",
+   "phase": "rw3 轮（2026-10-06/07，用户验收否决驱动）",
+   "id": "",
+   "done": true,
+   "text": "T11 rw3 Workflow：6 写手基准对齐迭代→装配→验收（首轮三验收员 stall 假绿→纯验收小流水线真验）→修复 R1+R2",
+   "estimate": ""
+  },
+  {
+   "project": "e链数享四册-rw2",
+   "phase": "rw3 轮（2026-10-06/07，用户验收否决驱动）",
+   "id": "",
+   "done": true,
+   "text": "T12 册④ 图渲染 220/229 修复（GIF 换底+图像防吞并）→ 229/229",
+   "estimate": ""
+  },
+  {
+   "project": "e链数享四册-rw2",
+   "phase": "rw3 轮（2026-10-06/07，用户验收否决驱动）",
+   "id": "",
+   "done": true,
+   "text": "T13 基线04 打包（12 件+基准对照表随件）+ RSI 沉淀（复盘 #8-#11）",
+   "estimate": ""
+  },
+  {
+   "project": "e链数享四册-rw2",
+   "phase": "Done when",
+   "id": "",
+   "done": false,
+   "text": "D1-D7 全部有证据勾选（见 plan.md 完成验证表）",
+   "estimate": ""
+  },
+  {
+   "project": "rsi体系进化与双机评估20261006",
+   "phase": "Phase 0: 基线盘点与 MVP 场景对齐",
+   "id": "T-001",
+   "done": true,
+   "text": "读既有 dev-docs 四任务 + 近 3 日 RSI 记忆，产出基线摘要",
+   "estimate": "0.5h"
+  },
+  {
+   "project": "rsi体系进化与双机评估20261006",
+   "phase": "Phase 0: 基线盘点与 MVP 场景对齐",
+   "id": "T-002",
+   "done": true,
+   "text": "完成 plan.md A1/A4 规格实测回填",
+   "estimate": "0.5h"
+  },
+  {
+   "project": "rsi体系进化与双机评估20261006",
+   "phase": "Phase 0: 基线盘点与 MVP 场景对齐",
+   "id": "T-003",
+   "done": true,
+   "text": "与用户对齐 MVP 场景候选与各阶段完成标准",
+   "estimate": "0.5h, 依赖: T-001"
+  },
+  {
+   "project": "rsi体系进化与双机评估20261006",
+   "phase": "Phase 1: RSI 作用与场景输出——3 个 MVP",
+   "id": "T-010",
+   "done": true,
+   "text": "RSI 作用面成文（夜批 reflector/六件套/ledger）",
+   "estimate": "1h, 依赖: T-003"
+  },
+  {
+   "project": "rsi体系进化与双机评估20261006",
+   "phase": "Phase 1: RSI 作用与场景输出——3 个 MVP",
+   "id": "T-011",
+   "done": true,
+   "text": "MVP-A 评标/标书域失败自愈实装 + 自测证据  — ⚠️ DONE_WITH_CONCERNS: 三脚本 self-test 全绿（主会话独立复跑）+ 端到端出 4 簇/1 提案草稿；concerns=真实事件级样本 0 条（三层精度门收紧后，历史真样本在备份区/词汇异形区）→ fixtures 兜底，草稿已如实披露并建议接入评标 PostToolUse 积累真样本——MVP 机制可运行但域证据待真实任务补",
+   "estimate": "2.5h"
+  },
+  {
+   "project": "rsi体系进化与双机评估20261006",
+   "phase": "Phase 1: RSI 作用与场景输出——3 个 MVP",
+   "id": "T-012",
+   "done": true,
+   "text": "MVP-B 双机漂移自愈实装 + 自测证据",
+   "estimate": "2h"
+  },
+  {
+   "project": "rsi体系进化与双机评估20261006",
+   "phase": "Phase 1: RSI 作用与场景输出——3 个 MVP",
+   "id": "T-013",
+   "done": true,
+   "text": "MVP-C 记忆治理自愈实装 + 自测证据",
+   "estimate": "2h"
+  },
+  {
+   "project": "rsi体系进化与双机评估20261006",
+   "phase": "Phase 1: RSI 作用与场景输出——3 个 MVP",
+   "id": "T-014",
+   "done": true,
+   "text": "四 MVP 对抗验证（3 lens，换模型族互查）",
+   "estimate": "1.5h, 依赖: T-011,T-012,T-013,T-015"
+  },
+  {
+   "project": "rsi体系进化与双机评估20261006",
+   "phase": "Phase 1: RSI 作用与场景输出——3 个 MVP",
+   "id": "T-015",
+   "done": true,
+   "text": "MVP-D cron/管线僵尸检测自愈实装 + 自测证据",
+   "estimate": "2h"
+  },
+  {
+   "project": "rsi体系进化与双机评估20261006",
+   "phase": "Phase 2: 三 agents 进化盘点 + 自动化接驳编排",
+   "id": "T-020",
+   "done": true,
+   "text": "三 agents 现状盘点",
+   "estimate": "1h, 依赖: T-001"
+  },
+  {
+   "project": "rsi体系进化与双机评估20261006",
+   "phase": "Phase 2: 三 agents 进化盘点 + 自动化接驳编排",
+   "id": "T-021",
+   "done": true,
+   "text": "自动化接驳编排设计",
+   "estimate": "2h, 依赖: T-020"
+  },
+  {
+   "project": "rsi体系进化与双机评估20261006",
+   "phase": "Phase 2: 三 agents 进化盘点 + 自动化接驳编排",
+   "id": "T-022",
+   "done": true,
+   "text": "编排落地 + 实测一轮触发闭环",
+   "estimate": "2h, 依赖: T-021"
+  },
+  {
+   "project": "rsi体系进化与双机评估20261006",
+   "phase": "Phase 3: agents-master 进化——联动三 agents",
+   "id": "T-030",
+   "done": true,
+   "text": "判据引擎扩展（模式 15/16 + ha-liaison 通道入路由）",
+   "estimate": "2h, 依赖: T-021"
+  },
+  {
+   "project": "rsi体系进化与双机评估20261006",
+   "phase": "Phase 3: agents-master 进化——联动三 agents",
+   "id": "T-031",
+   "done": true,
+   "text": "路由卡 schema 增三 agents 联动字段",
+   "estimate": "1h, 依赖: T-030"
+  },
+  {
+   "project": "rsi体系进化与双机评估20261006",
+   "phase": "Phase 3: agents-master 进化——联动三 agents",
+   "id": "T-032",
+   "done": true,
+   "text": "端到端闭环验证（路由卡→三 agents 执行→回填）",
+   "estimate": "1.5h, 依赖: T-031"
+  },
+  {
+   "project": "rsi体系进化与双机评估20261006",
+   "phase": "Phase 4: mod 并入三体系",
+   "id": "T-040",
+   "done": true,
+   "text": "提炼 OPS-20261004 mod 终审结论为并入 spec",
+   "estimate": "1h"
+  },
+  {
+   "project": "rsi体系进化与双机评估20261006",
+   "phase": "Phase 4: mod 并入三体系",
+   "id": "T-041",
+   "done": true,
+   "text": "mod → RSI/三 agents/agents-master 三接入点实装",
+   "estimate": "3h, 依赖: T-040"
+  },
+  {
+   "project": "rsi体系进化与双机评估20261006",
+   "phase": "Phase 4: mod 并入三体系",
+   "id": "T-042",
+   "done": true,
+   "text": "并入后行为无回归对抗验证  — ⚠️ DONE_WITH_CONCERNS（冲突回退后重建：held_in 全过 validate 复跑绿/零差异/双机一致；留观=新会话加载实证+7 天过卡率+15s 快轮开销，context.md 12:4x 条在案）",
+   "estimate": "1h, 依赖: T-041"
+  },
+  {
+   "project": "rsi体系进化与双机评估20261006",
+   "phase": "Phase 5: 双机整套体系评估收口",
+   "id": "T-050",
+   "done": true,
+   "text": "Mini 可达性探测 + 双机实测盘点",
+   "estimate": "1h"
+  },
+  {
+   "project": "rsi体系进化与双机评估20261006",
+   "phase": "Phase 5: 双机整套体系评估收口",
+   "id": "T-051",
+   "done": true,
+   "text": "《双机体系评估报告》产出落 OUTPUTS",
+   "estimate": "2.5h, 依赖: T-050"
+  },
+  {
+   "project": "rsi体系进化与双机评估20261006",
+   "phase": "Phase 5: 双机整套体系评估收口",
+   "id": "T-052",
+   "done": true,
+   "text": "全任务收口 + 关卡 B 用户签字",
+   "estimate": ""
+  },
+  {
+   "project": "rsi体系进化与双机评估20261006",
+   "phase": "增补任务（2026-10-06 立项：跨会话情报 digest §④ + claude agents 实测并入）",
+   "id": "T-060",
+   "done": true,
+   "text": "路由池 pending 卡分诊  — ⚠️ DONE_WITH_CONCERNS: 分诊由 3f 蜂群产出 master-cards.md（109 行）完成——实测池内 pending 36（主会话复核）：30 张超 48h 逐张列明（26 张系 10-01 15 分钟连发残留 session=null）+ 2 张 PENDING_USER 批准门 + 5 张 09 月老卡 + 1 张临界；机械回填 0 张有据（uuid 全池证据检索零",
+   "estimate": "2h, 归属: Phase 2/goal 2"
+  },
+  {
+   "project": "rsi体系进化与双机评估20261006",
+   "phase": "增补任务（2026-10-06 立项：跨会话情报 digest §④ + claude agents 实测并入）",
+   "id": "T-061",
+   "done": true,
+   "text": "executor 三态漂移规范化提案（走六件套环，goal 2 前置）  — ⚠️ DONE_WITH_CONCERNS: 提案草稿落盘（含 executor_fingerprint 必填/三态对账门/冒名检测三件+可证伪 Prediction+兼容性 Rollback）；concerns=guardian 审查未跑（3f verifier 蜂群正占 ledger 容量，且本草稿改 gated 域三处须正式六件套环）——转 rsi-ba",
+   "estimate": "1.5h, 归属: Phase 2/goal 2"
+  },
+  {
+   "project": "rsi体系进化与双机评估20261006",
+   "phase": "增补任务（2026-10-06 立项：跨会话情报 digest §④ + claude agents 实测并入）",
+   "id": "T-062",
+   "done": true,
+   "text": "三 agents 接驳以 rsi_claim_lock 为并发底座",
+   "estimate": "1h, 归属: Phase 2/goal 2-3"
+  },
+  {
+   "project": "rsi体系进化与双机评估20261006",
+   "phase": "增补任务（2026-10-06 立项：跨会话情报 digest §④ + claude agents 实测并入）",
+   "id": "T-063",
+   "done": true,
+   "text": "协调 mod模式可行性 会话确认 mod 并入边界防双头改",
+   "estimate": "0.5h, 归属: Phase 4 前置/goal 4"
+  },
+  {
+   "project": "rsi体系进化与双机评估20261006",
+   "phase": "增补任务（2026-10-06 立项：跨会话情报 digest §④ + claude agents 实测并入）",
+   "id": "T-064",
+   "done": true,
+   "text": "mod 常驻化收口",
+   "estimate": "2h, 归属: Phase 4/goal 4"
+  },
+  {
+   "project": "rsi体系进化与双机评估20261006",
+   "phase": "增补任务（2026-10-06 立项：跨会话情报 digest §④ + claude agents 实测并入）",
+   "id": "T-065",
+   "done": false,
+   "text": "夜跑转正裁决材料（路径已由 d7 明确：10-07 晨检 `bash ~/scripts/rsi-night-morning-check.sh` fail_streak=0 → 翻 DRY_RUN=0；10-08 晚切 v0.2 writer 链+verifier pilot（verdict 落 verdicts-night/、drafts 不占 P 编号、夜验封顶 NIGHT-PRELIM）；两晚 PASS 在档：10-05 手动+1",
+   "estimate": "1h, 归属: Phase 1/goal 1"
+  },
+  {
+   "project": "rsi体系进化与双机评估20261006",
+   "phase": "增补任务（2026-10-06 立项：跨会话情报 digest §④ + claude agents 实测并入）",
+   "id": "T-066",
+   "done": true,
+   "text": "hermes CLI 状态复核  — ⚠️ DONE_WITH_CONCERNS: 主会话 10-06 实测端到端 PASS（--version rc=0；-z \"OK\" rc=0 含 M3 模型往返）；concerns=①ha-liaison 探针窗口（~09:30）恰逢 hermes update 进行中（trampoline 09:52 再生成、.git 09:53 更新），修复态在更新窗口内翻转 ②模板级根因未除（_launch",
+   "estimate": "1h, 归属: Phase 5 前置/goal 5"
+  },
+  {
+   "project": "rsi体系进化与双机评估20261006",
+   "phase": "增补任务（2026-10-06 立项：跨会话情报 digest §④ + claude agents 实测并入）",
+   "id": "T-067",
+   "done": true,
+   "text": "Mini 出网稳定性维度入评估报告",
+   "estimate": "1h, 归属: Phase 5/goal 5"
+  },
+  {
+   "project": "rsi体系进化与双机评估20261006",
+   "phase": "增补任务（2026-10-06 立项：跨会话情报 digest §④ + claude agents 实测并入）",
+   "id": "T-068",
+   "done": true,
+   "text": "三停滞 dev-docs 档收编或关停裁决",
+   "estimate": ""
+  },
+  {
+   "project": "rsi体系进化与双机评估20261006",
+   "phase": "增补任务（2026-10-06 立项：跨会话情报 digest §④ + claude agents 实测并入）",
+   "id": "T-069",
+   "done": true,
+   "text": "mod 会话素材吸收→Phase 4 并入设计输入",
+   "estimate": "1.5h, 归属: Phase 4/goal 1+4"
+  },
+  {
+   "project": "rsi体系进化与双机评估20261006",
+   "phase": "增补任务（2026-10-06 立项：跨会话情报 digest §④ + claude agents 实测并入）",
+   "id": "T-070",
+   "done": true,
+   "text": "ledger 时间戳偏差审计（笔误 vs 漂移分类口径）",
+   "estimate": ""
+  },
+  {
+   "project": "rsi体系进化与双机评估20261006",
+   "phase": "增补任务（2026-10-06 立项：跨会话情报 digest §④ + claude agents 实测并入）",
+   "id": "T-071",
+   "done": true,
+   "text": "三 agents 全套跟踪运行保障",
+   "estimate": ""
+  },
+  {
+   "project": "验证weknora能力与增强现有系统",
+   "phase": "Phase 0 - 开工前门禁(必做,不勾掉不进 Phase 1)",
+   "id": "",
+   "done": true,
+   "text": "实测 plan.md 关卡 A 验证表 A1-A7 ⏱0.5h ｜ 完成(2026-10-01)：A1✅ 83条目+9-18后516新文件（主链路活跃）；A2⚠️ PARTIAL——Mini OrbStack daemon 未运行 docker volume ls 不可执行，改文件系统层验 ~/WeKnora 目录在案（CHANGELOG/docker/deploy 等），数据卷实测留 Phase 3；A3✅ SKILL.md 在案；A",
+   "estimate": ""
+  },
+  {
+   "project": "验证weknora能力与增强现有系统",
+   "phase": "Phase 0 - 开工前门禁(必做,不勾掉不进 Phase 1)",
+   "id": "",
+   "done": true,
+   "text": "用户在飞书/会话中显式签字批准 plan.md 关卡 A ⏱0h(等用户) ｜ 已签(2026-10-01 会话内)：「签字 B组」——注意签字范围=关卡 A+Phase 0，Phase 1-4 蜂群是否启动另行拍板（边界锁定已写 memory id 1242）",
+   "estimate": ""
+  },
+  {
+   "project": "验证weknora能力与增强现有系统",
+   "phase": "Phase 0 - 开工前门禁(必做,不勾掉不进 Phase 1)",
+   "id": "",
+   "done": true,
+   "text": "跑 `devdocs-staleness-check.py` 确认未与其他停滞任务交叠 ⏱0.1h ｜ 完成(2026-10-01)：真实路径 ~/.claude/hooks/devdocs-staleness-check.py；weknora 停滞 7.4 天系签字前状态今日已激活，无与其他停滞任务的代码交叠",
+   "estimate": ""
+  },
+  {
+   "project": "验证weknora能力与增强现有系统",
+   "phase": "Phase 0 - 开工前门禁(必做,不勾掉不进 Phase 1)",
+   "id": "",
+   "done": true,
+   "text": "memory 写入\"任务边界锁定\"(scope=评估不部署) ⏱0.1h ｜ 完成(2026-10-01)：hermes id 1242（scope=纯验证不部署不重启容器；Phase 1-4 另行拍板；10-18 复查判据在案）",
+   "estimate": ""
+  },
+  {
+   "project": "验证weknora能力与增强现有系统",
+   "phase": "Phase 1 - WeKnora 能力盘点 v2 ⏱并行蜂群",
+   "id": "Agent-1",
+   "done": false,
+   "text": "抓 WeKnora 官方仓库/GitHub release notes(2026-09 后) ⏱2h",
+   "estimate": ""
+  },
+  {
+   "project": "验证weknora能力与增强现有系统",
+   "phase": "Phase 1 - WeKnora 能力盘点 v2 ⏱并行蜂群",
+   "id": "Agent-1",
+   "done": false,
+   "text": "对比 Phase 1-4 能力清单,标\"新增 / 持平 / 失效 / 退步\" ⏱1.5h",
+   "estimate": ""
+  },
+  {
+   "project": "验证weknora能力与增强现有系统",
+   "phase": "Phase 1 - WeKnora 能力盘点 v2 ⏱并行蜂群",
+   "id": "Agent-2",
+   "done": false,
+   "text": "读 Phase 1-4 报告(hermes id 600523),提取当时能力基线 ⏱1h",
+   "estimate": ""
+  },
+  {
+   "project": "验证weknora能力与增强现有系统",
+   "phase": "Phase 1 - WeKnora 能力盘点 v2 ⏱并行蜂群",
+   "id": "Agent-3",
+   "done": false,
+   "text": "探查 Mini 端 weknora 镜像版本(只读,不启动容器) ⏱0.5h",
+   "estimate": ""
+  },
+  {
+   "project": "验证weknora能力与增强现有系统",
+   "phase": "Phase 1 - WeKnora 能力盘点 v2 ⏱并行蜂群",
+   "id": "",
+   "done": false,
+   "text": "汇总:产出 `OUTPUTS/weknora-capability-v2.md`(能力-价值矩阵) ⏱1h",
+   "estimate": ""
+  },
+  {
+   "project": "验证weknora能力与增强现有系统",
+   "phase": "Phase 1 - WeKnora 能力盘点 v2 ⏱并行蜂群",
+   "id": "",
+   "done": false,
+   "text": "关卡 A 内 Phase 1 子验证表勾选(A5/A6/A7) ⏱0.2h",
+   "estimate": ""
+  },
+  {
+   "project": "验证weknora能力与增强现有系统",
+   "phase": "Phase 2 - 主链路损失评估 ⏱串行调研",
+   "id": "",
+   "done": false,
+   "text": "拉 9-18 → 9-24 期间 `wechat-clip.py` 执行日志(行数/成功率/平均耗时) ⏱1h",
+   "estimate": ""
+  },
+  {
+   "project": "验证weknora能力与增强现有系统",
+   "phase": "Phase 2 - 主链路损失评估 ⏱串行调研",
+   "id": "",
+   "done": false,
+   "text": "拉同期 Phase 1-4 时期指标作基线(从 hermes id 600523 提取) ⏱1h",
+   "estimate": ""
+  },
+  {
+   "project": "验证weknora能力与增强现有系统",
+   "phase": "Phase 2 - 主链路损失评估 ⏱串行调研",
+   "id": "",
+   "done": false,
+   "text": "对比 ≥3 项指标:剪藏篇数 / 抓取成功率 / 归档目录大小 / 错误率 ⏱1h",
+   "estimate": ""
+  },
+  {
+   "project": "验证weknora能力与增强现有系统",
+   "phase": "Phase 2 - 主链路损失评估 ⏱串行调研",
+   "id": "",
+   "done": false,
+   "text": "量化损失:有 WeKnora vs 无 WeKnora 6 周,差异百分比 ⏱0.5h",
+   "estimate": ""
+  },
+  {
+   "project": "验证weknora能力与增强现有系统",
+   "phase": "Phase 2 - 主链路损失评估 ⏱串行调研",
+   "id": "",
+   "done": false,
+   "text": "产出 `OUTPUTS/wechat-clip-loss-assessment.md` ⏱0.5h",
+   "estimate": ""
+  },
+  {
+   "project": "验证weknora能力与增强现有系统",
+   "phase": "Phase 2 - 主链路损失评估 ⏱串行调研",
+   "id": "",
+   "done": false,
+   "text": "关卡 A 内 Phase 2 子验证表勾选(A1) ⏱0.1h",
+   "estimate": ""
+  },
+  {
+   "project": "验证weknora能力与增强现有系统",
+   "phase": "Phase 3 - 重启预算评估 ⏱串行探查",
+   "id": "",
+   "done": false,
+   "text": "ssh mini 验证 `weknora_postgres-data` 卷存在 + 大小可读 ⏱0.5h",
+   "estimate": ""
+  },
+  {
+   "project": "验证weknora能力与增强现有系统",
+   "phase": "Phase 3 - 重启预算评估 ⏱串行探查",
+   "id": "",
+   "done": false,
+   "text": "检查 docker-compose.yaml 凭据段(可能 6 周后失效) ⏱0.5h",
+   "estimate": ""
+  },
+  {
+   "project": "验证weknora能力与增强现有系统",
+   "phase": "Phase 3 - 重启预算评估 ⏱串行探查",
+   "id": "",
+   "done": false,
+   "text": "评估重启所需 token/时间预算(参考 Phase 1-4 实施成本) ⏱1h",
+   "estimate": ""
+  },
+  {
+   "project": "验证weknora能力与增强现有系统",
+   "phase": "Phase 3 - 重启预算评估 ⏱串行探查",
+   "id": "",
+   "done": false,
+   "text": "风险清单:数据兼容性 / API 漂移 / Mini 重启连锁 ⏱0.5h",
+   "estimate": ""
+  },
+  {
+   "project": "验证weknora能力与增强现有系统",
+   "phase": "Phase 3 - 重启预算评估 ⏱串行探查",
+   "id": "",
+   "done": false,
+   "text": "产出 `OUTPUTS/weknora-restart-budget.md` 含红黄绿三色判定 ⏱1h",
+   "estimate": ""
+  },
+  {
+   "project": "验证weknora能力与增强现有系统",
+   "phase": "Phase 3 - 重启预算评估 ⏱串行探查",
+   "id": "",
+   "done": false,
+   "text": "关卡 A 内 Phase 3 子验证表勾选(A2) ⏱0.1h",
+   "estimate": ""
+  },
+  {
+   "project": "验证weknora能力与增强现有系统",
+   "phase": "Phase 4 - review 决策材料包 ⏱汇总",
+   "id": "",
+   "done": false,
+   "text": "提取 Phase 1-3 关键结论(各 ≤5 条) ⏱0.5h",
+   "estimate": ""
+  },
+  {
+   "project": "验证weknora能力与增强现有系统",
+   "phase": "Phase 4 - review 决策材料包 ⏱汇总",
+   "id": "",
+   "done": false,
+   "text": "设计 5 问模板(对应 grill 决策点) ⏱0.5h",
+   "estimate": ""
+  },
+  {
+   "project": "验证weknora能力与增强现有系统",
+   "phase": "Phase 4 - review 决策材料包 ⏱汇总",
+   "id": "",
+   "done": false,
+   "text": "列出 ≥3 种可能决策路径(重启/续观/废弃)及各自 ROI ⏱1h",
+   "estimate": ""
+  },
+  {
+   "project": "验证weknora能力与增强现有系统",
+   "phase": "Phase 4 - review 决策材料包 ⏱汇总",
+   "id": "",
+   "done": false,
+   "text": "产出 `OUTPUTS/weknora-review-decision-pack.md` ⏱0.5h",
+   "estimate": ""
+  },
+  {
+   "project": "验证weknora能力与增强现有系统",
+   "phase": "Phase 4 - review 决策材料包 ⏱汇总",
+   "id": "",
+   "done": false,
+   "text": "关卡 B 完整勾选(B6:D6) ⏱0.2h",
+   "estimate": ""
+  },
+  {
+   "project": "验证weknora能力与增强现有系统",
+   "phase": "Phase 4 - review 决策材料包 ⏱汇总",
+   "id": "",
+   "done": false,
+   "text": "用户显式签字确认关卡 B(飞书回执) ⏱0h(等用户)",
+   "estimate": ""
+  },
+  {
+   "project": "验证weknora能力与增强现有系统",
+   "phase": "Phase 4 - review 决策材料包 ⏱汇总",
+   "id": "",
+   "done": false,
+   "text": "fact-checker agent 独立核查 4 份产物 ⏱1h",
+   "estimate": ""
+  },
+  {
+   "project": "验证weknora能力与增强现有系统",
+   "phase": "Done when(总任务)",
+   "id": "",
+   "done": false,
+   "text": "关卡 A 用户签字(plan.md) ✅",
+   "estimate": ""
+  },
+  {
+   "project": "验证weknora能力与增强现有系统",
+   "phase": "Done when(总任务)",
+   "id": "",
+   "done": false,
+   "text": "关卡 B 用户签字(本文件 Done when 表) ✅",
+   "estimate": ""
+  },
+  {
+   "project": "验证weknora能力与增强现有系统",
+   "phase": "Done when(总任务)",
+   "id": "",
+   "done": false,
+   "text": "4 份产物已生成 + 已 fact-checker 核查 ✅",
+   "estimate": ""
+  },
+  {
+   "project": "验证weknora能力与增强现有系统",
+   "phase": "Done when(总任务)",
+   "id": "",
+   "done": false,
+   "text": "hermes-memory 写入任务总结(id 入 index) ✅",
+   "estimate": ""
+  },
+  {
+   "project": "验证weknora能力与增强现有系统",
+   "phase": "Done when(总任务)",
+   "id": "",
+   "done": false,
+   "text": "任务归档到 `~/.claude/dev-docs/completed/` ✅",
+   "estimate": ""
+  },
+  {
+   "project": "验证weknora能力与增强现有系统",
+   "phase": "2026-10-09 裁剪路径执行记录（用户拍板选项 1）",
+   "id": "",
+   "done": true,
+   "text": "判据实测：观察期真实查询计数（五环证据链）⏱0.7h ｜ 完成(2026-10-09)：0 次，证据链五环全部可复现（Mini zsh_history / docker 状态 / ~/.mcp.json / hermes 双查询 / knowledge-ingest 日志）",
+   "estimate": ""
+  },
+  {
+   "project": "验证weknora能力与增强现有系统",
+   "phase": "2026-10-09 裁剪路径执行记录（用户拍板选项 1）",
+   "id": "",
+   "done": true,
+   "text": "产出 `OUTPUTS/weknora-review-decision-pack.md`（轻量版含三路径 ROI + 执行清单）⏱0.3h ｜ 完成(2026-10-09)：~/OUTPUTS/weknora-review-decision-pack.md",
+   "estimate": ""
+  },
+  {
+   "project": "验证weknora能力与增强现有系统",
+   "phase": "2026-10-09 裁剪路径执行记录（用户拍板选项 1）",
+   "id": "",
+   "done": true,
+   "text": "Phase 1-3 全量蜂群 17 项 ⏱14.5h ｜ SKIPPED-by-decision(2026-10-09)：判据 0 查询使其结论可先验确定，替代证据=A1 主链路 516 新文件零显著损失",
+   "estimate": ""
+  },
+  {
+   "project": "验证weknora能力与增强现有系统",
+   "phase": "2026-10-09 裁剪路径执行记录（用户拍板选项 1）",
+   "id": "",
+   "done": true,
+   "text": "用户显式签字确认关卡 B ⏱0h ｜ 已预签(2026-10-09 会话选项 1)：裁决建议=路径 A 获认可；tar 归档先行，确认性复查留 10-18 窗口闭合",
+   "estimate": ""
+  },
+  {
+   "project": "验证weknora能力与增强现有系统",
+   "phase": "2026-10-09 裁剪路径执行记录（用户拍板选项 1）",
+   "id": "",
+   "done": true,
+   "text": "tar 归档（修订：配置目录替代数据卷——卷已物理不存在，账实不符见决策包勘误节）⏱0.4h ｜ 完成(2026-10-09)：~/backups/weknora-config-20261009.tar.gz 14M/1104 条目/chmod 600；OrbStack daemon 已恢复原态(down)",
+   "estimate": ""
+  },
+  {
+   "project": "验证weknora能力与增强现有系统",
+   "phase": "2026-10-09 裁剪路径执行记录（用户拍板选项 1）",
+   "id": "",
+   "done": false,
+   "text": "10-18 确认性复查（daemon 起 + volume ls 空 + ps -a 空）→ 遗留物归档 → memory 终态 → 任务归档 ⏱0.5h",
+   "estimate": ""
+  }
+ ],
+ "weekly": [
+  {
+   "wbs": "1.1",
+   "group": "超级表单 1.0",
+   "category": "运营支撑",
+   "content": "1. 做好超级表单 1.0 日常维护，支撑新表单小功能开发；",
+   "next": "1. 按需求做好小功能开发支撑；后续归集讨论。",
+   "status": "进行中",
+   "due": "/",
+   "remark": "--消息通知，特殊时期，提醒用户（替代404页面）；\n--外部表单，提醒验证码确认，通过手机验证码前置管控"
+  },
+  {
+   "wbs": "1.2",
+   "group": "超级表单 1.0",
+   "category": "融合接入",
+   "content": "2. 研究将超级表单 1.0 以用户无感、低成本方式归集到数智工场低码的方案",
+   "next": "2. 讨论确定归集具体方式（如页面集成），形成可落地方案",
+   "status": "待进行",
+   "due": "/",
+   "remark": "0417:提供接口文档指引，提供接口文档；梳理已有系统接口对接；对接指引，入口在碧程\n0417:"
+  },
+  {
+   "wbs": "2.1",
+   "group": "融合消息平台",
+   "category": "应用排查",
+   "content": "1. 排查应用、定时消息未推送问题并跟进修复；",
+   "next": "eLink管理后台3月25日已更新到3.3；持续跟踪观察bug修复情况",
+   "status": "已完成",
+   "due": "/",
+   "remark": ""
+  },
+  {
+   "wbs": "2.2",
+   "group": "融合消息平台",
+   "category": "日报监控",
+   "content": "2. 建立消息推送日报机制，每日反馈推送任务及完成结果；",
+   "next": "每日早间梳理当日推送任务，晚间反馈闭环结果；",
+   "status": "已完成",
+   "due": "持续观察，直至问题解决",
+   "remark": "临时方案需要专人盯控；\n0409:截止目前未失败，eLink管理端已更新到3.3."
+  },
+  {
+   "wbs": "2.3",
+   "group": "融合消息平台",
+   "category": "完善机制",
+   "content": "3. 在工作计划中建立子工作簿，记录消息推送相关信息",
+   "next": "按要求在子工作簿记录需求提出人、消息内容、推送范围等，标注是否推送；",
+   "status": "已完成",
+   "due": "持续观察，直至问题解决",
+   "remark": "0409:截止目前未失败，eLink管理端已更新到3.3.\n\n0417:时间跨度，提醒1个月；每周同步融合消息更新情况。"
+  },
+  {
+   "wbs": "2.4",
+   "group": "融合消息平台",
+   "category": "运营方案完善",
+   "content": "在原有运营方案基础上，添加专题培训、AI 培训支持、数字广告竞赛支撑、共性需求归集机制等内容",
+   "next": "1. 整合各类培训规划、竞赛支撑要求到运营方案；\n2. 加入共性需求（含全码需求）归集、提炼、融入业务系统的机制；\n3. 补充数智工场应用搭建、组件使用的后台监控指标规划",
+   "status": "进行中",
+   "due": "2026-05-13 00:00:00",
+   "remark": "参考云南 / 广西优秀实践，完善运营监控和需求归集机制\n评估监控工具：\n业务方消息内容及推送范围；\n个人：推送情况，内容、范围，是否成功。\n\n新增2个表单：\n1个业务系统对接融合消息申请表单；\n1个是数智工场调用融合消息，需限制时间周期、接口使用期间、使用事项。"
+  },
+  {
+   "wbs": "3.1",
+   "group": "数智工场门户优化",
+   "category": "功能优化",
+   "content": "1. 热更新表单 1.0 管理端 logo 和扫码功能；",
+   "next": "完成 logo 和扫码热更新，确保门户视觉统一；",
+   "status": "已完成",
+   "due": "3月25日作业推迟，下一个作业窗口：4月9日已完成更新",
+   "remark": "教程页需图文并茂，参考超级表单 1.0 教程形式；\n1. logo 和扫码热更新：当日晚间；\n2. 教程页搭建：尽快完成，视频教程后续规划；\n--0409:预计0410提供一个word版本；后续考虑接入html\n3. 管理后台入口：预计0413完成入口接入。\n4、增加管理端新logo\n5、加载时间比较长（10s）及logo统一"
+  },
+  {
+   "wbs": "3.2",
+   "group": "数智工场门户优化",
+   "category": "加入教程",
+   "content": "2. 在门户添加教程页，上传 1.0/2.0 及数智工场文档教程，后续录制视频教程；",
+   "next": "收集整理各类文档教程并上线，规划视频教程录制排期；",
+   "status": "进行中",
+   "due": "2026-05-22 00:00:00",
+   "remark": "门户入口增加教程板块，挂接各工具页面\n--0409:预计0410提供一个word版本；后续考虑接入html\n--0416:word版已提供\n网页端教程-word教程-视频教程【教程】\n-提炼成模板，可以复用-【模板】\n--申请应用模板流程（低码）\n-模板的分级分类、预览及介绍及申请【使用指引】"
+  },
+  {
+   "wbs": "3.3",
+   "group": "数智工场门户优化",
+   "category": "页面调整",
+   "content": "3. 在门户发起流程旁增设管理后台显性入口",
+   "next": "在工作台发起流程旁添加进入管理后台控件，保留原有隐性入口",
+   "status": "进行中",
+   "due": "2026-05-28 00:00:00",
+   "remark": "管理后台入口：预计0413完成入口接入；\n--0416:预计下周完成处理"
+  },
+  {
+   "wbs": "4.1",
+   "group": "数智工场运营推广 - PPT 及教程",
+   "category": "ppt任务",
+   "content": "1. 修改推荐会 PPT 并反馈；",
+   "next": "按反馈意见修改推荐会 PPT 并发送；",
+   "status": "已完成",
+   "due": "2026-03-26 00:00:00",
+   "remark": ""
+  },
+  {
+   "wbs": "4.2",
+   "group": "数智工场运营推广 - PPT 及教程",
+   "category": "操作案例",
+   "content": "2. 参考云南 / 广西优秀实践，完善操作教程（补充 零 / 低 / 高码内容、添加目录、图文并茂）",
+   "next": "压缩调整云南场景搭建内容，补充各开发模式操作案例和目录",
+   "status": "进行中",
+   "due": "2026-05-30 00:00:00",
+   "remark": ""
+  },
+  {
+   "wbs": "5.1",
+   "group": "数智工场运营推广 - 培训工作",
+   "category": "培训筹备",
+   "content": "1. 筹备 4 月启动的 12 期 AI 培训，准备超级表单（1 课时）、数智工场（3-4 课时）培训内容，含通识介绍 + 简单实操；",
+   "next": "内部协调培训师资，按课时准备 AI 培训课件；",
+   "status": "进行中",
+   "due": "2026/5/",
+   "remark": "AI 培训每期两周，共 12 期，培训内容需加入 eLink智能机器人、数字员工专区介绍；\n1、4月29日上午安排一场数智工场的培训，早上8:30-12:00；\n--介绍工具的能力\n--实操部分\n--4个课时（45分钟1节课；需要完成课件；授课老师名单）；\n--南沙培训基地（可安排住宿；提前）\n--课件4月14日要提交，2个课件；1个理论（能力的评估）+1个"
+  },
+  {
+   "wbs": "5.2",
+   "group": "数智工场运营推广 - 培训工作",
+   "category": "培训支撑",
+   "content": "2. 策划数智工场专题培训，按 零/ 低 / 高码或模块划分，参考云南 / 广西实践；",
+   "next": "第一期 AI 培训时间延后两周，预留内容打磨时间；",
+   "status": "进行中",
+   "due": "/",
+   "remark": "3、推介会之后的培训（）"
+  },
+  {
+   "wbs": "5.3",
+   "group": "数智工场运营推广 - 培训工作",
+   "category": "培训策划",
+   "content": "3. 培训内容先提交审核，打磨后落地",
+   "next": "制作培训课件，参考云南 / 广西优秀实践，确定专题培训划分方式，形成培训方案",
+   "status": "待进行",
+   "due": "2026-05-30 00:00:00",
+   "remark": ""
+  },
+  {
+   "wbs": "6.1",
+   "group": "数智工场能力升级",
+   "category": "数智工场能力升级 -实现Vibe coding",
+   "content": "将全码模块适配接入大模型 Vibe coding，接入大模型 API，实现自然语言生成代码并运行，搭建 demo 后上线",
+   "next": "1. 内部与产品团队沟通方案，加急搭建 demo；\n2. 对接大模型（Deepseek / 千问等），编写提示词；\n3. 在开发端添加智能体对话框，实现代码生成功能；",
+   "status": "进行中",
+   "due": "/",
+   "remark": "先实现基础代码生成功能，暂不做页面渲染、实时修改等复杂功能；\n0407：与产品沟通，如接入大模型能力会对现有的拖拉拽能力产生侵入，需要界定只是简单接入还是融合接入（即低码与大模型融合），产品还在评估。\n0410: CC源码外泄；源码的融合计划（AI的接入），能够直接输出可直接加载到高码进行运行（加入大模型，加载的功能）。"
+  },
+  {
+   "wbs": "6.2",
+   "group": "数智工场能力升级",
+   "category": "数智工场能力升级 - AI 能力接入",
+   "content": "按 “智能体平台→大语言模型（Deepseek / 千问 / 大瓦特选其一）→知识中心→融政平台其他组件（目标检测 / OCR 等）” 顺序接入 AI 能力",
+   "next": "1. 【完成】完成智能体平台接入；并行接入一款大语言模型实现 vibe coding；\n2. 再接入知识中心（已接入），实现知识查询、文本辅助撰写（零码封装组件，新增组件）；\n3. 最后接入其他 AI 组件（优先接大模型、OCR、具备通用能力--再逐步扩容）",
+   "status": "进行中",
+   "due": "/",
+   "remark": "大语言模型优先选择易对接的，快速落地 vibe coding 场景"
+  },
+  {
+   "wbs": "6.3",
+   "group": "数智工场能力升级",
+   "category": "数智工场能力升级 - 其他需求",
+   "content": "1. 全码模式加入 Python 开发支持；\n2. 开发智能会议系列应用，借助移动端能力；",
+   "next": "1. 向产品团队提交 Python 支持的需求；\n2. 进一步沟通智能会议应用具体功能，形成开发需求；",
+   "status": "待进行",
+   "due": "/",
+   "remark": "均为提升产品实用性和安全性的需求，需结合开发排期推进"
+  },
+  {
+   "wbs": "7",
+   "group": "数智工场能力升级",
+   "category": "数据中心对接",
+   "content": "1. 同步广告局数据运营门户的数申请信息；\n2. 制定数据自动挂接方案，实现数据便捷接入；\n3. 打通数据申请 - 接入 - 开发完整链路，支撑竞赛",
+   "next": "1. 牵头拉取数据运营门户团队、开发团队开会，确定信息同步程度和对接协议；\n2. 双方评估数据自动挂接开发难度，制定落地计划；\n3. 逐步打通数据链路，优先实现竞赛所需数据接入",
+   "status": "待进行",
+   "due": "6月竞赛前完成",
+   "remark": "解决数据使用繁琐问题，为数智工场竞赛做基础支撑"
+  },
+  {
+   "wbs": "8",
+   "group": "数智工场能力升级",
+   "category": "移动 BI 迁移相关",
+   "content": "1. 完成移动 BI 迁移评估，对可替代部分直接替换；\n2. 协助昊怀完成 20 + 场景迁移后的交付工作，做好新平台使用支撑；\n3. 用低码复刻数字梦工厂应用",
+   "next": "1. 群内发布迁移评估结果，无响应则直接替换可实现部分；\n2. 安排 1-2 人跟进交付工作，解答用户咨询，协助平台过渡；\n3. 按原应用功能，用低码完成数字梦工厂复刻",
+   "status": "进行中",
+   "due": "1. 迁移评估及替换：尽快完成，越优越好；\n2. 交付支撑：下周启动；\n3. 复刻数字梦工厂：6 月前",
+   "remark": "交付工作以技术支撑为主，不直接下场搭建应用"
+  },
+  {
+   "wbs": "9",
+   "group": "数智工场能力升级",
+   "category": "人员调配",
+   "content": "荔湾局项目收尾后，安排何志平加入低代码工作，负责开发、培训等相关事宜",
+   "next": "1. 推进荔湾局项目收尾工作；\n2. 何志平 4 月到岗后，明确其工作分工，主导低代码培训等工作",
+   "status": "已协调",
+   "due": "4 月",
+   "remark": "缓解当前人员紧缺问题，保障各项工作质量和进度"
+  },
+  {
+   "wbs": "10",
+   "group": "数智工场能力升级",
+   "category": "eLink集成",
+   "content": "完成eLink两端集成",
+   "next": "----eLink端上线\n(1)内网集成elink \n1、申请负载切换8188端口 【提单审核中】\n2、收集终端IP，申请策略访问8188端口 【提单被打回，修正重新提】\n3、服务器访问elink策略 【已通过】\n4、低代码，七析切换域名和8188端口\n5、集成elink--计划4月内；\n\n(2)移动端上线(容哥已与网络安全部沟通，移动端可以开展，经沟通需要",
+   "status": "进行中",
+   "due": "6月之前",
+   "remark": "已梳理待办明细，前内网已启动集成工作。4月完成eLink内网打开。\n0402:内网PC集成进行中，预计4月10日之前完成切换。\n0410:广州局wifi的网络区域使用。\n0416:内网策略已开启；下班低峰切换，下周完成。"
+  },
+  {
+   "wbs": "11",
+   "group": "数智工场能力升级",
+   "category": "融合消息项目验收",
+   "content": "完成融合消息国产化项目验收",
+   "next": "1、已提供并网材料启动并网管控\n2、本项目特殊，不需要做技术管控及可研、详设管控。",
+   "status": "进行中",
+   "due": "5月之内",
+   "remark": "已启动并网，5月组织申请验收。"
+  },
+  {
+   "wbs": "12",
+   "group": "数智工场能力升级",
+   "category": "自主分析工具验收",
+   "content": "完成自主分析工具验收",
+   "next": "1、市局已完成可研及详设审查，并网进行中；\n2、省侧已完成可研审查，详设进行中；",
+   "status": "进行中",
+   "due": "6月之内",
+   "remark": "完成市局并网审查中，省侧投运阶段，6月组织验收。"
+  },
+  {
+   "wbs": "12",
+   "group": "数智工场能力升级",
+   "category": "eLink智能机器人接入方案",
+   "content": "明确eLink智能机器人方案",
+   "next": "1、eLink智能机器人的接入，内网系统（比如低码部署在内网）可以在内网完成eLink机器人的集成，外网的移动端和PC端可以调用这个机器人；\n\n2、基于1，内网其他系统，是否可以不开放外网就可以在eLink外网客户端拉群打通访问到内网的业务系统（已对接机器人的部分）信息。",
+   "status": "进行中",
+   "due": "6月之内",
+   "remark": "提供可行的接入方案及申请流程（预计下周）"
+  },
+  {
+   "wbs": "13",
+   "group": "数智工场能力升级",
+   "category": "核心组件规划（人资场景的实现）",
+   "content": "核心组件规划（人资场景的实现）",
+   "next": "1、人员考核成绩评估",
+   "status": "进行中",
+   "due": "持续性",
+   "remark": ""
+  }
+ ],
+ "weekly_meta": {
+  "file": "【0605-数智化工具集】项目周事项跟进表_20260605.xlsx",
+  "date": "2026-06-05",
+  "rows": 25,
+  "note": "sheet=项目周事项跟进"
+ },
+ "machines": [
+  {
+   "role": "MBP",
+   "host": "MacBook-Pro-5.local",
+   "ok": true,
+   "todo_mtime": "2026-10-19T12:05+08:00",
+   "todo_bytes": 33936,
+   "load": "{ 6.52 7.18 7.85 }"
+  },
+  {
+   "role": "Mini",
+   "host": "VERGIILdeMac-mini.local",
+   "ok": true,
+   "todo_mtime": "2026-10-19T12:05",
+   "todo_bytes": 33936,
+   "load": "{ 1.58 1.74 1.93 }"
+  }
+ ],
+ "drift": {
+  "identical": true,
+  "mbp_bytes": 33936,
+  "mini_bytes": 33936,
+  "mbp_mtime": "2026-10-19T12:05+08:00",
+  "mini_mtime": "2026-10-19T12:05",
+  "mbp_only": 0,
+  "mini_only": 0,
+  "both": 52
+ },
+ "sg": {
+  "ok": true,
+  "direct_ip": "120.235.8.82",
+  "direct_country": "CN",
+  "sg_ip": "43.134.58.205",
+  "exit_node": "off",
+  "socks_port": 13083,
+  "http_port": 13084,
+  "status_raw": "sg-link status\n===================\nssh host alias   : sg\nsocks5 port      : 13083\nhttp proxy port  : 13084\nrun dir          : /Users/VERGIIL/.sg-link\nexpected egress  : 43.134.58.205\n\n  ssh socks5 tunnel  :13083  up, pid 70847\n  http bridge        :13084  up, pid 70896\n\n· direct egress       : 120.235.8.82 CN\n· link egress (:13084)  : 43.134.58.205\n  ✓ matches expected SG exit 43.134.58.205\n· exit node          : off (per-app link in use)\n\nlogs: /Users/VERGIIL/.sg-link/ssh.log\n      /Users/VERGIIL/.sg-link/bridge.log\nstatus: healthy (egress 43.134.58.205 via :13084)"
+ },
+ "warnings": []
+}
