@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-20T07:11:39+08:00",
+ "generated_at": "2026-10-20T09:15:27+08:00",
  "today": "2026-10-20",
  "weekday": "周二",
  "mode": "sanitized",
@@ -256,7 +256,7 @@
    "kind": "section",
    "group": "待办项",
    "group_id": "",
-   "title": "📌 [2026-08-08 周末] 尚阳科技技术标后续跟进 ⏸️ [ARCHIVED 2026-08-30]",
+   "title": "📌 [2026-08-08 周末] 投标方E科技技术标后续跟进 ⏸️ [ARCHIVED 2026-08-30]",
    "emoji": "",
    "date": "2026-08-08",
    "due_type": "window",
@@ -395,7 +395,7 @@
    "checklist": [
     {
      "done": true,
-     "text": "【本周主题 2026-08-02】编写《CC进阶实战：Gate-Q资质防线从事故到落地》：利迪事故→Gate-Q设计→真实验证→qual-refresh自动化→使用指南 ✅ 已完成（619行/15344字）",
+     "text": "【本周主题 2026-08-02】编写《CC进阶实战：Gate-Q资质防线从事故到落地》：投标方D事故→Gate-Q设计→真实验证→qual-refresh自动化→使用指南 ✅ 已完成（619行/15344字）",
      "due": "2026-08-02"
     },
     {
@@ -444,7 +444,7 @@
     },
     {
      "done": true,
-     "text": "P0-2 投标方资质档案：道一/微柏/微盛/利迪 profiles/company-profile.json 已创建（字段待填）",
+     "text": "P0-2 投标方资质档案：投标方A/投标方B/投标方C/投标方D profiles/company-profile.json 已创建（字段待填）",
      "due": null
     },
     {
@@ -454,7 +454,7 @@
     },
     {
      "done": true,
-     "text": "P1-1 事故→知识闭环：利迪事故教训已写入 hermes-memory（id=446，含根因+防护措施+应用方法）",
+     "text": "P1-1 事故→知识闭环：投标方D事故教训已写入 hermes-memory（id=446，含根因+防护措施+应用方法）",
      "due": "2026-01-01"
     },
     {
@@ -2763,7 +2763,7 @@
    "ok": true,
    "todo_mtime": "2026-10-19T12:05+08:00",
    "todo_bytes": 33936,
-   "load": "{ 6.52 7.18 7.85 }"
+   "load": "{ 4.38 13.43 16.49 }"
   },
   {
    "role": "Mini",
@@ -2771,7 +2771,7 @@
    "ok": true,
    "todo_mtime": "2026-10-19T12:05",
    "todo_bytes": 33936,
-   "load": "{ 1.58 1.74 1.93 }"
+   "load": "{ 2.29 2.09 2.08 }"
   }
  ],
  "drift": {
@@ -2786,13 +2786,13 @@
  },
  "sg": {
   "ok": true,
-  "direct_ip": "120.235.8.82",
-  "direct_country": "CN",
+  "direct_ip": "",
+  "direct_country": "",
   "sg_ip": "43.134.58.205",
-  "exit_node": "off",
+  "exit_node": "unknown",
   "socks_port": 13083,
   "http_port": 13084,
-  "status_raw": "sg-link status\n===================\nssh host alias   : sg\nsocks5 port      : 13083\nhttp proxy port  : 13084\nrun dir          : /Users/VERGIIL/.sg-link\nexpected egress  : 43.134.58.205\n\n  ssh socks5 tunnel  :13083  up, pid 70847\n  http bridge        :13084  up, pid 70896\n\n· direct egress       : 120.235.8.82 CN\n· link egress (:13084)  : 43.134.58.205\n  ✓ matches expected SG exit 43.134.58.205\n· exit node          : off (per-app link in use)\n\nlogs: /Users/VERGIIL/.sg-link/ssh.log\n      /Users/VERGIIL/.sg-link/bridge.log\nstatus: healthy (egress 43.134.58.205 via :13084)"
+  "status_raw": ""
  },
  "warnings": []
 }
