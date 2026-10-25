@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-25T07:30:01+08:00",
+ "generated_at": "2026-10-25T09:06:01+08:00",
  "today": "2026-10-25",
  "weekday": "周日",
  "mode": "sanitized",
@@ -2762,7 +2762,8 @@
    "host": "MacBook-Pro-5.local",
    "ok": true,
    "todo_mtime": "2026-10-19T12:05+08:00",
-   "todo_bytes": 33936
+   "todo_bytes": 33936,
+   "load": "{ 6.59 8.21 6.58 }"
   },
   {
    "role": "Mini",
@@ -2770,7 +2771,7 @@
    "ok": true,
    "todo_mtime": "2026-10-19T12:05",
    "todo_bytes": 33936,
-   "load": "{ 2.98 3.01 3.05 }"
+   "load": "{ 3.03 2.96 3.05 }"
   }
  ],
  "drift": {
@@ -2784,15 +2785,15 @@
   "both": 52
  },
  "sg": {
-  "ok": false,
+  "ok": true,
   "direct_ip": "",
   "direct_country": "",
-  "sg_ip": "",
+  "sg_ip": "43.134.58.205",
   "exit_node": "unknown",
   "socks_port": 13083,
   "http_port": 13084,
   "status_raw": "",
-  "status_error": "✗ status: UNHEALTHY — socks5 127.0.0.1:13083 has no listener (link down or half-open) (run 'sg-link.sh up' to self-heal)\n"
+  "status_error": "✗ status: UNHEALTHY — bridge 127.0.0.1:13084 has no listener (link down) (run 'sg-link.sh up' to self-heal)\n"
  },
  "warnings": []
 }
