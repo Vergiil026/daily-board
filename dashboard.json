@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-25T09:21:47+08:00",
+ "generated_at": "2026-10-25T09:40:12+08:00",
  "today": "2026-10-25",
  "weekday": "周日",
  "mode": "sanitized",
@@ -2763,7 +2763,7 @@
    "ok": true,
    "todo_mtime": "2026-10-19T12:05+08:00",
    "todo_bytes": 33936,
-   "load": "{ 5.68 5.90 6.32 }"
+   "load": "{ 7.61 11.39 10.09 }"
   },
   {
    "role": "Mini",
@@ -2771,9 +2771,219 @@
    "ok": true,
    "todo_mtime": "2026-10-19T12:05",
    "todo_bytes": 33936,
-   "load": "{ 3.25 2.92 2.88 }"
+   "load": "{ 3.03 2.86 2.87 }"
   }
  ],
+ "active": {
+  "ok": true,
+  "gate": {
+   "ts": "2026-10-25T09:30:57+08:00",
+   "checker": "rsia_gate_selfcheck.py",
+   "checker_md5": "dcc1884f13d5",
+   "card_md5": "07b4e4034488",
+   "verdict": "FAIL",
+   "fail": 1,
+   "warn": 0,
+   "pass": 9,
+   "gates": [
+    {
+     "id": "G1",
+     "name": "选题卡实际投递 ≥8 期",
+     "value": 5,
+     "expect": "≥8",
+     "status": "FAIL"
+    },
+    {
+     "id": "G1b",
+     "name": "用户明确祈使 ≥2（action 非空 + source=user）",
+     "value": 16,
+     "expect": "≥2",
+     "status": "PASS"
+    },
+    {
+     "id": "G2",
+     "name": "CC 管线草稿 ≥3 篇（frontmatter 双字段 + live 目录实存）",
+     "value": 12,
+     "expect": "≥3",
+     "status": "PASS"
+    },
+    {
+     "id": "G2b",
+     "name": "用户评「可发」≥1 篇",
+     "value": 18,
+     "expect": "≥1",
+     "status": "PASS"
+    },
+    {
+     "id": "G3-a",
+     "name": "草稿外发事件逐条须有 user approval（一票否决）",
+     "value": 2,
+     "expect": "未授权=0",
+     "status": "PASS"
+    },
+    {
+     "id": "G4",
+     "name": "structured_count ≥8（归因+目标+证据三件套）",
+     "value": 59,
+     "expect": "≥8",
+     "status": "PASS"
+    },
+    {
+     "id": "G4b",
+     "name": "周反思卡 ≥2 期且每期含四路分布",
+     "value": 3,
+     "expect": "≥2",
+     "status": "PASS"
+    },
+    {
+     "id": "G4c",
+     "name": "两份标尺各 ≥1 次经批更新（版本链）",
+     "value": {
+      "STYLE-GUIDE.md": 5,
+      "TOPIC-RUBRIC.md": 5
+     },
+     "expect": "各 ≥2 链（含 v0）",
+     "status": "PASS"
+    },
+    {
+     "id": "G4d",
+     "name": "g4d_closed ≥1（归因→修正→复验三段齐全）",
+     "value": 16,
+     "expect": "≥1",
+     "status": "PASS"
+    },
+    {
+     "id": "S5",
+     "name": "判据基线 md5 对账",
+     "value": "8/8",
+     "expect": "8/8",
+     "status": "PASS"
+    }
+   ]
+  },
+  "pending": {
+   "generated_at": "2026-10-25T09:40:00+08:00",
+   "pending_count": 19,
+   "resolved_count": 2,
+   "items": [
+    {
+     "kind": "归因口径裁决",
+     "title": "归因分类口径需人审：3 条「未闭环」是分类错配的计数假象，不是 3 个待修的表达缺陷",
+     "status": "建议：①封闭枚举 ATTRIBUTIONS 增第 5 类「事实记录」（非缺陷）[内部文件] 改默认（当前 docstring 写「绝不猜归因/只写事实记录类」但代码传 --attr",
+     "due": "2026-10-29"
+    },
+    {
+     "kind": "RSIA 判定",
+     "title": "RSIA MVP 独立判定终审（10-31 08:30 派发，结论由用户终审）",
+     "status": "待 10-31 独立判定产出后终审",
+     "due": "2026-10-31"
+    },
+    {
+     "kind": "观察窗到期",
+     "title": "窗 14：RSIA MVP 观察窗（内容主编 × 自动进化）",
+     "status": "6 天后到期",
+     "due": "2026-10-31"
+    },
+    {
+     "kind": "观察窗到期",
+     "title": "窗 3：P70 dispatch-trace 累积",
+     "status": "6 天后到期",
+     "due": "2026-10-31"
+    },
+    {
+     "kind": "观察窗到期",
+     "title": "窗 4：P69 evidence_state 三态覆盖",
+     "status": "6 天后到期",
+     "due": "2026-10-31"
+    },
+    {
+     "kind": "观察窗到期",
+     "title": "窗 7：账实分离存量（2026-10-03 补登）",
+     "status": "6 天后到期",
+     "due": "2026-10-31"
+    },
+    {
+     "kind": "观察窗到期",
+     "title": "窗 12：P079 a1007rollback 真实执行（2026-10-04 补登，P079 MERGED 当日）",
+     "status": "8 天后到期",
+     "due": "2026-11-02"
+    },
+    {
+     "kind": "观察窗到期",
+     "title": "窗 9：P078 审计零写面+候选落地观察（2026-10-03 补登，P078 MERGED 当日）",
+     "status": "8 天后到期",
+     "due": "2026-11-02"
+    },
+    {
+     "kind": "观察窗到期",
+     "title": "窗 10：P082-IMPL intent 填写率（2026-10-04 补登，P082-IMPL verdict 当日）",
+     "status": "9 天后到期",
+     "due": "2026-11-03"
+    },
+    {
+     "kind": "观察窗到期",
+     "title": "窗 11：P083-IMPL 失败态分类落地（2026-10-04 补登，P083-IMPL verdict 当日）",
+     "status": "9 天后到期",
+     "due": "2026-11-03"
+    },
+    {
+     "kind": "观察窗到期",
+     "title": "窗 5：ME 域跨机范围声明（2026-10-03 补登）",
+     "status": "9 天后到期",
+     "due": "2026-11-03"
+    },
+    {
+     "kind": "观察窗到期",
+     "title": "窗 8：P077 四级阶梯声明率（2026-10-03 补登，P077 MERGED 当日）",
+     "status": "9 天后到期",
+     "due": "2026-11-03"
+    },
+    {
+     "kind": "账本待裁决",
+     "title": "GLM cache warmer——前提不成立合法BLOCKED",
+     "status": "BLOCKED-PREMISE-FALSE",
+     "due": null
+    },
+    {
+     "kind": "账本待裁决",
+     "title": "P092-W1/W3 判据升版 + 锚点保鲜整改项（改判据文本须用户第一手）",
+     "status": "HUMAN-AWAIT-USER",
+     "due": null
+    },
+    {
+     "kind": "账本待裁决",
+     "title": "【人判材料包·机械取证 2026-10-18】①实装失守：Mini+MBP 生产 [内部路径] 双机 md5 一致 048feb1c（45666B，mtime 10-03 10:5",
+     "status": "HUMAN-REQUIRED-AWAIT-USER",
+     "due": null
+    },
+    {
+     "kind": "账本待裁决",
+     "title": "P118 guardian 全量审：提案面 APPROVE-WITH-NOTES，实施面 HUMAN-REQUIRED（须用户第一手解锁 readonly eval/rsi-ver",
+     "status": "APPROVE-WITH-NOTES + HUMAN-REQUIRED",
+     "due": null
+    },
+    {
+     "kind": "账本待裁决",
+     "title": "生产 md5 ae7c818ec5c8f1203157e3bf3af80f97 与补丁逐字节一致(5826B)；备份 .bak-pre-p130 md5 25d7645557208",
+     "status": "DEPLOYED-PENDING-ACCEPT",
+     "due": null
+    },
+    {
+     "kind": "提案队列",
+     "title": "P127",
+     "status": "📋 立案候选（2026-10-16，用户裁决④）——章程见 P127；**首个 P126 约定受试件**（含 uncertainty/applicability 字段块）；",
+     "due": null
+    },
+    {
+     "kind": "提案队列",
+     "title": "RSIAgent-②广深序",
+     "status": "📋 **已 REVISE 退回 → P122**（2026-10-13 guardian BLOCKED）：判据数据源结构性不可计算——`events/*-rewo",
+     "due": null
+    }
+   ]
+  },
+  "error": ""
+ },
  "drift": {
   "identical": true,
   "mbp_bytes": 33936,
