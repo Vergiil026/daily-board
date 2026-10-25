@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-25T09:40:12+08:00",
+ "generated_at": "2026-10-25T09:41:26+08:00",
  "today": "2026-10-25",
  "weekday": "周日",
  "mode": "sanitized",
@@ -2763,7 +2763,7 @@
    "ok": true,
    "todo_mtime": "2026-10-19T12:05+08:00",
    "todo_bytes": 33936,
-   "load": "{ 7.61 11.39 10.09 }"
+   "load": "{ 4.17 9.57 9.50 }"
   },
   {
    "role": "Mini",
@@ -2771,16 +2771,13 @@
    "ok": true,
    "todo_mtime": "2026-10-19T12:05",
    "todo_bytes": 33936,
-   "load": "{ 3.03 2.86 2.87 }"
+   "load": "{ 3.27 2.96 2.90 }"
   }
  ],
  "active": {
   "ok": true,
   "gate": {
    "ts": "2026-10-25T09:30:57+08:00",
-   "checker": "rsia_gate_selfcheck.py",
-   "checker_md5": "dcc1884f13d5",
-   "card_md5": "07b4e4034488",
    "verdict": "FAIL",
    "fail": 1,
    "warn": 0,
@@ -2839,8 +2836,7 @@
      "id": "G4c",
      "name": "两份标尺各 ≥1 次经批更新（版本链）",
      "value": {
-      "STYLE-GUIDE.md": 5,
-      "TOPIC-RUBRIC.md": 5
+      "[内部文件]": 5
      },
      "expect": "各 ≥2 链（含 v0）",
      "status": "PASS"
