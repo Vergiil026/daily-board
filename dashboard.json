@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-26T07:31:28+08:00",
+ "generated_at": "2026-10-26T21:02:26+08:00",
  "today": "2026-10-26",
  "weekday": "周一",
  "mode": "sanitized",
@@ -16,7 +16,7 @@
   "weekly_open": 19,
   "weekly_total": 25,
   "mbp_items": 52,
-  "mini_items": 0,
+  "mini_items": 52,
   "project_count": 3
  },
  "todos": [
@@ -39,7 +39,8 @@
    "exec": "",
    "status_raw": "",
    "on": [
-    "mbp"
+    "mbp",
+    "mini"
    ]
   },
   {
@@ -61,7 +62,8 @@
    "exec": "",
    "status_raw": "",
    "on": [
-    "mbp"
+    "mbp",
+    "mini"
    ]
   },
   {
@@ -83,7 +85,8 @@
    "exec": "",
    "status_raw": "",
    "on": [
-    "mbp"
+    "mbp",
+    "mini"
    ]
   },
   {
@@ -105,7 +108,8 @@
    "exec": "",
    "status_raw": "",
    "on": [
-    "mbp"
+    "mbp",
+    "mini"
    ]
   },
   {
@@ -127,7 +131,8 @@
    "exec": "",
    "status_raw": "",
    "on": [
-    "mbp"
+    "mbp",
+    "mini"
    ]
   },
   {
@@ -149,7 +154,8 @@
    "exec": "",
    "status_raw": "",
    "on": [
-    "mbp"
+    "mbp",
+    "mini"
    ]
   },
   {
@@ -171,7 +177,8 @@
    "exec": "",
    "status_raw": "",
    "on": [
-    "mbp"
+    "mbp",
+    "mini"
    ]
   },
   {
@@ -193,7 +200,8 @@
    "exec": "",
    "status_raw": "",
    "on": [
-    "mbp"
+    "mbp",
+    "mini"
    ]
   },
   {
@@ -215,7 +223,8 @@
    "exec": "",
    "status_raw": "",
    "on": [
-    "mbp"
+    "mbp",
+    "mini"
    ]
   },
   {
@@ -237,7 +246,8 @@
    "exec": "",
    "status_raw": "",
    "on": [
-    "mbp"
+    "mbp",
+    "mini"
    ]
   },
   {
@@ -259,7 +269,8 @@
    "exec": "",
    "status_raw": "",
    "on": [
-    "mbp"
+    "mbp",
+    "mini"
    ]
   },
   {
@@ -297,7 +308,8 @@
    "exec": "",
    "status_raw": "",
    "on": [
-    "mbp"
+    "mbp",
+    "mini"
    ]
   },
   {
@@ -325,7 +337,8 @@
    "exec": "",
    "status_raw": "",
    "on": [
-    "mbp"
+    "mbp",
+    "mini"
    ]
   },
   {
@@ -363,7 +376,8 @@
    "exec": "",
    "status_raw": "",
    "on": [
-    "mbp"
+    "mbp",
+    "mini"
    ]
   },
   {
@@ -406,7 +420,8 @@
    "exec": "",
    "status_raw": "",
    "on": [
-    "mbp"
+    "mbp",
+    "mini"
    ]
   },
   {
@@ -459,7 +474,8 @@
    "exec": "",
    "status_raw": "",
    "on": [
-    "mbp"
+    "mbp",
+    "mini"
    ]
   },
   {
@@ -492,7 +508,8 @@
    "exec": "",
    "status_raw": "",
    "on": [
-    "mbp"
+    "mbp",
+    "mini"
    ]
   },
   {
@@ -540,7 +557,8 @@
    "exec": "",
    "status_raw": "",
    "on": [
-    "mbp"
+    "mbp",
+    "mini"
    ]
   },
   {
@@ -588,7 +606,8 @@
    "exec": "",
    "status_raw": "",
    "on": [
-    "mbp"
+    "mbp",
+    "mini"
    ]
   },
   {
@@ -636,7 +655,8 @@
    "exec": "",
    "status_raw": "",
    "on": [
-    "mbp"
+    "mbp",
+    "mini"
    ]
   },
   {
@@ -704,7 +724,8 @@
    "exec": "",
    "status_raw": "",
    "on": [
-    "mbp"
+    "mbp",
+    "mini"
    ]
   },
   {
@@ -747,7 +768,8 @@
    "exec": "",
    "status_raw": "",
    "on": [
-    "mbp"
+    "mbp",
+    "mini"
    ]
   },
   {
@@ -790,7 +812,8 @@
    "exec": "",
    "status_raw": "",
    "on": [
-    "mbp"
+    "mbp",
+    "mini"
    ]
   },
   {
@@ -888,7 +911,8 @@
    "exec": "",
    "status_raw": "",
    "on": [
-    "mbp"
+    "mbp",
+    "mini"
    ]
   },
   {
@@ -910,7 +934,8 @@
    "exec": "",
    "status_raw": "",
    "on": [
-    "mbp"
+    "mbp",
+    "mini"
    ]
   },
   {
@@ -938,7 +963,8 @@
    "exec": "",
    "status_raw": "",
    "on": [
-    "mbp"
+    "mbp",
+    "mini"
    ]
   },
   {
@@ -960,7 +986,8 @@
    "exec": "",
    "status_raw": "",
    "on": [
-    "mbp"
+    "mbp",
+    "mini"
    ]
   },
   {
@@ -982,7 +1009,8 @@
    "exec": "",
    "status_raw": "",
    "on": [
-    "mbp"
+    "mbp",
+    "mini"
    ]
   },
   {
@@ -1004,7 +1032,8 @@
    "exec": "",
    "status_raw": "",
    "on": [
-    "mbp"
+    "mbp",
+    "mini"
    ]
   },
   {
@@ -1026,7 +1055,8 @@
    "exec": "",
    "status_raw": "",
    "on": [
-    "mbp"
+    "mbp",
+    "mini"
    ]
   },
   {
@@ -1048,7 +1078,8 @@
    "exec": "",
    "status_raw": "",
    "on": [
-    "mbp"
+    "mbp",
+    "mini"
    ]
   },
   {
@@ -1070,7 +1101,8 @@
    "exec": "",
    "status_raw": "",
    "on": [
-    "mbp"
+    "mbp",
+    "mini"
    ]
   },
   {
@@ -1092,7 +1124,8 @@
    "exec": "",
    "status_raw": "",
    "on": [
-    "mbp"
+    "mbp",
+    "mini"
    ]
   },
   {
@@ -1114,7 +1147,8 @@
    "exec": "",
    "status_raw": "",
    "on": [
-    "mbp"
+    "mbp",
+    "mini"
    ]
   },
   {
@@ -1136,7 +1170,8 @@
    "exec": "",
    "status_raw": "",
    "on": [
-    "mbp"
+    "mbp",
+    "mini"
    ]
   },
   {
@@ -1158,7 +1193,8 @@
    "exec": "",
    "status_raw": "",
    "on": [
-    "mbp"
+    "mbp",
+    "mini"
    ]
   },
   {
@@ -1180,7 +1216,8 @@
    "exec": "",
    "status_raw": "",
    "on": [
-    "mbp"
+    "mbp",
+    "mini"
    ]
   },
   {
@@ -1202,7 +1239,8 @@
    "exec": "",
    "status_raw": "",
    "on": [
-    "mbp"
+    "mbp",
+    "mini"
    ]
   },
   {
@@ -1235,7 +1273,8 @@
    "exec": "",
    "status_raw": "",
    "on": [
-    "mbp"
+    "mbp",
+    "mini"
    ]
   },
   {
@@ -1257,7 +1296,8 @@
    "exec": "",
    "status_raw": "",
    "on": [
-    "mbp"
+    "mbp",
+    "mini"
    ]
   },
   {
@@ -1279,7 +1319,8 @@
    "exec": "",
    "status_raw": "",
    "on": [
-    "mbp"
+    "mbp",
+    "mini"
    ]
   },
   {
@@ -1301,7 +1342,8 @@
    "exec": "",
    "status_raw": "",
    "on": [
-    "mbp"
+    "mbp",
+    "mini"
    ]
   },
   {
@@ -1323,7 +1365,8 @@
    "exec": "",
    "status_raw": "",
    "on": [
-    "mbp"
+    "mbp",
+    "mini"
    ]
   },
   {
@@ -1345,7 +1388,8 @@
    "exec": "",
    "status_raw": "",
    "on": [
-    "mbp"
+    "mbp",
+    "mini"
    ]
   },
   {
@@ -1367,7 +1411,8 @@
    "exec": "",
    "status_raw": "",
    "on": [
-    "mbp"
+    "mbp",
+    "mini"
    ]
   },
   {
@@ -1389,7 +1434,8 @@
    "exec": "",
    "status_raw": "",
    "on": [
-    "mbp"
+    "mbp",
+    "mini"
    ]
   },
   {
@@ -1411,7 +1457,8 @@
    "exec": "",
    "status_raw": "",
    "on": [
-    "mbp"
+    "mbp",
+    "mini"
    ]
   },
   {
@@ -1433,7 +1480,8 @@
    "exec": "",
    "status_raw": "",
    "on": [
-    "mbp"
+    "mbp",
+    "mini"
    ]
   },
   {
@@ -1455,7 +1503,8 @@
    "exec": "",
    "status_raw": "",
    "on": [
-    "mbp"
+    "mbp",
+    "mini"
    ]
   },
   {
@@ -1477,7 +1526,8 @@
    "exec": "",
    "status_raw": "",
    "on": [
-    "mbp"
+    "mbp",
+    "mini"
    ]
   },
   {
@@ -1499,7 +1549,8 @@
    "exec": "",
    "status_raw": "",
    "on": [
-    "mbp"
+    "mbp",
+    "mini"
    ]
   },
   {
@@ -1521,7 +1572,8 @@
    "exec": "",
    "status_raw": "",
    "on": [
-    "mbp"
+    "mbp",
+    "mini"
    ]
   }
  ],
@@ -1539,7 +1591,8 @@
    "child_count": 0,
    "open_count": 0,
    "on": [
-    "mbp"
+    "mbp",
+    "mini"
    ]
   },
   {
@@ -1555,7 +1608,8 @@
    "child_count": 5,
    "open_count": 4,
    "on": [
-    "mbp"
+    "mbp",
+    "mini"
    ]
   },
   {
@@ -1574,7 +1628,8 @@
    "child_count": 2,
    "open_count": 1,
    "on": [
-    "mbp"
+    "mbp",
+    "mini"
    ]
   },
   {
@@ -1598,7 +1653,8 @@
    "child_count": 7,
    "open_count": 7,
    "on": [
-    "mbp"
+    "mbp",
+    "mini"
    ]
   },
   {
@@ -1618,7 +1674,8 @@
    "child_count": 4,
    "open_count": 4,
    "on": [
-    "mbp"
+    "mbp",
+    "mini"
    ]
   },
   {
@@ -1636,7 +1693,8 @@
    "child_count": 1,
    "open_count": 1,
    "on": [
-    "mbp"
+    "mbp",
+    "mini"
    ]
   },
   {
@@ -1656,7 +1714,8 @@
    "child_count": 3,
    "open_count": 3,
    "on": [
-    "mbp"
+    "mbp",
+    "mini"
    ]
   },
   {
@@ -1675,7 +1734,8 @@
    "child_count": 2,
    "open_count": 2,
    "on": [
-    "mbp"
+    "mbp",
+    "mini"
    ]
   },
   {
@@ -1693,7 +1753,8 @@
    "child_count": 1,
    "open_count": 1,
    "on": [
-    "mbp"
+    "mbp",
+    "mini"
    ]
   },
   {
@@ -1712,7 +1773,8 @@
    "child_count": 2,
    "open_count": 2,
    "on": [
-    "mbp"
+    "mbp",
+    "mini"
    ]
   },
   {
@@ -1733,7 +1795,8 @@
    "child_count": 4,
    "open_count": 4,
    "on": [
-    "mbp"
+    "mbp",
+    "mini"
    ]
   }
  ],
@@ -2699,45 +2762,276 @@
    "host": "MacBook-Pro-5.local",
    "ok": true,
    "todo_mtime": "2026-10-19T12:05+08:00",
-   "todo_bytes": 33936
+   "todo_bytes": 33936,
+   "load": "{ 8.83 7.59 6.66 }"
   },
   {
    "role": "Mini",
-   "host": "mini",
-   "ok": false,
-   "todo_mtime": null,
-   "todo_bytes": 0
+   "host": "VERGIILdeMac-mini.local",
+   "ok": true,
+   "todo_mtime": "2026-10-19T12:05",
+   "todo_bytes": 33936,
+   "load": "{ 2.99 2.93 2.95 }"
   }
  ],
  "active": {
-  "ok": false,
-  "gate": null,
-  "pending": null,
-  "error": "ssh: connect to host 100.111.133.119 port 22: Operation timed out"
+  "ok": true,
+  "gate": {
+   "ts": "2026-10-26T10:55:22+08:00",
+   "verdict": "WARN",
+   "fail": 0,
+   "warn": 2,
+   "pass": 10,
+   "gates": [
+    {
+     "id": "G1",
+     "name": "选题卡实际投递 ≥8 期",
+     "value": 6,
+     "expect": "≥8",
+     "status": "WARN"
+    },
+    {
+     "id": "G1_DAILY",
+     "name": "G1 日检器（三源一致 + 期望期数 + 缺卡点名）",
+     "value": {
+      "verdict": "NO_GAP",
+      "expected_periods": 6,
+      "actual_source_cards": 6,
+      "actual_relay_sent": 6,
+      "actual_relay_am": 6,
+      "g1_threshold": 8,
+      "three_source": "一致",
+      "missing_dates": [],
+      "gap_items": [],
+      "reader_errors": []
+     },
+     "expect": "verdict=NO_GAP 且无 reader",
+     "status": "WARN"
+    },
+    {
+     "id": "G1b",
+     "name": "用户明确祈使 ≥2（action 非空 + source=user）",
+     "value": 16,
+     "expect": "≥2",
+     "status": "PASS"
+    },
+    {
+     "id": "G2",
+     "name": "CC 管线草稿 ≥3 篇（frontmatter 双字段 + live 目录实存）",
+     "value": 14,
+     "expect": "≥3",
+     "status": "PASS"
+    },
+    {
+     "id": "G2b",
+     "name": "用户评「可发」≥1 篇",
+     "value": 18,
+     "expect": "≥1",
+     "status": "PASS"
+    },
+    {
+     "id": "G3-a",
+     "name": "草稿外发事件逐条须有 user approval（一票否决）",
+     "value": 2,
+     "expect": "未授权=0",
+     "status": "PASS"
+    },
+    {
+     "id": "G4",
+     "name": "structured_count ≥8（归因+目标+证据三件套）",
+     "value": 59,
+     "expect": "≥8",
+     "status": "PASS"
+    },
+    {
+     "id": "G4b",
+     "name": "周反思卡 ≥2 期且每期含四路分布",
+     "value": 4,
+     "expect": "≥2",
+     "status": "PASS"
+    },
+    {
+     "id": "G4c",
+     "name": "两份标尺各 ≥1 次经批更新（版本链）",
+     "value": {
+      "[内部文件]": 5
+     },
+     "expect": "各 ≥2 链（含 v0）",
+     "status": "PASS"
+    },
+    {
+     "id": "G4d",
+     "name": "g4d_closed ≥1（归因→修正→复验三段齐全）",
+     "value": 19,
+     "expect": "≥1",
+     "status": "PASS"
+    },
+    {
+     "id": "S5",
+     "name": "判据基线 md5 对账",
+     "value": "8/8",
+     "expect": "8/8",
+     "status": "PASS"
+    },
+    {
+     "id": "NIGHT_CONSIS",
+     "name": "夜跑跨面一致性（日志/账本/状态三面）",
+     "value": {
+      "rc": 0,
+      "findings_count": 0,
+      "since": "20261026",
+      "log_dir": "[内部路径]",
+      "ledger": "[内部路径]",
+      "state": "[内部路径]"
+     },
+     "expect": "三面一致（rc=0，无 findings）",
+     "status": "PASS"
+    }
+   ]
+  },
+  "pending": {
+   "generated_at": "2026-10-25T09:54:23+08:00",
+   "pending_count": 19,
+   "resolved_count": 2,
+   "items": [
+    {
+     "kind": "归因口径裁决",
+     "title": "归因分类口径需人审：3 条「未闭环」是分类错配的计数假象，不是 3 个待修的表达缺陷",
+     "status": "建议：①封闭枚举 ATTRIBUTIONS 增第 5 类「事实记录」（非缺陷）[内部文件] 改默认（当前 docstring 写「绝不猜归因/只写事实记录类」但代码传 --attr",
+     "due": "2026-10-29"
+    },
+    {
+     "kind": "RSIA 判定",
+     "title": "RSIA MVP 独立判定终审（10-31 08:30 派发，结论由用户终审）",
+     "status": "待 10-31 独立判定产出后终审",
+     "due": "2026-10-31"
+    },
+    {
+     "kind": "观察窗到期",
+     "title": "窗 14：RSIA MVP 观察窗（内容主编 × 自动进化）",
+     "status": "6 天后到期",
+     "due": "2026-10-31"
+    },
+    {
+     "kind": "观察窗到期",
+     "title": "窗 3：P70 dispatch-trace 累积",
+     "status": "6 天后到期",
+     "due": "2026-10-31"
+    },
+    {
+     "kind": "观察窗到期",
+     "title": "窗 4：P69 evidence_state 三态覆盖",
+     "status": "6 天后到期",
+     "due": "2026-10-31"
+    },
+    {
+     "kind": "观察窗到期",
+     "title": "窗 7：账实分离存量（2026-10-03 补登）",
+     "status": "6 天后到期",
+     "due": "2026-10-31"
+    },
+    {
+     "kind": "观察窗到期",
+     "title": "窗 12：P079 a1007rollback 真实执行（2026-10-04 补登，P079 MERGED 当日）",
+     "status": "8 天后到期",
+     "due": "2026-11-02"
+    },
+    {
+     "kind": "观察窗到期",
+     "title": "窗 9：P078 审计零写面+候选落地观察（2026-10-03 补登，P078 MERGED 当日）",
+     "status": "8 天后到期",
+     "due": "2026-11-02"
+    },
+    {
+     "kind": "观察窗到期",
+     "title": "窗 10：P082-IMPL intent 填写率（2026-10-04 补登，P082-IMPL verdict 当日）",
+     "status": "9 天后到期",
+     "due": "2026-11-03"
+    },
+    {
+     "kind": "观察窗到期",
+     "title": "窗 11：P083-IMPL 失败态分类落地（2026-10-04 补登，P083-IMPL verdict 当日）",
+     "status": "9 天后到期",
+     "due": "2026-11-03"
+    },
+    {
+     "kind": "观察窗到期",
+     "title": "窗 5：ME 域跨机范围声明（2026-10-03 补登）",
+     "status": "9 天后到期",
+     "due": "2026-11-03"
+    },
+    {
+     "kind": "观察窗到期",
+     "title": "窗 8：P077 四级阶梯声明率（2026-10-03 补登，P077 MERGED 当日）",
+     "status": "9 天后到期",
+     "due": "2026-11-03"
+    },
+    {
+     "kind": "账本待裁决",
+     "title": "GLM cache warmer——前提不成立合法BLOCKED",
+     "status": "BLOCKED-PREMISE-FALSE",
+     "due": null
+    },
+    {
+     "kind": "账本待裁决",
+     "title": "P092-W1/W3 判据升版 + 锚点保鲜整改项（改判据文本须用户第一手）",
+     "status": "HUMAN-AWAIT-USER",
+     "due": null
+    },
+    {
+     "kind": "账本待裁决",
+     "title": "【人判材料包·机械取证 2026-10-18】①实装失守：Mini+MBP 生产 [内部路径] 双机 md5 一致 048feb1c（45666B，mtime 10-03 10:5",
+     "status": "HUMAN-REQUIRED-AWAIT-USER",
+     "due": null
+    },
+    {
+     "kind": "账本待裁决",
+     "title": "P118 guardian 全量审：提案面 APPROVE-WITH-NOTES，实施面 HUMAN-REQUIRED（须用户第一手解锁 readonly eval/rsi-ver",
+     "status": "APPROVE-WITH-NOTES + HUMAN-REQUIRED",
+     "due": null
+    },
+    {
+     "kind": "账本待裁决",
+     "title": "生产 md5 ae7c818ec5c8f1203157e3bf3af80f97 与补丁逐字节一致(5826B)；备份 .bak-pre-p130 md5 25d7645557208",
+     "status": "DEPLOYED-PENDING-ACCEPT",
+     "due": null
+    },
+    {
+     "kind": "提案队列",
+     "title": "P127",
+     "status": "📋 立案候选（2026-10-16，用户裁决④）——章程见 P127；**首个 P126 约定受试件**（含 uncertainty/applicability 字段块）；",
+     "due": null
+    },
+    {
+     "kind": "提案队列",
+     "title": "RSIAgent-②广深序",
+     "status": "📋 **已 REVISE 退回 → P122**（2026-10-13 guardian BLOCKED）：判据数据源结构性不可计算——`events/*-rewo",
+     "due": null
+    }
+   ]
+  },
+  "error": ""
  },
  "drift": {
-  "identical": false,
+  "identical": true,
   "mbp_bytes": 33936,
-  "mini_bytes": 0,
+  "mini_bytes": 33936,
   "mbp_mtime": "2026-10-19T12:05+08:00",
-  "mini_mtime": null,
-  "mbp_only": 52,
+  "mini_mtime": "2026-10-19T12:05",
+  "mbp_only": 0,
   "mini_only": 0,
-  "both": 0
+  "both": 52
  },
  "sg": {
-  "ok": false,
-  "direct_ip": "",
-  "direct_country": "",
-  "sg_ip": "",
-  "exit_node": "unknown",
+  "ok": true,
+  "direct_ip": "120.235.8.7",
+  "direct_country": "CN",
+  "sg_ip": "43.134.58.205",
+  "exit_node": "off",
   "socks_port": 13083,
   "http_port": 13084,
-  "status_raw": "",
-  "status_error": "✗ status: UNHEALTHY — socks5 127.0.0.1:13083 has no listener (link down or half-open) (run 'sg-link.sh up' to self-heal)\n"
+  "status_raw": "sg-link status\n===================\nssh host alias   : sg\nsocks5 port      : 13083\nhttp proxy port  : 13084\nrun dir          : ~/.sg-link\nexpected egress  : 43.134.58.205\n\n  ssh socks5 tunnel  :13083  up, pid 84990\n  http bridge        :13084  up, pid 85045\n\n· direct egress       : 120.235.8.7 CN\n· link egress (:13084)  : 43.134.58.205\n  ✓ matches expected SG exit 43.134.58.205\n· exit node          : off (per-app link in use)\n\nlogs: ~/.sg-link/ssh.log\n      ~/.sg-link/bridge.log\nstatus: healthy (egress 43.134.58.205 via :13084)",
+  "status_error": ""
  },
- "warnings": [
-  "Mini 待办拉取失败（ssh 不通或文件缺失）",
-  "Mini 主动汇报数据未取到（门禁读数/待裁决清单）：ssh: connect to host 100.111.133.119 port 22: Operation timed out"
- ]
+ "warnings": []
 }
