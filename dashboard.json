@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-10-26T21:02:26+08:00",
- "today": "2026-10-26",
- "weekday": "周一",
+ "generated_at": "2026-10-31T07:30:00+08:00",
+ "today": "2026-10-31",
+ "weekday": "周六",
  "mode": "sanitized",
  "stats": {
   "open_todos": 43,
-  "due_today": 3,
-  "overdue": 27,
+  "due_today": 0,
+  "overdue": 30,
   "upcoming": 1,
   "undated": 12,
   "done_todos": 8,
@@ -2762,8 +2762,7 @@
    "host": "MacBook-Pro-5.local",
    "ok": true,
    "todo_mtime": "2026-10-19T12:05+08:00",
-   "todo_bytes": 33936,
-   "load": "{ 8.83 7.59 6.66 }"
+   "todo_bytes": 33936
   },
   {
    "role": "Mini",
@@ -2771,34 +2770,34 @@
    "ok": true,
    "todo_mtime": "2026-10-19T12:05",
    "todo_bytes": 33936,
-   "load": "{ 2.99 2.93 2.95 }"
+   "load": "{ 2.81 2.42 2.26 }"
   }
  ],
  "active": {
   "ok": true,
   "gate": {
-   "ts": "2026-10-26T10:55:22+08:00",
-   "verdict": "WARN",
+   "ts": "2026-10-31T06:30:09+08:00",
+   "verdict": "PASS",
    "fail": 0,
-   "warn": 2,
-   "pass": 10,
+   "warn": 0,
+   "pass": 12,
    "gates": [
     {
      "id": "G1",
      "name": "选题卡实际投递 ≥8 期",
-     "value": 6,
+     "value": 10,
      "expect": "≥8",
-     "status": "WARN"
+     "status": "PASS"
     },
     {
      "id": "G1_DAILY",
      "name": "G1 日检器（三源一致 + 期望期数 + 缺卡点名）",
      "value": {
       "verdict": "NO_GAP",
-      "expected_periods": 6,
-      "actual_source_cards": 6,
-      "actual_relay_sent": 6,
-      "actual_relay_am": 6,
+      "expected_periods": 10,
+      "actual_source_cards": 10,
+      "actual_relay_sent": 10,
+      "actual_relay_am": 10,
       "g1_threshold": 8,
       "three_source": "一致",
       "missing_dates": [],
@@ -2806,40 +2805,40 @@
       "reader_errors": []
      },
      "expect": "verdict=NO_GAP 且无 reader",
-     "status": "WARN"
+     "status": "PASS"
     },
     {
      "id": "G1b",
      "name": "用户明确祈使 ≥2（action 非空 + source=user）",
-     "value": 16,
+     "value": 27,
      "expect": "≥2",
      "status": "PASS"
     },
     {
      "id": "G2",
      "name": "CC 管线草稿 ≥3 篇（frontmatter 双字段 + live 目录实存）",
-     "value": 14,
+     "value": 29,
      "expect": "≥3",
      "status": "PASS"
     },
     {
      "id": "G2b",
      "name": "用户评「可发」≥1 篇",
-     "value": 18,
+     "value": 25,
      "expect": "≥1",
      "status": "PASS"
     },
     {
      "id": "G3-a",
      "name": "草稿外发事件逐条须有 user approval（一票否决）",
-     "value": 2,
+     "value": 4,
      "expect": "未授权=0",
      "status": "PASS"
     },
     {
      "id": "G4",
      "name": "structured_count ≥8（归因+目标+证据三件套）",
-     "value": 59,
+     "value": 76,
      "expect": "≥8",
      "status": "PASS"
     },
@@ -2862,7 +2861,7 @@
     {
      "id": "G4d",
      "name": "g4d_closed ≥1（归因→修正→复验三段齐全）",
-     "value": 19,
+     "value": 25,
      "expect": "≥1",
      "status": "PASS"
     },
@@ -3023,15 +3022,15 @@
   "both": 52
  },
  "sg": {
-  "ok": true,
-  "direct_ip": "120.235.8.7",
-  "direct_country": "CN",
-  "sg_ip": "43.134.58.205",
-  "exit_node": "off",
+  "ok": false,
+  "direct_ip": "",
+  "direct_country": "",
+  "sg_ip": "",
+  "exit_node": "unknown",
   "socks_port": 13083,
   "http_port": 13084,
-  "status_raw": "sg-link status\n===================\nssh host alias   : sg\nsocks5 port      : 13083\nhttp proxy port  : 13084\nrun dir          : ~/.sg-link\nexpected egress  : 43.134.58.205\n\n  ssh socks5 tunnel  :13083  up, pid 84990\n  http bridge        :13084  up, pid 85045\n\n· direct egress       : 120.235.8.7 CN\n· link egress (:13084)  : 43.134.58.205\n  ✓ matches expected SG exit 43.134.58.205\n· exit node          : off (per-app link in use)\n\nlogs: ~/.sg-link/ssh.log\n      ~/.sg-link/bridge.log\nstatus: healthy (egress 43.134.58.205 via :13084)",
-  "status_error": ""
+  "status_raw": "",
+  "status_error": "✗ status: UNHEALTHY — socks5 127.0.0.1:13083 has no listener (link down or half-open) (run 'sg-link.sh up' to self-heal)\n"
  },
  "warnings": []
 }
