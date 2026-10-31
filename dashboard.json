@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-31T07:30:00+08:00",
- "today": "2026-10-31",
- "weekday": "周六",
+ "generated_at": "2026-11-01T07:30:00+08:00",
+ "today": "2026-11-01",
+ "weekday": "周日",
  "mode": "sanitized",
  "stats": {
   "open_todos": 43,
@@ -2770,13 +2770,13 @@
    "ok": true,
    "todo_mtime": "2026-10-19T12:05",
    "todo_bytes": 33936,
-   "load": "{ 2.81 2.42 2.26 }"
+   "load": "{ 2.25 2.56 2.52 }"
   }
  ],
  "active": {
   "ok": true,
   "gate": {
-   "ts": "2026-10-31T06:30:09+08:00",
+   "ts": "2026-11-01T06:30:05+08:00",
    "verdict": "PASS",
    "fail": 0,
    "warn": 0,
@@ -2785,7 +2785,7 @@
     {
      "id": "G1",
      "name": "选题卡实际投递 ≥8 期",
-     "value": 10,
+     "value": 11,
      "expect": "≥8",
      "status": "PASS"
     },
@@ -2794,10 +2794,10 @@
      "name": "G1 日检器（三源一致 + 期望期数 + 缺卡点名）",
      "value": {
       "verdict": "NO_GAP",
-      "expected_periods": 10,
-      "actual_source_cards": 10,
-      "actual_relay_sent": 10,
-      "actual_relay_am": 10,
+      "expected_periods": 11,
+      "actual_source_cards": 11,
+      "actual_relay_sent": 11,
+      "actual_relay_am": 11,
       "g1_threshold": 8,
       "three_source": "一致",
       "missing_dates": [],
@@ -2817,14 +2817,14 @@
     {
      "id": "G2",
      "name": "CC 管线草稿 ≥3 篇（frontmatter 双字段 + live 目录实存）",
-     "value": 29,
+     "value": 30,
      "expect": "≥3",
      "status": "PASS"
     },
     {
      "id": "G2b",
      "name": "用户评「可发」≥1 篇",
-     "value": 25,
+     "value": 26,
      "expect": "≥1",
      "status": "PASS"
     },
@@ -2838,7 +2838,7 @@
     {
      "id": "G4",
      "name": "structured_count ≥8（归因+目标+证据三件套）",
-     "value": 76,
+     "value": 77,
      "expect": "≥8",
      "status": "PASS"
     },
