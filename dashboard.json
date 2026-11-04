@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-01T07:30:00+08:00",
- "today": "2026-11-01",
- "weekday": "周日",
+ "generated_at": "2026-11-04T10:04:28+08:00",
+ "today": "2026-11-04",
+ "weekday": "周三",
  "mode": "sanitized",
  "stats": {
   "open_todos": 43,
@@ -11,13 +11,13 @@
   "undated": 12,
   "done_todos": 8,
   "archived": 1,
-  "open_tasks": 34,
-  "done_tasks": 53,
+  "open_tasks": 12,
+  "done_tasks": 14,
   "weekly_open": 19,
   "weekly_total": 25,
   "mbp_items": 52,
   "mini_items": 52,
-  "project_count": 3
+  "project_count": 1
  },
  "todos": [
   {
@@ -1802,699 +1802,211 @@
  ],
  "tasks": [
   {
-   "project": "e链数享四册-rw2",
-   "phase": "Phase 1 基线池（T1-T2）",
+   "project": "双机体系20261101收尾",
+   "phase": "Phase 1 · SG 飞书权限补齐（等用户后台操作 + agent 收口）",
    "id": "",
    "done": true,
-   "text": "T1 dev-docs-full 建立 + progress.md 骨架 + 叙事稿 provisional 落盘",
+   "text": "用户：飞书开放平台 → 应用 cli_aa6c01ec39385d1e → 权限管理 → 勾 4 个 im:chat 系权限（im:chat:readonly / im:chat / im:chat.group_info:readonly / im:chat.members:read）",
    "estimate": ""
   },
   {
-   "project": "e链数享四册-rw2",
-   "phase": "Phase 1 基线池（T1-T2）",
+   "project": "双机体系20261101收尾",
+   "phase": "Phase 1 · SG 飞书权限补齐（等用户后台操作 + agent 收口）",
    "id": "",
    "done": true,
-   "text": "T2 提取器：v2.32→11 章 md 池+394 图+表格感知；基线01 五册→叙事参考池（SELFTEST PASS + 实跑 11 章）",
+   "text": "用户：创建版本并发布（权限变更必须发版生效）",
    "estimate": ""
   },
   {
-   "project": "e链数享四册-rw2",
-   "phase": "Phase 2 四册生产（T3-T5）",
+   "project": "双机体系20261101收尾",
+   "phase": "Phase 1 · SG 飞书权限补齐（等用户后台操作 + agent 收口）",
    "id": "",
    "done": true,
-   "text": "T3 装配器 build_docx.py（TOC 域 fldChar+页码域+七件套样式+受控清洗，SELFTEST PASS）",
+   "text": "用户裁决：统一群架构——两实例共用群 oc_956bdbca…（两个不同 bot app 各自长连接，@ 对象即路由）",
    "estimate": ""
   },
   {
-   "project": "e链数享四册-rw2",
-   "phase": "Phase 2 四册生产（T3-T5）",
+   "project": "双机体系20261101收尾",
+   "phase": "Phase 1 · SG 飞书权限补齐（等用户后台操作 + agent 收口）",
    "id": "",
    "done": true,
-   "text": "T4 Workflow：四册并行起草（册①②③×5 写手）→装配→验收（2026-10-06）",
+   "text": "agent：syncChat 改指统一群 + Sync now 拉名单落盘（policy rev 7，allowed=1 人）+ status 13 项全 ready + feishu stats.received=5 实测收流 ⏱0.2h",
    "estimate": ""
   },
   {
-   "project": "e链数享四册-rw2",
-   "phase": "Phase 2 四册生产（T3-T5）",
-   "id": "",
-   "done": true,
-   "text": "T5 修复 loop（FAIL→修复→复验，≤2 轮或预算内）（2026-10-06）",
-   "estimate": ""
-  },
-  {
-   "project": "e链数享四册-rw2",
-   "phase": "Phase 3 收口（T6-T9）",
-   "id": "",
-   "done": true,
-   "text": "T6 选册导航图回填（data.json 实测单源+字节对账+HTML 适配）（2026-10-06）",
-   "estimate": ""
-  },
-  {
-   "project": "e链数享四册-rw2",
-   "phase": "Phase 3 收口（T6-T9）",
-   "id": "",
-   "done": true,
-   "text": "T7 交付说明+md5 清单落 OUTPUTS/v232交付基线03/（2026-10-06）",
-   "estimate": ""
-  },
-  {
-   "project": "e链数享四册-rw2",
-   "phase": "Phase 3 收口（T6-T9）",
-   "id": "",
-   "done": true,
-   "text": "T8 HA 终审（ha-liaison，意见=建议）——FAIL 条件性→联络员逐条核实改判 PASS；3 依据 1 转写错/1 算数误读/1 本地否证；意见全文 ~/OUTPUTS/ha-liaison/20261006-elink4books-rw2.md",
-   "estimate": ""
-  },
-  {
-   "project": "e链数享四册-rw2",
-   "phase": "Phase 3 收口（T6-T9）",
+   "project": "双机体系20261101收尾",
+   "phase": "Phase 1 · SG 飞书权限补齐（等用户后台操作 + agent 收口）",
    "id": "",
    "done": false,
-   "text": "T9 Done when 全勾核对 → 用户验收 → 归档（rw3 轮已交付 OUTPUTS/v232交付基线04/，RSI 沉淀完成，等用户实测验收）",
+   "text": "agent：群里 @SGbot 实测出 Ticket（D1 终证，与 Phase 2 一起测）",
    "estimate": ""
   },
   {
-   "project": "e链数享四册-rw2",
-   "phase": "rw3 轮（2026-10-06/07，用户验收否决驱动）",
+   "project": "双机体系20261101收尾",
+   "phase": "Phase 2 · Mini 飞书端到端实测",
    "id": "",
    "done": true,
-   "text": "T10 四基准提取+SPEC §四A 常设门（优秀01/02+操作参考01/02 全实读落 bench/）",
+   "text": "GLM provider 凭证配置（Mini+SG 双机）：ZAI_CODING_CN_API_KEY 复用 hermes GLM_API_KEY（同端点 open.bigmodel.cn）；Mini 评估实测真通（「测试1」被智能判 ignore——评估器正常工作的正面证据） ⏱1.5h",
    "estimate": ""
   },
   {
-   "project": "e链数享四册-rw2",
-   "phase": "rw3 轮（2026-10-06/07，用户验收否决驱动）",
+   "project": "双机体系20261101收尾",
+   "phase": "Phase 2 · Mini 飞书端到端实测",
    "id": "",
    "done": true,
-   "text": "T11 rw3 Workflow：6 写手基准对齐迭代→装配→验收（首轮三验收员 stall 假绿→纯验收小流水线真验）→修复 R1+R2",
+   "text": "SG 同款修复：refs 补齐 + .bashrc/.dsh-env + respawn-pane 带 key（restart 机制会丢 session env 的坑已踩实记录） ⏱1h",
    "estimate": ""
   },
   {
-   "project": "e链数享四册-rw2",
-   "phase": "rw3 轮（2026-10-06/07，用户验收否决驱动）",
+   "project": "双机体系20261101收尾",
+   "phase": "Phase 2 · Mini 飞书端到端实测",
    "id": "",
    "done": true,
-   "text": "T12 册④ 图渲染 220/229 修复（GIF 换底+图像防吞并）→ 229/229",
+   "text": "用户/agent：oc_956b… 群里 @MiniSuperAgent 发首个请求——评估器智能判定「测试1」为连通性 ping 而 ignore（正常），等待一条真实任务验证 Ticket 全链 ⏱0.3h",
    "estimate": ""
   },
   {
-   "project": "e链数享四册-rw2",
-   "phase": "rw3 轮（2026-10-06/07，用户验收否决驱动）",
+   "project": "双机体系20261101收尾",
+   "phase": "Phase 2 · Mini 飞书端到端实测",
    "id": "",
    "done": true,
-   "text": "T13 基线04 打包（12 件+基准对照表随件）+ RSI 沉淀（复盘 #8-#11）",
+   "text": "Executor 无 shell 根因修复（上游级 bug）：workOnly() 的 scopeParentOf(agent) WeakMap 从不填充→preset 工具全遮蔽；修复=WORK_TOOLS ∩ view(agent).restrictableNames（inherited∩白名单，fail-closed）；测试收敛 21 failed→1（与基线一致，判定为实现错——subagent 属 agent 自层不可被 re",
    "estimate": ""
   },
   {
-   "project": "e链数享四册-rw2",
-   "phase": "Done when",
-   "id": "",
-   "done": false,
-   "text": "D1-D7 全部有证据勾选（见 plan.md 完成验证表）",
-   "estimate": ""
-  },
-  {
-   "project": "rsi体系进化与双机评估20261006",
-   "phase": "Phase 0: 基线盘点与 MVP 场景对齐",
-   "id": "T-001",
-   "done": true,
-   "text": "读既有 dev-docs 四任务 + 近 3 日 RSI 记忆，产出基线摘要",
-   "estimate": "0.5h"
-  },
-  {
-   "project": "rsi体系进化与双机评估20261006",
-   "phase": "Phase 0: 基线盘点与 MVP 场景对齐",
-   "id": "T-002",
-   "done": true,
-   "text": "完成 plan.md A1/A4 规格实测回填",
-   "estimate": "0.5h"
-  },
-  {
-   "project": "rsi体系进化与双机评估20261006",
-   "phase": "Phase 0: 基线盘点与 MVP 场景对齐",
-   "id": "T-003",
-   "done": true,
-   "text": "与用户对齐 MVP 场景候选与各阶段完成标准",
-   "estimate": "0.5h, 依赖: T-001"
-  },
-  {
-   "project": "rsi体系进化与双机评估20261006",
-   "phase": "Phase 1: RSI 作用与场景输出——3 个 MVP",
-   "id": "T-010",
-   "done": true,
-   "text": "RSI 作用面成文（夜批 reflector/六件套/ledger）",
-   "estimate": "1h, 依赖: T-003"
-  },
-  {
-   "project": "rsi体系进化与双机评估20261006",
-   "phase": "Phase 1: RSI 作用与场景输出——3 个 MVP",
-   "id": "T-011",
-   "done": true,
-   "text": "MVP-A 评标/标书域失败自愈实装 + 自测证据  — ⚠️ DONE_WITH_CONCERNS: 三脚本 self-test 全绿（主会话独立复跑）+ 端到端出 4 簇/1 提案草稿；concerns=真实事件级样本 0 条（三层精度门收紧后，历史真样本在备份区/词汇异形区）→ fixtures 兜底，草稿已如实披露并建议接入评标 PostToolUse 积累真样本——MVP 机制可运行但域证据待真实任务补",
-   "estimate": "2.5h"
-  },
-  {
-   "project": "rsi体系进化与双机评估20261006",
-   "phase": "Phase 1: RSI 作用与场景输出——3 个 MVP",
-   "id": "T-012",
-   "done": true,
-   "text": "MVP-B 双机漂移自愈实装 + 自测证据",
-   "estimate": "2h"
-  },
-  {
-   "project": "rsi体系进化与双机评估20261006",
-   "phase": "Phase 1: RSI 作用与场景输出——3 个 MVP",
-   "id": "T-013",
-   "done": true,
-   "text": "MVP-C 记忆治理自愈实装 + 自测证据",
-   "estimate": "2h"
-  },
-  {
-   "project": "rsi体系进化与双机评估20261006",
-   "phase": "Phase 1: RSI 作用与场景输出——3 个 MVP",
-   "id": "T-014",
-   "done": true,
-   "text": "四 MVP 对抗验证（3 lens，换模型族互查）",
-   "estimate": "1.5h, 依赖: T-011,T-012,T-013,T-015"
-  },
-  {
-   "project": "rsi体系进化与双机评估20261006",
-   "phase": "Phase 1: RSI 作用与场景输出——3 个 MVP",
-   "id": "T-015",
-   "done": true,
-   "text": "MVP-D cron/管线僵尸检测自愈实装 + 自测证据",
-   "estimate": "2h"
-  },
-  {
-   "project": "rsi体系进化与双机评估20261006",
-   "phase": "Phase 2: 三 agents 进化盘点 + 自动化接驳编排",
-   "id": "T-020",
-   "done": true,
-   "text": "三 agents 现状盘点",
-   "estimate": "1h, 依赖: T-001"
-  },
-  {
-   "project": "rsi体系进化与双机评估20261006",
-   "phase": "Phase 2: 三 agents 进化盘点 + 自动化接驳编排",
-   "id": "T-021",
-   "done": true,
-   "text": "自动化接驳编排设计",
-   "estimate": "2h, 依赖: T-020"
-  },
-  {
-   "project": "rsi体系进化与双机评估20261006",
-   "phase": "Phase 2: 三 agents 进化盘点 + 自动化接驳编排",
-   "id": "T-022",
-   "done": true,
-   "text": "编排落地 + 实测一轮触发闭环",
-   "estimate": "2h, 依赖: T-021"
-  },
-  {
-   "project": "rsi体系进化与双机评估20261006",
-   "phase": "Phase 3: agents-master 进化——联动三 agents",
-   "id": "T-030",
-   "done": true,
-   "text": "判据引擎扩展（模式 15/16 + ha-liaison 通道入路由）",
-   "estimate": "2h, 依赖: T-021"
-  },
-  {
-   "project": "rsi体系进化与双机评估20261006",
-   "phase": "Phase 3: agents-master 进化——联动三 agents",
-   "id": "T-031",
-   "done": true,
-   "text": "路由卡 schema 增三 agents 联动字段",
-   "estimate": "1h, 依赖: T-030"
-  },
-  {
-   "project": "rsi体系进化与双机评估20261006",
-   "phase": "Phase 3: agents-master 进化——联动三 agents",
-   "id": "T-032",
-   "done": true,
-   "text": "端到端闭环验证（路由卡→三 agents 执行→回填）",
-   "estimate": "1.5h, 依赖: T-031"
-  },
-  {
-   "project": "rsi体系进化与双机评估20261006",
-   "phase": "Phase 4: mod 并入三体系",
-   "id": "T-040",
-   "done": true,
-   "text": "提炼 OPS-20261004 mod 终审结论为并入 spec",
-   "estimate": "1h"
-  },
-  {
-   "project": "rsi体系进化与双机评估20261006",
-   "phase": "Phase 4: mod 并入三体系",
-   "id": "T-041",
-   "done": true,
-   "text": "mod → RSI/三 agents/agents-master 三接入点实装",
-   "estimate": "3h, 依赖: T-040"
-  },
-  {
-   "project": "rsi体系进化与双机评估20261006",
-   "phase": "Phase 4: mod 并入三体系",
-   "id": "T-042",
-   "done": true,
-   "text": "并入后行为无回归对抗验证  — ⚠️ DONE_WITH_CONCERNS（冲突回退后重建：held_in 全过 validate 复跑绿/零差异/双机一致；留观=新会话加载实证+7 天过卡率+15s 快轮开销，context.md 12:4x 条在案）",
-   "estimate": "1h, 依赖: T-041"
-  },
-  {
-   "project": "rsi体系进化与双机评估20261006",
-   "phase": "Phase 5: 双机整套体系评估收口",
-   "id": "T-050",
-   "done": true,
-   "text": "Mini 可达性探测 + 双机实测盘点",
-   "estimate": "1h"
-  },
-  {
-   "project": "rsi体系进化与双机评估20261006",
-   "phase": "Phase 5: 双机整套体系评估收口",
-   "id": "T-051",
-   "done": true,
-   "text": "《双机体系评估报告》产出落 OUTPUTS",
-   "estimate": "2.5h, 依赖: T-050"
-  },
-  {
-   "project": "rsi体系进化与双机评估20261006",
-   "phase": "Phase 5: 双机整套体系评估收口",
-   "id": "T-052",
-   "done": true,
-   "text": "全任务收口 + 关卡 B 用户签字",
-   "estimate": ""
-  },
-  {
-   "project": "rsi体系进化与双机评估20261006",
-   "phase": "增补任务（2026-10-06 立项：跨会话情报 digest §④ + claude agents 实测并入）",
-   "id": "T-060",
-   "done": true,
-   "text": "路由池 pending 卡分诊  — ⚠️ DONE_WITH_CONCERNS: 分诊由 3f 蜂群产出 master-cards.md（109 行）完成——实测池内 pending 36（主会话复核）：30 张超 48h 逐张列明（26 张系 10-01 15 分钟连发残留 session=null）+ 2 张 PENDING_USER 批准门 + 5 张 09 月老卡 + 1 张临界；机械回填 0 张有据（uuid 全池证据检索零",
-   "estimate": "2h, 归属: Phase 2/goal 2"
-  },
-  {
-   "project": "rsi体系进化与双机评估20261006",
-   "phase": "增补任务（2026-10-06 立项：跨会话情报 digest §④ + claude agents 实测并入）",
-   "id": "T-061",
-   "done": true,
-   "text": "executor 三态漂移规范化提案（走六件套环，goal 2 前置）  — ⚠️ DONE_WITH_CONCERNS: 提案草稿落盘（含 executor_fingerprint 必填/三态对账门/冒名检测三件+可证伪 Prediction+兼容性 Rollback）；concerns=guardian 审查未跑（3f verifier 蜂群正占 ledger 容量，且本草稿改 gated 域三处须正式六件套环）——转 rsi-ba",
-   "estimate": "1.5h, 归属: Phase 2/goal 2"
-  },
-  {
-   "project": "rsi体系进化与双机评估20261006",
-   "phase": "增补任务（2026-10-06 立项：跨会话情报 digest §④ + claude agents 实测并入）",
-   "id": "T-062",
-   "done": true,
-   "text": "三 agents 接驳以 rsi_claim_lock 为并发底座",
-   "estimate": "1h, 归属: Phase 2/goal 2-3"
-  },
-  {
-   "project": "rsi体系进化与双机评估20261006",
-   "phase": "增补任务（2026-10-06 立项：跨会话情报 digest §④ + claude agents 实测并入）",
-   "id": "T-063",
-   "done": true,
-   "text": "协调 mod模式可行性 会话确认 mod 并入边界防双头改",
-   "estimate": "0.5h, 归属: Phase 4 前置/goal 4"
-  },
-  {
-   "project": "rsi体系进化与双机评估20261006",
-   "phase": "增补任务（2026-10-06 立项：跨会话情报 digest §④ + claude agents 实测并入）",
-   "id": "T-064",
-   "done": true,
-   "text": "mod 常驻化收口",
-   "estimate": "2h, 归属: Phase 4/goal 4"
-  },
-  {
-   "project": "rsi体系进化与双机评估20261006",
-   "phase": "增补任务（2026-10-06 立项：跨会话情报 digest §④ + claude agents 实测并入）",
-   "id": "T-065",
-   "done": false,
-   "text": "夜跑转正裁决材料（路径已由 d7 明确：10-07 晨检 `bash ~/scripts/rsi-night-morning-check.sh` fail_streak=0 → 翻 DRY_RUN=0；10-08 晚切 v0.2 writer 链+verifier pilot（verdict 落 verdicts-night/、drafts 不占 P 编号、夜验封顶 NIGHT-PRELIM）；两晚 PASS 在档：10-05 手动+1",
-   "estimate": "1h, 归属: Phase 1/goal 1"
-  },
-  {
-   "project": "rsi体系进化与双机评估20261006",
-   "phase": "增补任务（2026-10-06 立项：跨会话情报 digest §④ + claude agents 实测并入）",
-   "id": "T-066",
-   "done": true,
-   "text": "hermes CLI 状态复核  — ⚠️ DONE_WITH_CONCERNS: 主会话 10-06 实测端到端 PASS（--version rc=0；-z \"OK\" rc=0 含 M3 模型往返）；concerns=①ha-liaison 探针窗口（~09:30）恰逢 hermes update 进行中（trampoline 09:52 再生成、.git 09:53 更新），修复态在更新窗口内翻转 ②模板级根因未除（_launch",
-   "estimate": "1h, 归属: Phase 5 前置/goal 5"
-  },
-  {
-   "project": "rsi体系进化与双机评估20261006",
-   "phase": "增补任务（2026-10-06 立项：跨会话情报 digest §④ + claude agents 实测并入）",
-   "id": "T-067",
-   "done": true,
-   "text": "Mini 出网稳定性维度入评估报告",
-   "estimate": "1h, 归属: Phase 5/goal 5"
-  },
-  {
-   "project": "rsi体系进化与双机评估20261006",
-   "phase": "增补任务（2026-10-06 立项：跨会话情报 digest §④ + claude agents 实测并入）",
-   "id": "T-068",
-   "done": true,
-   "text": "三停滞 dev-docs 档收编或关停裁决",
-   "estimate": ""
-  },
-  {
-   "project": "rsi体系进化与双机评估20261006",
-   "phase": "增补任务（2026-10-06 立项：跨会话情报 digest §④ + claude agents 实测并入）",
-   "id": "T-069",
-   "done": true,
-   "text": "mod 会话素材吸收→Phase 4 并入设计输入",
-   "estimate": "1.5h, 归属: Phase 4/goal 1+4"
-  },
-  {
-   "project": "rsi体系进化与双机评估20261006",
-   "phase": "增补任务（2026-10-06 立项：跨会话情报 digest §④ + claude agents 实测并入）",
-   "id": "T-070",
-   "done": true,
-   "text": "ledger 时间戳偏差审计（笔误 vs 漂移分类口径）",
-   "estimate": ""
-  },
-  {
-   "project": "rsi体系进化与双机评估20261006",
-   "phase": "增补任务（2026-10-06 立项：跨会话情报 digest §④ + claude agents 实测并入）",
-   "id": "T-071",
-   "done": true,
-   "text": "三 agents 全套跟踪运行保障",
-   "estimate": ""
-  },
-  {
-   "project": "验证weknora能力与增强现有系统",
-   "phase": "Phase 0 - 开工前门禁(必做,不勾掉不进 Phase 1)",
+   "project": "双机体系20261101收尾",
+   "phase": "Phase 2 · Mini 飞书端到端实测",
    "id": "",
    "done": true,
-   "text": "实测 plan.md 关卡 A 验证表 A1-A7 ⏱0.5h ｜ 完成(2026-10-01)：A1✅ 83条目+9-18后516新文件（主链路活跃）；A2⚠️ PARTIAL——Mini OrbStack daemon 未运行 docker volume ls 不可执行，改文件系统层验 ~/WeKnora 目录在案（CHANGELOG/docker/deploy 等），数据卷实测留 Phase 3；A3✅ SKILL.md 在案；A",
+   "text": "端到端终验（交付版）：issue #11（避竞态）→ worker 22 工具（7→22）→ shell 真执行落盘（final.txt 9 字节+退出码 0）→ subagent 链通 → orchestrator_report ready → acknowledgement+reply outbox 全 sent（GitHub #11 可见）；实例 13/13 ready errors 空 ⏱1h",
    "estimate": ""
   },
   {
-   "project": "验证weknora能力与增强现有系统",
-   "phase": "Phase 0 - 开工前门禁(必做,不勾掉不进 Phase 1)",
+   "project": "双机体系20261101收尾",
+   "phase": "Phase 2 · Mini 飞书端到端实测",
    "id": "",
    "done": true,
-   "text": "用户在飞书/会话中显式签字批准 plan.md 关卡 A ⏱0h(等用户) ｜ 已签(2026-10-01 会话内)：「签字 B组」——注意签字范围=关卡 A+Phase 0，Phase 1-4 蜂群是否启动另行拍板（边界锁定已写 memory id 1242）",
+   "text": "delivery=0 结案：口径误读——ReplyStatus 词表无 delivered 值，outbox 19/19 全 sent；真卡点值为 pending/channelIgnored；报备新缺陷：Store.receipts.behind() SQL 引用不存在列（顺序保证静默失效，单独派工） ⏱0.5h",
    "estimate": ""
   },
   {
-   "project": "验证weknora能力与增强现有系统",
-   "phase": "Phase 0 - 开工前门禁(必做,不勾掉不进 Phase 1)",
-   "id": "",
-   "done": true,
-   "text": "跑 `devdocs-staleness-check.py` 确认未与其他停滞任务交叠 ⏱0.1h ｜ 完成(2026-10-01)：真实路径 ~/.claude/hooks/devdocs-staleness-check.py；weknora 停滞 7.4 天系签字前状态今日已激活，无与其他停滞任务的代码交叠",
-   "estimate": ""
-  },
-  {
-   "project": "验证weknora能力与增强现有系统",
-   "phase": "Phase 0 - 开工前门禁(必做,不勾掉不进 Phase 1)",
-   "id": "",
-   "done": true,
-   "text": "memory 写入\"任务边界锁定\"(scope=评估不部署) ⏱0.1h ｜ 完成(2026-10-01)：hermes id 1242（scope=纯验证不部署不重启容器；Phase 1-4 另行拍板；10-18 复查判据在案）",
-   "estimate": ""
-  },
-  {
-   "project": "验证weknora能力与增强现有系统",
-   "phase": "Phase 1 - WeKnora 能力盘点 v2 ⏱并行蜂群",
-   "id": "Agent-1",
-   "done": false,
-   "text": "抓 WeKnora 官方仓库/GitHub release notes(2026-09 后) ⏱2h",
-   "estimate": ""
-  },
-  {
-   "project": "验证weknora能力与增强现有系统",
-   "phase": "Phase 1 - WeKnora 能力盘点 v2 ⏱并行蜂群",
-   "id": "Agent-1",
-   "done": false,
-   "text": "对比 Phase 1-4 能力清单,标\"新增 / 持平 / 失效 / 退步\" ⏱1.5h",
-   "estimate": ""
-  },
-  {
-   "project": "验证weknora能力与增强现有系统",
-   "phase": "Phase 1 - WeKnora 能力盘点 v2 ⏱并行蜂群",
-   "id": "Agent-2",
-   "done": false,
-   "text": "读 Phase 1-4 报告(hermes id 600523),提取当时能力基线 ⏱1h",
-   "estimate": ""
-  },
-  {
-   "project": "验证weknora能力与增强现有系统",
-   "phase": "Phase 1 - WeKnora 能力盘点 v2 ⏱并行蜂群",
-   "id": "Agent-3",
-   "done": false,
-   "text": "探查 Mini 端 weknora 镜像版本(只读,不启动容器) ⏱0.5h",
-   "estimate": ""
-  },
-  {
-   "project": "验证weknora能力与增强现有系统",
-   "phase": "Phase 1 - WeKnora 能力盘点 v2 ⏱并行蜂群",
+   "project": "双机体系20261101收尾",
+   "phase": "Phase 2 · Mini 飞书端到端实测",
    "id": "",
    "done": false,
-   "text": "汇总:产出 `OUTPUTS/weknora-capability-v2.md`(能力-价值矩阵) ⏱1h",
+   "text": "用户：群里 @MiniSuperAgent 发真实任务，确认飞书侧收到回复（D2 飞书侧终证） ⏱0.2h",
    "estimate": ""
   },
   {
-   "project": "验证weknora能力与增强现有系统",
-   "phase": "Phase 1 - WeKnora 能力盘点 v2 ⏱并行蜂群",
+   "project": "双机体系20261101收尾",
+   "phase": "Phase 2 · Mini 飞书端到端实测",
    "id": "",
    "done": false,
-   "text": "关卡 A 内 Phase 1 子验证表勾选(A5/A6/A7) ⏱0.2h",
+   "text": "SG 挂账：GitHub 通道 admission 停滞——daily-board issue #1 评论的 notification 在 notifications 列表可见但 trigger 不进（github-since 推进而 per-source cursor:1 停在 08:13:24Z）；待排查 admission 表对 comment 类通知的判定 ⏱1h",
    "estimate": ""
   },
   {
-   "project": "验证weknora能力与增强现有系统",
-   "phase": "Phase 2 - 主链路损失评估 ⏱串行调研",
+   "project": "双机体系20261101收尾",
+   "phase": "Phase 2 · Mini 飞书端到端实测",
    "id": "",
    "done": false,
-   "text": "拉 9-18 → 9-24 期间 `wechat-clip.py` 执行日志(行数/成功率/平均耗时) ⏱1h",
+   "text": "DSH 上游缺陷报备：workOnly scope 语义 bug（已本地修复）+ Store.receipts.behind() SQL 缺陷——考虑向 deepseek-ai/dsh-superagent-prototype 提 issue/PR ⏱0.5h",
    "estimate": ""
   },
   {
-   "project": "验证weknora能力与增强现有系统",
-   "phase": "Phase 2 - 主链路损失评估 ⏱串行调研",
+   "project": "双机体系20261101收尾",
+   "phase": "Phase 3 · 凭证卫生（低风险收尾）",
    "id": "",
    "done": false,
-   "text": "拉同期 Phase 1-4 时期指标作基线(从 hermes id 600523 提取) ⏱1h",
+   "text": "GitHub vergiil-agent 名下删旧 token：fine-grained 1 枚 + 未保存 ghp_ 2 枚（列表页确认只留 v3 classic） ⏱0.2h",
    "estimate": ""
   },
   {
-   "project": "验证weknora能力与增强现有系统",
-   "phase": "Phase 2 - 主链路损失评估 ⏱串行调研",
+   "project": "双机体系20261101收尾",
+   "phase": "Phase 3 · 凭证卫生（低风险收尾）",
    "id": "",
    "done": false,
-   "text": "对比 ≥3 项指标:剪藏篇数 / 抓取成功率 / 归档目录大小 / 错误率 ⏱1h",
+   "text": "SG 飞书 App Secret 轮换（开放平台重置 → 新 secret 灌 lark-bot config init → 旧 secret 失效验证） ⏱0.3h",
    "estimate": ""
   },
   {
-   "project": "验证weknora能力与增强现有系统",
-   "phase": "Phase 2 - 主链路损失评估 ⏱串行调研",
+   "project": "双机体系20261101收尾",
+   "phase": "Phase 3 · 凭证卫生（低风险收尾）",
    "id": "",
    "done": false,
-   "text": "量化损失:有 WeKnora vs 无 WeKnora 6 周,差异百分比 ⏱0.5h",
+   "text": "Mini 飞书 App Secret 同款轮换（建议，量力） ⏱0.3h",
    "estimate": ""
   },
   {
-   "project": "验证weknora能力与增强现有系统",
-   "phase": "Phase 2 - 主链路损失评估 ⏱串行调研",
-   "id": "",
-   "done": false,
-   "text": "产出 `OUTPUTS/wechat-clip-loss-assessment.md` ⏱0.5h",
-   "estimate": ""
-  },
-  {
-   "project": "验证weknora能力与增强现有系统",
-   "phase": "Phase 2 - 主链路损失评估 ⏱串行调研",
-   "id": "",
-   "done": false,
-   "text": "关卡 A 内 Phase 2 子验证表勾选(A1) ⏱0.1h",
-   "estimate": ""
-  },
-  {
-   "project": "验证weknora能力与增强现有系统",
-   "phase": "Phase 3 - 重启预算评估 ⏱串行探查",
-   "id": "",
-   "done": false,
-   "text": "ssh mini 验证 `weknora_postgres-data` 卷存在 + 大小可读 ⏱0.5h",
-   "estimate": ""
-  },
-  {
-   "project": "验证weknora能力与增强现有系统",
-   "phase": "Phase 3 - 重启预算评估 ⏱串行探查",
-   "id": "",
-   "done": false,
-   "text": "检查 docker-compose.yaml 凭据段(可能 6 周后失效) ⏱0.5h",
-   "estimate": ""
-  },
-  {
-   "project": "验证weknora能力与增强现有系统",
-   "phase": "Phase 3 - 重启预算评估 ⏱串行探查",
-   "id": "",
-   "done": false,
-   "text": "评估重启所需 token/时间预算(参考 Phase 1-4 实施成本) ⏱1h",
-   "estimate": ""
-  },
-  {
-   "project": "验证weknora能力与增强现有系统",
-   "phase": "Phase 3 - 重启预算评估 ⏱串行探查",
-   "id": "",
-   "done": false,
-   "text": "风险清单:数据兼容性 / API 漂移 / Mini 重启连锁 ⏱0.5h",
-   "estimate": ""
-  },
-  {
-   "project": "验证weknora能力与增强现有系统",
-   "phase": "Phase 3 - 重启预算评估 ⏱串行探查",
-   "id": "",
-   "done": false,
-   "text": "产出 `OUTPUTS/weknora-restart-budget.md` 含红黄绿三色判定 ⏱1h",
-   "estimate": ""
-  },
-  {
-   "project": "验证weknora能力与增强现有系统",
-   "phase": "Phase 3 - 重启预算评估 ⏱串行探查",
-   "id": "",
-   "done": false,
-   "text": "关卡 A 内 Phase 3 子验证表勾选(A2) ⏱0.1h",
-   "estimate": ""
-  },
-  {
-   "project": "验证weknora能力与增强现有系统",
-   "phase": "Phase 4 - review 决策材料包 ⏱汇总",
-   "id": "",
-   "done": false,
-   "text": "提取 Phase 1-3 关键结论(各 ≤5 条) ⏱0.5h",
-   "estimate": ""
-  },
-  {
-   "project": "验证weknora能力与增强现有系统",
-   "phase": "Phase 4 - review 决策材料包 ⏱汇总",
-   "id": "",
-   "done": false,
-   "text": "设计 5 问模板(对应 grill 决策点) ⏱0.5h",
-   "estimate": ""
-  },
-  {
-   "project": "验证weknora能力与增强现有系统",
-   "phase": "Phase 4 - review 决策材料包 ⏱汇总",
-   "id": "",
-   "done": false,
-   "text": "列出 ≥3 种可能决策路径(重启/续观/废弃)及各自 ROI ⏱1h",
-   "estimate": ""
-  },
-  {
-   "project": "验证weknora能力与增强现有系统",
-   "phase": "Phase 4 - review 决策材料包 ⏱汇总",
-   "id": "",
-   "done": false,
-   "text": "产出 `OUTPUTS/weknora-review-decision-pack.md` ⏱0.5h",
-   "estimate": ""
-  },
-  {
-   "project": "验证weknora能力与增强现有系统",
-   "phase": "Phase 4 - review 决策材料包 ⏱汇总",
-   "id": "",
-   "done": false,
-   "text": "关卡 B 完整勾选(B6:D6) ⏱0.2h",
-   "estimate": ""
-  },
-  {
-   "project": "验证weknora能力与增强现有系统",
-   "phase": "Phase 4 - review 决策材料包 ⏱汇总",
-   "id": "",
-   "done": false,
-   "text": "用户显式签字确认关卡 B(飞书回执) ⏱0h(等用户)",
-   "estimate": ""
-  },
-  {
-   "project": "验证weknora能力与增强现有系统",
-   "phase": "Phase 4 - review 决策材料包 ⏱汇总",
-   "id": "",
-   "done": false,
-   "text": "fact-checker agent 独立核查 4 份产物 ⏱1h",
-   "estimate": ""
-  },
-  {
-   "project": "验证weknora能力与增强现有系统",
-   "phase": "Done when(总任务)",
-   "id": "",
-   "done": false,
-   "text": "关卡 A 用户签字(plan.md) ✅",
-   "estimate": ""
-  },
-  {
-   "project": "验证weknora能力与增强现有系统",
-   "phase": "Done when(总任务)",
-   "id": "",
-   "done": false,
-   "text": "关卡 B 用户签字(本文件 Done when 表) ✅",
-   "estimate": ""
-  },
-  {
-   "project": "验证weknora能力与增强现有系统",
-   "phase": "Done when(总任务)",
-   "id": "",
-   "done": false,
-   "text": "4 份产物已生成 + 已 fact-checker 核查 ✅",
-   "estimate": ""
-  },
-  {
-   "project": "验证weknora能力与增强现有系统",
-   "phase": "Done when(总任务)",
-   "id": "",
-   "done": false,
-   "text": "hermes-memory 写入任务总结(id 入 index) ✅",
-   "estimate": ""
-  },
-  {
-   "project": "验证weknora能力与增强现有系统",
-   "phase": "Done when(总任务)",
-   "id": "",
-   "done": false,
-   "text": "任务归档到 `~/.claude/dev-docs/completed/` ✅",
-   "estimate": ""
-  },
-  {
-   "project": "验证weknora能力与增强现有系统",
-   "phase": "2026-10-09 裁剪路径执行记录（用户拍板选项 1）",
+   "project": "双机体系20261101收尾",
+   "phase": "Phase 4 · hermes P1-Mini 激活（另一条线的挂账）",
    "id": "",
    "done": true,
-   "text": "判据实测：观察期真实查询计数（五环证据链）⏱0.7h ｜ 完成(2026-10-09)：0 次，证据链五环全部可复现（Mini zsh_history / docker 状态 / ~/.mcp.json / hermes 双查询 / knowledge-ingest 日志）",
+   "text": "Mini：mini-patches 树上 `hermes pm install` 对齐 environment（发现大小写双头坑：规范家目录=大写 ~（install_key=533b75df），shell `~` 展开小写（6c29a181）——pm install 稳定写小写 dir 而 wrapper 校验链读大写 dir；两次自更新拉树也已用 `git reset --hard p1-deploy-20",
    "estimate": ""
   },
   {
-   "project": "验证weknora能力与增强现有系统",
-   "phase": "2026-10-09 裁剪路径执行记录（用户拍板选项 1）",
+   "project": "双机体系20261101收尾",
+   "phase": "Phase 4 · hermes P1-Mini 激活（另一条线的挂账）",
    "id": "",
    "done": true,
-   "text": "产出 `OUTPUTS/weknora-review-decision-pack.md`（轻量版含三路径 ROI + 执行清单）⏱0.3h ｜ 完成(2026-10-09)：~/OUTPUTS/weknora-review-decision-pack.md",
+   "text": "Mini：`hermes --version` 校验通过——显示 `v0.22.4+8.g06d8b87`（P1 commit 生效，不再报 automatic repair） ⏱0.1h",
    "estimate": ""
   },
   {
-   "project": "验证weknora能力与增强现有系统",
-   "phase": "2026-10-09 裁剪路径执行记录（用户拍板选项 1）",
+   "project": "双机体系20261101收尾",
+   "phase": "Phase 4 · hermes P1-Mini 激活（另一条线的挂账）",
    "id": "",
    "done": true,
-   "text": "Phase 1-3 全量蜂群 17 项 ⏱14.5h ｜ SKIPPED-by-decision(2026-10-09)：判据 0 查询使其结论可先验确定，替代证据=A1 主链路 516 新文件零显著损失",
+   "text": "Mini：`launchctl kickstart` 执行（EX_TEMPFAIL 僵死波折：老 gateway 进程占绑定 → kill 僵尸 → 新 PID 15553 running）+ 飞书重连验证 ✓（feishu connected profile rsia） ⏱0.4h",
    "estimate": ""
   },
   {
-   "project": "验证weknora能力与增强现有系统",
-   "phase": "2026-10-09 裁剪路径执行记录（用户拍板选项 1）",
+   "project": "双机体系20261101收尾",
+   "phase": "Phase 4 · hermes P1-Mini 激活（另一条线的挂账）",
    "id": "",
    "done": true,
-   "text": "用户显式签字确认关卡 B ⏱0h ｜ 已预签(2026-10-09 会话选项 1)：裁决建议=路径 A 获认可；tar 归档先行，确认性复查留 10-18 窗口闭合",
+   "text": "Mini 53/53 以「代码等价性已证」收口（两树同 commit 06d8b87eaf + MBP 53/53 + tests/cron 1474 绿）；Mini 本地 testenv 建立转挂账（KittenTTS wheel 慢网挂点，见下方新增项） ⏱0.1h",
    "estimate": ""
   },
   {
-   "project": "验证weknora能力与增强现有系统",
-   "phase": "2026-10-09 裁剪路径执行记录（用户拍板选项 1）",
-   "id": "",
-   "done": true,
-   "text": "tar 归档（修订：配置目录替代数据卷——卷已物理不存在，账实不符见决策包勘误节）⏱0.4h ｜ 完成(2026-10-09)：~/backups/weknora-config-20261009.tar.gz 14M/1104 条目/chmod 600；OrbStack daemon 已恢复原态(down)",
-   "estimate": ""
-  },
-  {
-   "project": "验证weknora能力与增强现有系统",
-   "phase": "2026-10-09 裁剪路径执行记录（用户拍板选项 1）",
+   "project": "双机体系20261101收尾",
+   "phase": "Phase 4 · hermes P1-Mini 激活（另一条线的挂账）",
    "id": "",
    "done": false,
-   "text": "10-18 确认性复查（daemon 起 + volume ls 空 + ps -a 空）→ 遗留物归档 → memory 终态 → 任务归档 ⏱0.5h",
+   "text": "Mini 本地 testenv 建立（test-environment gen 首建，KittenTTS wheel 需 ghproxy 或手动预下载入 uv 缓存）→ Mini 侧实跑 53/53 ⏱1h",
+   "estimate": ""
+  },
+  {
+   "project": "双机体系20261101收尾",
+   "phase": "Phase 4 · hermes P1-Mini 激活（另一条线的挂账）",
+   "id": "",
+   "done": false,
+   "text": "首批 cron_budgets.yaml：等用户给 job 名单（default 不设，fail-open） ⏱0.2h",
+   "estimate": ""
+  },
+  {
+   "project": "双机体系20261101收尾",
+   "phase": "Phase 5 · 拍板类（不阻塞，攒一次问完）",
+   "id": "",
+   "done": false,
+   "text": "Mini blockedCommands 加固：hermes/bsk/docker/kubectl 是否加入（agent 候补清单） ⏱0.1h",
+   "estimate": ""
+  },
+  {
+   "project": "双机体系20261101收尾",
+   "phase": "Phase 5 · 拍板类（不阻塞，攒一次问完）",
+   "id": "",
+   "done": false,
+   "text": "DSH policy rules 是否换原型默认 copy/visual 两条（现 observe 模式） ⏱0.1h",
+   "estimate": ""
+  },
+  {
+   "project": "双机体系20261101收尾",
+   "phase": "Phase 5 · 拍板类（不阻塞，攒一次问完）",
+   "id": "",
+   "done": false,
+   "text": "SG hermes 自更新触发器排查（11-01 自更新事故根因） ⏱0.5h",
    "estimate": ""
   }
  ],
@@ -2762,7 +2274,8 @@
    "host": "MacBook-Pro-5.local",
    "ok": true,
    "todo_mtime": "2026-10-19T12:05+08:00",
-   "todo_bytes": 33936
+   "todo_bytes": 33936,
+   "load": "{ 5.83 18.21 18.64 }"
   },
   {
    "role": "Mini",
@@ -2770,13 +2283,13 @@
    "ok": true,
    "todo_mtime": "2026-10-19T12:05",
    "todo_bytes": 33936,
-   "load": "{ 2.25 2.56 2.52 }"
+   "load": "{ 15.17 14.69 14.57 }"
   }
  ],
  "active": {
   "ok": true,
   "gate": {
-   "ts": "2026-11-01T06:30:05+08:00",
+   "ts": "2026-11-04T08:20:07+08:00",
    "verdict": "PASS",
    "fail": 0,
    "warn": 0,
@@ -2785,7 +2298,7 @@
     {
      "id": "G1",
      "name": "选题卡实际投递 ≥8 期",
-     "value": 11,
+     "value": 14,
      "expect": "≥8",
      "status": "PASS"
     },
@@ -2794,10 +2307,10 @@
      "name": "G1 日检器（三源一致 + 期望期数 + 缺卡点名）",
      "value": {
       "verdict": "NO_GAP",
-      "expected_periods": 11,
-      "actual_source_cards": 11,
-      "actual_relay_sent": 11,
-      "actual_relay_am": 11,
+      "expected_periods": 14,
+      "actual_source_cards": 14,
+      "actual_relay_sent": 14,
+      "actual_relay_am": 14,
       "g1_threshold": 8,
       "three_source": "一致",
       "missing_dates": [],
@@ -2817,14 +2330,14 @@
     {
      "id": "G2",
      "name": "CC 管线草稿 ≥3 篇（frontmatter 双字段 + live 目录实存）",
-     "value": 30,
+     "value": 19,
      "expect": "≥3",
      "status": "PASS"
     },
     {
      "id": "G2b",
      "name": "用户评「可发」≥1 篇",
-     "value": 26,
+     "value": 29,
      "expect": "≥1",
      "status": "PASS"
     },
@@ -2838,14 +2351,14 @@
     {
      "id": "G4",
      "name": "structured_count ≥8（归因+目标+证据三件套）",
-     "value": 77,
+     "value": 86,
      "expect": "≥8",
      "status": "PASS"
     },
     {
      "id": "G4b",
      "name": "周反思卡 ≥2 期且每期含四路分布",
-     "value": 4,
+     "value": 5,
      "expect": "≥2",
      "status": "PASS"
     },
@@ -2861,7 +2374,7 @@
     {
      "id": "G4d",
      "name": "g4d_closed ≥1（归因→修正→复验三段齐全）",
-     "value": 25,
+     "value": 27,
      "expect": "≥1",
      "status": "PASS"
     },
@@ -3022,10 +2535,10 @@
   "both": 52
  },
  "sg": {
-  "ok": false,
+  "ok": true,
   "direct_ip": "",
   "direct_country": "",
-  "sg_ip": "",
+  "sg_ip": "43.134.58.205",
   "exit_node": "unknown",
   "socks_port": 13083,
   "http_port": 13084,
