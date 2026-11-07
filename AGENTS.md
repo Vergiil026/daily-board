@@ -48,3 +48,12 @@ ssh -o BatchMode=yes mbp 'source ~/.superagent/tokens.env && curl -s -X POST htt
 2. 下家失败或超时一次即放弃，把失败原样写进 Report，不重试轰炸。
 3. 下家输出原样带回 report，不加工、不删减关键数据。
 4. 先自力后派活——本仓库工具面（bash/gh/read/edit）能干的别麻烦下家。
+## 分级过滤层与剪藏自动分类（NEW 2026-11-07）
+
+**eval 前分工过滤（试点）**：Mini trigger 流可先过 HA 侧本地分类器（Qwen3-0.6B LoRA，naive-workflow 管线，adapter-route 已训；官方评估器 89 条 valid：acc 77.5%，clip 类 P=1.0/R=0.93，dispatch 全灭 P=0）：
+
+- clip 与 chat/query 高置信类直接路由（剪藏走自动归档、闲聊查询快速应答），不进 GLM eval
+- task/dispatch 模糊带照走 GLM eval；fail-open：分类器不可用即全量走 GLM，行为不变
+- v2 迭代：decision 表 709 条喂回 coevolve 补 dispatch/query 数据
+
+**剪藏自动分类已落地（HA 侧）**：`~/scripts/clip_autoclass.py` 双级分类（route 判 clip → clipcls 五分类 paper/tool/eng/guide/other），索引 `~/WIKI/微信剪藏/.clipcls/index.jsonl`，增量+fail-open；试跑 10 篇 clip 判定全对，全量回填 1446 篇进行中。只读剪藏本体、只写索引，不移动文件。
