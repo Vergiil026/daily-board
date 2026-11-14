@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-08T09:39:58+08:00",
- "today": "2026-11-08",
- "weekday": "周日",
+ "generated_at": "2026-11-14T09:06:12+08:00",
+ "today": "2026-11-14",
+ "weekday": "周六",
  "mode": "sanitized",
  "stats": {
   "open_todos": 43,
@@ -2275,7 +2275,7 @@
    "ok": true,
    "todo_mtime": "2026-10-19T12:05+08:00",
    "todo_bytes": 33936,
-   "load": "{ 5.49 7.60 6.21 }"
+   "load": "{ 5.60 7.82 6.28 }"
   },
   {
    "role": "Mini",
@@ -2283,13 +2283,13 @@
    "ok": true,
    "todo_mtime": "2026-10-19T12:05",
    "todo_bytes": 33936,
-   "load": "{ 3.23 3.24 2.69 }"
+   "load": "{ 4.85 5.53 5.04 }"
   }
  ],
  "active": {
   "ok": true,
   "gate": {
-   "ts": "2026-11-08T08:20:25+08:00",
+   "ts": "2026-11-14T08:20:44+08:00",
    "verdict": "PASS",
    "fail": 0,
    "warn": 0,
@@ -2298,7 +2298,7 @@
     {
      "id": "G1",
      "name": "选题卡实际投递 ≥8 期",
-     "value": 17,
+     "value": 23,
      "expect": "≥8",
      "status": "PASS"
     },
@@ -2307,10 +2307,10 @@
      "name": "G1 日检器（三源一致 + 期望期数 + 缺卡点名）",
      "value": {
       "verdict": "NO_GAP",
-      "expected_periods": 17,
-      "actual_source_cards": 17,
-      "actual_relay_sent": 17,
-      "actual_relay_am": 17,
+      "expected_periods": 23,
+      "actual_source_cards": 23,
+      "actual_relay_sent": 23,
+      "actual_relay_am": 23,
       "g1_threshold": 8,
       "three_source": "一致",
       "missing_dates": [],
@@ -2330,14 +2330,14 @@
     {
      "id": "G2",
      "name": "CC 管线草稿 ≥3 篇（frontmatter 双字段 + live 目录实存）",
-     "value": 4,
+     "value": 26,
      "expect": "≥3",
      "status": "PASS"
     },
     {
      "id": "G2b",
      "name": "用户评「可发」≥1 篇",
-     "value": 34,
+     "value": 36,
      "expect": "≥1",
      "status": "PASS"
     },
@@ -2351,14 +2351,14 @@
     {
      "id": "G4",
      "name": "structured_count ≥8（归因+目标+证据三件套）",
-     "value": 103,
+     "value": 117,
      "expect": "≥8",
      "status": "PASS"
     },
     {
      "id": "G4b",
      "name": "周反思卡 ≥2 期且每期含四路分布",
-     "value": 5,
+     "value": 6,
      "expect": "≥2",
      "status": "PASS"
     },
@@ -2542,7 +2542,7 @@
   "exit_node": "tailscale",
   "socks_port": 13083,
   "http_port": 13084,
-  "status_raw": "sg-link status\n===================\nssh host alias   : sg\nsocks5 port      : 13083\nhttp proxy port  : 13084\nrun dir          : ~/.sg-link\nexpected egress  : 43.134.58.205\n\n  ssh socks5 tunnel  :13083  up, pid 56631\n  http bridge        :13084  up, pid 43193\n\n· direct egress       : 120.236.167.196 CN\n· link egress (:13084)  : 43.134.58.205\n  ✓ matches expected SG exit 43.134.58.205\n· exit node          : tailscale not installed\n\nlogs: ~/.sg-link/ssh.log\n      ~/.sg-link/bridge.log\nstatus: healthy (egress 43.134.58.205 via :13084)",
+  "status_raw": "sg-link status\n===================\nssh host alias   : sg\nsocks5 port      : 13083\nhttp proxy port  : 13084\nrun dir          : ~/.sg-link\nexpected egress  : 43.134.58.205\n\n  ssh socks5 tunnel  :13083  up, pid 45449\n  http bridge        :13084  up, pid 91169\n\n· direct egress       : 120.236.167.196 CN\n· link egress (:13084)  : 43.134.58.205\n  ✓ matches expected SG exit 43.134.58.205\n· exit node          : tailscale not installed\n\nlogs: ~/.sg-link/ssh.log\n      ~/.sg-link/bridge.log\nstatus: healthy (egress 43.134.58.205 via :13084)",
   "status_error": ""
  },
  "warnings": []
