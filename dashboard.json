@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-14T09:06:12+08:00",
+ "generated_at": "2026-11-14T09:06:52+08:00",
  "today": "2026-11-14",
  "weekday": "周六",
  "mode": "sanitized",
@@ -2275,7 +2275,7 @@
    "ok": true,
    "todo_mtime": "2026-10-19T12:05+08:00",
    "todo_bytes": 33936,
-   "load": "{ 5.60 7.82 6.28 }"
+   "load": "{ 6.23 7.61 6.27 }"
   },
   {
    "role": "Mini",
@@ -2283,7 +2283,7 @@
    "ok": true,
    "todo_mtime": "2026-10-19T12:05",
    "todo_bytes": 33936,
-   "load": "{ 4.85 5.53 5.04 }"
+   "load": "{ 4.51 5.36 5.00 }"
   }
  ],
  "active": {
@@ -2536,14 +2536,14 @@
  },
  "sg": {
   "ok": true,
-  "direct_ip": "120.236.167.196",
-  "direct_country": "CN",
+  "direct_ip": "",
+  "direct_country": "",
   "sg_ip": "43.134.58.205",
-  "exit_node": "tailscale",
+  "exit_node": "unknown",
   "socks_port": 13083,
   "http_port": 13084,
-  "status_raw": "sg-link status\n===================\nssh host alias   : sg\nsocks5 port      : 13083\nhttp proxy port  : 13084\nrun dir          : ~/.sg-link\nexpected egress  : 43.134.58.205\n\n  ssh socks5 tunnel  :13083  up, pid 45449\n  http bridge        :13084  up, pid 91169\n\n· direct egress       : 120.236.167.196 CN\n· link egress (:13084)  : 43.134.58.205\n  ✓ matches expected SG exit 43.134.58.205\n· exit node          : tailscale not installed\n\nlogs: ~/.sg-link/ssh.log\n      ~/.sg-link/bridge.log\nstatus: healthy (egress 43.134.58.205 via :13084)",
-  "status_error": ""
+  "status_raw": "",
+  "status_error": "✗ status: UNHEALTHY — bridge 127.0.0.1:13084 has no listener (link down) (run 'sg-link.sh up' to self-heal)\n"
  },
  "warnings": []
 }
