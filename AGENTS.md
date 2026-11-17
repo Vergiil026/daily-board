@@ -42,6 +42,14 @@ ssh -o BatchMode=yes mbp 'source ~/.superagent/tokens.env && curl -s -X POST htt
 - 适用：需要 Mini 节点（super-RSI-agent 仓库/Mini HA/oMLX 本地算力）的任务。仅限明确需要对方节点能力的场景。
 - 结果无回复通道：经 Mini 工单 outcome / GitHub PR / MBP 面板观察（superdispatch 亦可查询）。
 
+## 仓库验证（提交前必过）
+
+一条命令全检查：`./check.sh`（dashboard.json 结构 / 约定文件 / markdown 断链，5 秒级）。
+
+- 提交时自动运行：钩子已版本化在 `.githooks/pre-commit`，clone 后启用一次 `git config core.hooksPath .githooks`。
+- 手改 dashboard.json 后务必先跑 check.sh；结构坏了会被钩子拦下。
+- 修数据走 TDD：先让 check.sh 变红（证明检查有效），修绿再提交。
+
 ## 铁律
 
 1. 只派边界清晰的一次性任务；不带任何 secret；不递归派活（下家的下家不存在）。

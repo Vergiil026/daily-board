@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+# 5 秒级提交反馈：跑仓库一键校验，红即拦下。
+# 本仓库钩子已版本化（.githooks/）；clone 后启用一次：
+#   git config core.hooksPath .githooks
+exec "$(git rev-parse --show-toplevel)/check.sh"
